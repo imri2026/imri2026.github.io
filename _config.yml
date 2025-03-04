@@ -1,0 +1,83 @@
+# Conference Website Configuration
+#
+# This config file contains settings for your scientific conference website.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: "15th Interventional MRI Symposium"
+email: "conference2025@example.com"
+description: >- # this means to ignore newlines until "baseurl:"
+  The 15th Interventional MRI Symposium, organized by the Department of Radiology at Brigham and Women's Hospital,
+  brings together radiologists, biomedical engineers, and medical researchers to share advances in MRI-guided interventions and treatments.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: sciconf2025
+github_username: sciconf2025
+
+# Conference details
+conference:
+  dates: "October 5-8, 2026"
+  location: "Brigham and Women's Hospital, Boston, Massachusetts, USA"
+  registration_open: true
+  registration_deadline: "September 15, 2026"
+  abstract_deadline: "June 1, 2026"
+  notification_date: "July 15, 2026"
+  early_bird_deadline: "August 1, 2026"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Collections
+collections:
+  speakers:
+    output: true
+    permalink: /:collection/:name
+  sessions:
+    output: true
+    permalink: /:collection/:name
+  papers:
+    output: true
+    permalink: /:collection/:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "speakers"
+    values:
+      layout: "speaker"
+  - scope:
+      path: ""
+      type: "sessions"
+    values:
+      layout: "session"
+  - scope:
+      path: ""
+      type: "papers"
+    values:
+      layout: "paper"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
