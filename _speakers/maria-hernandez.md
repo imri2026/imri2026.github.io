@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Prof. Maria Hernandez"
-institution: "MIT"
+title: "Prof. Jane Smith"
+institution: "Example Institute of Technology"
 position: "Professor of Quantum Computing"
 image: "/assets/images/speakers/maria-hernandez.jpg"
-bio: "Prof. Maria Hernandez is a pioneer in quantum computing research, focusing on quantum algorithms and quantum error correction. She leads the Quantum Information Science group at MIT and has published groundbreaking work on quantum supremacy."
+bio: "Prof. Jane Smith is a pioneer in quantum computing research, focusing on quantum algorithms and quantum error correction. She leads the Quantum Information Science group at her institution and has published groundbreaking work on quantum computing applications."
 talk_title: "Breakthrough Discoveries in Quantum Computing"
 talk_abstract: "This keynote will present recent breakthroughs in quantum computing, including the development of fault-tolerant quantum processors and novel quantum algorithms with practical applications in cryptography, optimization, and materials science."
 ---
@@ -25,15 +25,15 @@ talk_abstract: "This keynote will present recent breakthroughs in quantum comput
 
 ### Biography
 
-Prof. Maria Hernandez received her Ph.D. in Physics from Stanford University in 2008. She joined MIT in 2010 after a postdoctoral fellowship at IBM Research. Her research focuses on quantum algorithms, quantum error correction, and quantum hardware development.
+Prof. Jane Smith received her Ph.D. in Physics from a top university in 2008. She joined her current institution in 2010 after a postdoctoral fellowship at a major research laboratory. Her research focuses on quantum algorithms, quantum error correction, and quantum hardware development.
 
-Prof. Hernandez has been recognized with numerous awards, including the National Science Foundation CAREER Award, the American Physical Society Young Investigator Award, and the Presidential Early Career Award for Scientists and Engineers (PECASE). She has published over 150 papers in prestigious journals and conferences, and holds several patents in quantum computing technology.
+Prof. Smith has been recognized with numerous awards, including prestigious national research grants and young investigator awards. She has published over 150 papers in prestigious journals and conferences, and holds several patents in quantum computing technology.
 
-In addition to her research, Prof. Hernandez is passionate about promoting diversity in STEM fields and has established several initiatives to encourage women and underrepresented minorities to pursue careers in quantum information science.
+In addition to her research, Prof. Smith is passionate about promoting diversity in STEM fields and has established several initiatives to encourage women and underrepresented minorities to pursue careers in quantum information science.
 
 ### Selected Publications
 
-1. Hernandez, M., et al. (2024). "Fault-Tolerant Quantum Computing with Superconducting Qubits." *Nature Physics*.
-2. Zhang, L., Hernandez, M., et al. (2023). "Quantum Advantage for Matrix Inversion Problems." *Quantum*.
-3. Hernandez, M., & Wilson, R. (2022). "Novel Error Correction Codes for Quantum Memory." *Physical Review Letters*.
-4. Hernandez, M., et al. (2021). "Quantum Algorithms for Machine Learning Applications." *Proceedings of the National Academy of Sciences*.
+1. Smith, J., et al. (2024). "Fault-Tolerant Quantum Computing with Superconducting Qubits." *Nature Physics*.
+2. Zhang, L., Smith, J., et al. (2023). "Quantum Advantage for Matrix Inversion Problems." *Quantum*.
+3. Smith, J., & Wilson, R. (2022). "Novel Error Correction Codes for Quantum Memory." *Physical Review Letters*.
+4. Smith, J., et al. (2021). "Quantum Algorithms for Machine Learning Applications." *Proceedings of the National Academy of Sciences*.
