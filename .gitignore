@@ -1,0 +1,20 @@
+# Jekyll site generated files
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.bundle
+vendor
+
+# Operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Editor/IDE files
+*.swp
+*.swo
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
