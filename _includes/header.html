@@ -5,7 +5,10 @@
 
 <header class="site-header">
   <div class="wrapper">
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <div class="site-branding">
+      <img src="{{ '/images/imri-logo.png' | relative_url }}" alt="{{ site.title }}" class="site-logo" />
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    </div>
     
     <nav class="site-nav">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />

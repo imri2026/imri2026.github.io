@@ -4,8 +4,6 @@ title: Submission Guidelines
 permalink: /submissions/
 ---
 
-# Submission Guidelines
-
 The 15th Interventional MRI Symposium welcomes high-quality research abstracts and papers in all areas related to interventional MRI and image-guided procedures.
 
 ## Important Dates

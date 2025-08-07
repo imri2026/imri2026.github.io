@@ -4,18 +4,16 @@ title: Registration
 permalink: /registration/
 ---
 
-# Registration
-
 Registration for the 15th Interventional MRI Symposium is {% if site.conference.registration_open %}now open{% else %}not yet open{% endif %}.
 
 ## Registration Fees
 
-| Registration Type | Early Bird (until {{ site.conference.early_bird_deadline }}) | Regular |
-|-------------------|-----------------------------------------------------------|---------|
-| Academic | $450 | $550 |
-| Student | $250 | $350 |
-| Industry | $650 | $750 |
-| Virtual Attendance | $200 | $250 |
+| Registration Type          | Early Bird (until {{ site.conference.early_bird_deadline }}) | Standard (After {{ site.conference.early_bird_deadline }} and before {{ site.conference.registration_deadline }})| Late (After {{ site.conference.registration_deadline }}) |
+|----------------------------|-----------------------------------------------------------|---------|----------|
+| Physicians                 | $600 | $650 | $700 | 
+| Professionals              | $500 | $550 | $600 |
+| Students/Residents/Fellows | $300 | $350 | $400 | 
+
 
 ## What's Included
 

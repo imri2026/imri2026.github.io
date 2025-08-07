@@ -1,66 +1,10 @@
 ---
 layout: page
-title: Venue & Travel
+title: Venue & Travel Information
 permalink: /venue/
 ---
 
-# Venue & Travel Information
-
 ## Symposium Venue
-
-The 15th Interventional MRI Symposium will be held at **Hale Building for Transformative Medicine** at **Brigham and Women's Hospital, Boston, Massachusetts, USA**.
-
-### Address
-Hale Building for Transformative Medicine  
-Brigham and Women's Hospital  
-60 Fenwood Road  
-Boston, MA 02115, USA
-
-### Facilities
-
-The Hale Building for Transformative Medicine is a state-of-the-art medical facility equipped with:
-- Main auditorium with seating for 500 attendees
-- 8 breakout rooms for parallel sessions
-- Grand hall for poster sessions and exhibitions
-- High-speed Wi-Fi throughout the venue
-- Accessible facilities for all attendees
-- Dining areas and catering services
-
-## Accommodation
-
-We have negotiated special rates for conference attendees at several hotels near the conference venue:
-
-### Conference Hotels
-
-**Residence Inn Boston Back Bay/Fenway**  
-*Distance to venue: 10-minute walk*  
-Rate: $249/night (includes breakfast)  
-Booking code: IMRI2025  
-[Book Now](#)
-
-**The Inn at Longwood Medical**  
-*Distance to venue: 5-minute walk*  
-Rate: $229/night (includes breakfast)  
-Booking code: IMRI2025  
-[Book Now](#)
-
-**Courtyard Boston Brookline**  
-*Distance to venue: 15-minute walk or 5-minute T ride*  
-Rate: $209/night  
-Booking code: IMRI2025  
-[Book Now](#)
-
-### Budget Options
-
-**Boston Hostelling International**  
-*Distance to venue: 15-minute T ride*  
-Rate: $60-$100/night (depending on room type)  
-[Book Now](#)
-
-**Irving House at Harvard**  
-*Distance to venue: 20-minute T ride*  
-Rate: $120-$160/night  
-[Book Now](#)
 
 ## Travel Information
 
@@ -72,20 +16,6 @@ Transportation options:
 - Taxi/Rideshare: Approximately $30-40, 20-30 minutes depending on traffic
 - MBTA Silver Line to Red Line: $2.40, approximately 40-45 minutes
 - Logan Express shuttle: $7.50, approximately 30 minutes
-
-**T.F. Green Airport (PVD)**  
-*Distance to venue: 60 miles*  
-Transportation options:
-- Taxi/Rideshare: Approximately $120-140, 60-80 minutes
-- MBTA Commuter Rail: $12.25, approximately 90 minutes
-- Shared shuttle: $35, approximately 75 minutes
-
-**Manchester-Boston Regional Airport (MHT)**  
-*Distance to venue: 55 miles*  
-Transportation options:
-- Taxi/Rideshare: Approximately $120-130, 60-75 minutes
-- Bus to Boston: $30, approximately 75 minutes
-- Rental car: Various options available at the airport
 
 ### By Train
 
