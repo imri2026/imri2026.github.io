@@ -4,8 +4,6 @@ title: Keynote Speakers
 permalink: /speakers/
 ---
 
-# Keynote Speakers
-
 Our symposium features distinguished interventional radiologists and MRI specialists from prestigious institutions worldwide who will share their expertise and insights on advanced MRI-guided interventions.
 
 {% for speaker in site.speakers %}
