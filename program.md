@@ -4,13 +4,6 @@ title: Symposium Program
 permalink: /program/
 ---
 
-<div class="hero-banner">
-  <div class="hero-content">
-    <h1>Symposium Program</h1>
-    <p>Explore our comprehensive program of presentations, workshops, and networking events spanning all four days of the symposium.</p>
-  </div>
-</div>
-
 <div class="content-card">
   <p>The 15th Interventional MRI Symposium will be held from <strong>{{ site.conference.dates }}</strong> at <strong>{{ site.conference.location }}</strong>.</p>
 </div>
