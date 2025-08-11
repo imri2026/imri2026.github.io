@@ -6,21 +6,23 @@
 /* Conference Website Styles - Enhanced Design */
 
 /* Variables */
-$primary-color: #4a90e2;
-$secondary-color: #2c5aa0;
+$primary-color: #3783D9;
+$secondary-color: #1B508D;
+$tertiary-color: #8BB7E9;
+$dark-color: #0B2441;
 $accent-color: #f39c12;
 $light-gray: #f8f9fa;
 $dark-gray: #212529;
-$gradient-start: #4a90e2;
-$gradient-end: #2c5aa0;
+$gradient-start: #3783D9;
+$gradient-end: #1B508D;
 $shadow-color: rgba(0, 0, 0, 0.1);
 $warning-color: #f44336;
 
 /* Global Styles */
 body {
   font-family: 'Poppins', 'Roboto', Arial, sans-serif;
-  line-height: 1.7;
-  color: $dark-gray;
+  line-height: 1.5;
+  color: $dark-color;
   background-color: #fff;
   overflow-x: hidden;
   /* Add padding top to allow space for the WIP ribbon */
@@ -86,7 +88,12 @@ a {
   }
   
   &.accent {
-    background: linear-gradient(135deg, $accent-color, darken($accent-color, 15%));
+    background: linear-gradient(135deg, $secondary-color, $dark-color);
+    color: white;
+    
+    &:hover {
+      color: white;
+    }
   }
 }
 
@@ -99,7 +106,7 @@ a {
     
     h2 {
       font-size: 36px;
-      font-weight: 700;
+      font-weight: 500;
       color: $secondary-color;
       position: relative;
       display: inline-block;
@@ -140,7 +147,7 @@ a {
     align-items: center;
     
     .site-logo {
-      height: 50px;
+      height: 70px;
       width: auto;
       margin-right: 15px;
       transition: transform 0.3s ease;
@@ -197,8 +204,8 @@ a {
 }
 
 .conference-banner {
-  background: linear-gradient(135deg, $gradient-start, $gradient-end);
-  color: white;
+  background: $tertiary-color;
+  color: $dark-color;
   padding: 6px 0;
   text-align: center;
   position: relative;
@@ -217,12 +224,12 @@ a {
   
   .conference-dates {
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 500;
     letter-spacing: 1px;
     text-transform: uppercase;
     position: relative;
     z-index: 1;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.1);
+    text-shadow: none;
   }
 }
 
@@ -471,7 +478,7 @@ a {
   
   h1 {
     font-size: 36px;
-    font-weight: 700;
+    font-weight: 500;
     margin-bottom: 30px;
     position: relative;
     padding-bottom: 15px;
@@ -490,7 +497,7 @@ a {
   
   h2 {
     font-size: 28px;
-    font-weight: 700;
+    font-weight: 500;
     margin-top: 40px;
     margin-bottom: 20px;
     position: relative;
@@ -718,9 +725,9 @@ table {
 
 /* Footer */
 .site-footer {
-  background: linear-gradient(135deg, $gradient-end, darken($gradient-end, 10%));
-  color: white;
-  padding: 70px 0 30px;
+  background: $tertiary-color;
+  color: $dark-color;
+  padding: 40px 0 20px;
   position: relative;
   overflow: hidden;
   
@@ -730,8 +737,8 @@ table {
     top: 0;
     left: 0;
     width: 100%;
-    height: 10px;
-    background: linear-gradient(90deg, $accent-color, $primary-color, $secondary-color);
+    height: 4px;
+    background: $secondary-color;
   }
   
   &:after {
@@ -746,7 +753,7 @@ table {
   }
   
   a {
-    color: rgba(255,255,255,0.9);
+    color: $dark-color;
     transition: all 0.3s ease;
     
     &:hover {
@@ -768,7 +775,7 @@ table {
     
     h2 {
       font-size: 20px;
-      font-weight: 700;
+      font-weight: 500;
       margin-bottom: 20px;
       position: relative;
       padding-bottom: 15px;
@@ -836,11 +843,11 @@ table {
   
   .copyright {
     margin-top: 30px;
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    border-top: 1px solid rgba(11, 36, 65, 0.2);
     padding-top: 30px;
     text-align: center;
     font-size: 14px;
-    color: rgba(255,255,255,0.9);
+    color: rgba(11, 36, 65, 0.8);
   }
 }
 
@@ -866,7 +873,7 @@ table {
   
   h3 {
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 500;
     color: $primary-color;
     margin-bottom: 25px;
     background: white;
@@ -878,7 +885,7 @@ table {
   
   h4 {
     font-size: 20px;
-    font-weight: 700;
+    font-weight: 500;
     margin-top: 30px;
     margin-bottom: 15px;
     color: $secondary-color;
