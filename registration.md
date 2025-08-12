@@ -4,7 +4,8 @@ title: Registration
 permalink: /registration/
 ---
 
-Registration for the 15th Interventional MRI Symposium is {% if site.conference.registration_open %}now open{% else %}not yet open{% endif %}.
+Registration for the 15th Interventional MRI Symposium will open in early 2026. The following information is based on the previous symposium in 2024, provided for your reference only, and is subject to change.
+
 
 ## Registration Fees
 
