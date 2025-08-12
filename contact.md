@@ -11,9 +11,8 @@ We're here to help you with any questions you may have about the 15th Interventi
 For general information about the symposium:  
 Email: [{{ site.email }}](mailto:{{ site.email }})
 
-## Organizing Committee
 
 ## Connect With Us
 
-- LinkedIn: [Interventional MRI Symposium](https://linkedin.com/in/sciconf2025)
+- LinkedIn: [Interventional MRI Symposium](https://linkedin.com/company/atncigt)
 
