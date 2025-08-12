@@ -250,11 +250,12 @@ a {
 }
 
 .hero-banner {
-  background: url('/images/amigo.jpeg') center center;
+  background: url('/images/cityscape-boston-downtown-night.jpg') center center;
   background-size: cover;
   background-attachment: fixed;
   color: white;
-  padding: 60px 0 60px;
+  padding: 160px 0 60px;
+  margin-top: 0px;
   margin-bottom: 60px;
   position: relative;
   overflow: hidden;
@@ -292,7 +293,7 @@ a {
       font-weight: 800;
       margin-bottom: 20px;
       color: white;
-      text-shadow: 0 3px 15px rgba(0,0,0,0.5);
+      text-shadow: 0 3px 15px rgba(0,0,0,0.8);
       
       &:after {
         display: none;
@@ -304,7 +305,7 @@ a {
       max-width: 800px;
       margin: 0 auto 30px;
       opacity: 0.95;
-      text-shadow: 0 2px 8px rgba(0,0,0,0.4);
+      text-shadow: 0 2px 8px rgba(0,0,0,0.8);
     }
     
     .btn {

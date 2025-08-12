@@ -6,15 +6,10 @@ title: 15th Interventional MRI Symposium
 <div class="hero-banner">
   <div class="hero-content">
     <h1>15th Interventional MRI Symposium</h1>
-    <p>Join the premier gathering of radiologists, biomedical engineers, and medical researchers from around the world to share advances in MRI-guided interventions and treatments.</p>
+    <p>Jointly organized by Brigham and Women's Hospital, Harvard Medical School, Johns Hopkins University, and the University of Leipzig in close cooperation with Hannover Medical School, the University of Magdeburg, Germany and Emory Healthcare.</p>
     <div class="hero-buttons">
       <a href="/registration" class="btn">Register Now</a>
       <a href="/submissions" class="btn accent">Submit Paper</a>
-    </div>
-    <div class="conference-info">
-      <span><i class="icon-calendar"></i> {{ site.conference.dates }}</span>
-      <span><i class="icon-location"></i> {{ site.conference.location }}</span>
-      <span><i class="icon-organization"></i> Organized by Department of Radiology, Brigham and Women's Hospital</span>
     </div>
   </div>
 </div>
@@ -39,7 +34,8 @@ title: 15th Interventional MRI Symposium
       </div>
       
       <p>The <strong>15th Interventional MRI Symposium</strong> aims to create a platform for radiologists, engineers, and researchers to present their latest findings, exchange ideas, and establish collaborations that will advance the field of MRI-guided interventions.</p>
-      
+
+<!--
       <div class="features-section">
         <div class="features-grid">
           <div class="feature-card">
@@ -91,6 +87,7 @@ title: 15th Interventional MRI Symposium
           </div>
         </div>
       </div>
+      -->
     </div>
     
     <div class="section">
