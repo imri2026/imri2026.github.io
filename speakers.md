@@ -16,8 +16,4 @@ Our symposium features distinguished interventional radiologists and MRI special
 </div>
 {% endfor %}
 
-## Call for Speakers
 
-We are currently finalizing our speaker lineup. If you are interested in giving a keynote or invited talk at the 15th Interventional MRI Symposium, please contact our program committee at [program@example.org](mailto:program@example.org).
-
-**Note:** Current speaker profiles are placeholders and will be updated with confirmed speakers as they are announced.
