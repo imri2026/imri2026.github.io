@@ -19,11 +19,11 @@ github_username: sciconf2025
 conference:
   dates: "October 7-8, 2026"
   location: "The Liberty Hotel, Boston, Massachusetts, USA"
-  registration_open: true
-  registration_deadline: "September 15, 2026"
-  abstract_deadline: "June 1, 2026"
-  notification_date: "July 15, 2026"
-  early_bird_deadline: "August 1, 2026"
+  registration_open: false
+  registration_deadline: "TBA"
+  abstract_deadline: "TBA"
+  notification_date: "TBA"
+  early_bird_deadline: "TBA"
 
 # Build settings
 theme: minima
