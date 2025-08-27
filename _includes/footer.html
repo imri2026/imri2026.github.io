@@ -2,15 +2,6 @@
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <h2>15th Interventional MRI Symposium</h2>
-        <p>Organized by Department of Radiology<br>
-        Brigham and Women's Hospital</p>
-        <p>{{ site.conference.dates }}<br>
-        {{ site.conference.location }}</p>
-        <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-      </div>
-      
-      <div class="footer-col">
         <h2>Quick Links</h2>
         <ul>
           {% for item in site.data.navigation %}
@@ -30,13 +21,14 @@
       </div>
       
       <div class="footer-col">
-        <h2>Follow Us</h2>
-        <ul class="social-media-list">
-          <li><a href="https://www.linkedin.com/company/atncigt/"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> LinkedIn</a></li>
-        </ul>
+        <h2>15th Interventional MRI Symposium</h2>
+        <p>{{ site.conference.dates }}<br>
+        {{ site.conference.location }}</p>
+        <p>Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
       </div>
+
     </div>
-    
+
     <div class="copyright">
       <p>&copy; {{ 'now' | date: "%Y" }} 15th Interventional MRI Symposium. All rights reserved.</p>
     </div>
