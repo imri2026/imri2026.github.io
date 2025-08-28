@@ -4,7 +4,7 @@ title: About the 15th Interventional MRI Symposium
 permalink: /about/
 ---
 
-The **15th Interventional MRI Symposium (iMRI Symposium)** is a biennial meeting for the interventional MRI community jointly organized by the Brigham and Women's Hospital/Harvard Medical School, Johns Hopkins University, and University of Leipzig. The iMRI Symposium provides an ideal platform for researchers, clinicians, healthcare professionals, and students alike to present their latest results. Sessions with both technical and clinical topics are composed of lectures by invited speakers and proffered scientific papers. 
+The **15th Interventional MRI Symposium (iMRI Symposium)** is a biennial meeting for the interventional MRI community jointly organized by the Brigham and Women's Hospital/Harvard Medical School, Johns Hopkins University, and University of Leipzig. The iMRI Symposium provides an ideal platform for researchers, clinicians, healthcare professionals, and students alike to present their latest results. Sessions with both technical and clinical topics are composed of lectures by invited speakers and preferred scientific papers. 
 
 
 ## Meeting Chairs
@@ -24,7 +24,7 @@ Professor of Health Policy and Management Rollins School of Public Health Atlant
 - Harald Busse, Leipzig, Germany
 - Jan Fritz, New York, USA
 - Nobuhiko Hata, Boston, USA
-- Thomas Kahn, Leipzig, Germany﻿
+- Thomas Kahn, Leipzig, Germany
 - Georg Rose, Magdeburg, Germany
 - Oliver Speck, Magdeburg, Germany
 - Frank Wacker, Hannover, Germany
@@ -60,7 +60,7 @@ Professor of Health Policy and Management Rollins School of Public Health Atlant
 The Interventional MRI Symposium has a rich history of bringing together the interventional MRI community:
 
 - 14th Symposium (2024): Annapolis, Maryland, USA
-- 13th Symposium (2022): Leipzig Germany
+- 13th Symposium (2022): Leipzig, Germany
 - 12th Symposium (2018): Boston, Massachusetts, USA
 - 11th Symposium (2016): Baltimore, Maryland, USA
 - 10th Symposium (2014): Leipzig, Germany

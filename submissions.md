@@ -10,70 +10,56 @@ The 15th Interventional MRI Symposium welcomes high-quality research abstracts a
 
 - **Abstract Submission Deadline**: {{ site.conference.abstract_deadline }}
 - **Notification of Acceptance**: {{ site.conference.notification_date }}
-- **Camera-Ready Paper Deadline**: August 30, 2026
+- **Camera-Ready Paper Deadline**: TBA
 - **Symposium Dates**: {{ site.conference.dates }}
 
 ## Topics of Interest
 
 We invite submissions in (but not limited to) the following research areas:
 
-- MRI-Guided Biopsy and Ablation Techniques
 - MR-Compatible Devices and Instruments
 - Novel Interventional MRI Hardware
 - MRI Sequence Development for Interventions
 - Real-Time Imaging and Visualization Methods
 - MR Thermometry and Temperature Monitoring
-- AI and Machine Learning Applications in iMRI
+- AI and Machine Learning Applications in interventional MRI
 - Clinical Applications and Case Studies
 - MRI-Guided Focused Ultrasound
-- Navigation and Tracking Systems
 - Workflow Solutions for Interventional MRI
 
-## Submission Types
+## Abstracts Submission
 
-### Full Papers
-- 6-8 pages in length (including figures, tables, and references)
-- Present original research with significant results
-- Will be considered for oral presentation and/or poster presentation
+The submission will open in the spring of 2026.
 
-### Short Papers
-- 3-4 pages in length (including figures, tables, and references)
-- Present work in progress or preliminary results of ongoing research
-- Will be considered primarily for poster presentation
+Abstracts shall be submitted electronically via a web-based management system, which will be linked in this page when we start accepting submissions. Abstracts must be written in English and are restricted to one printed page. All submissions must follow the conference template and formatting guidelines:
 
-## Formatting Guidelines
-
-All submissions must follow the conference template and formatting guidelines:
-
-1. Use the provided LaTeX or Word template ([Download Templates](#))
+1. Template: A Microsoft Word format will be provided early 2026
 2. Paper size: A4
 3. Margins: 1 inch on all sides
-4. Font: Times New Roman, 11pt
-5. Line spacing: 1.15
-6. Section headings: Bold, 12pt
-7. Figures and tables must be numbered and have captions
-8. Citations and references must follow APA style
+4. Font: Times New Roman, 12pt
+5. Line spacing: 1.0
+6. Title, Authors and Affiliations is mandatory for each abstract and also needs to be entered electronically.
+7. Abstracts shall be organized into sections **Purpose**, **Material and methods**, **Results**, and **Conclusion**. Please do not forget to select your preferred method of presentation (oral or poster) and enter up to five key words into the corresponding website field. 
+8. Figures and tables must be numbered and have captions
+9. Citations and references must follow APA style
+10. Abstracts shall be uploaded in either Microsoft Word (.docx) or PDF format with figures and tables embedded.
 
-## Submission Process
+## Abstract Deadline and Notification
+The submission deadline and the date of acceptance notifications will be announced early 2026. Authors of accepted abstracts are kindly requested to register by August 15, 2026 to be included in the scientific program.
 
-1. Prepare your manuscript according to the formatting guidelines
-2. Remove all identifying information for double-blind review
-3. Convert your final manuscript to PDF format
-4. Submit through the [conference submission system](#)
+## Presentation Format
 
-## Review Process
+All lectures and presentations will be in English.
 
-All submissions will undergo a double-blind peer review process, with each paper being reviewed by at least three members of the program committee. Papers will be evaluated based on:
+**Oral Presentations:** 
+Preferred papers will be formally presented in topical oral sessions. Your total time will be restricted to 10 minutes with 8 minutes for speaking and 2 more minutes for a short discussion. We kindly ask all speakers to strictly respect the time limit. Please prepare your presentation in .PPT format, copy it either on a USB medium and hand it in to one of the technical staff members in the speakers ready room at least one hour before the start of the session.
 
-- Originality and innovation
-- Scientific and technical contribution
-- Methodological rigor
-- Clarity of presentation
-- Relevance to the conference themes
+**Poster Presentations**:
+Posters will be exhibited throughout the meeting. A dedicated poster discussion session will be organized and poster authors are requested to be present throughout that time and to be prepared for questions and discussions. 
 
-## Publication
+## Poster Awards
 
-Accepted papers will be published in the conference proceedings, which will be made available online during the conference. Selected high-quality papers will be invited for extension and submission to special issues of partner journals.
+The details of poster awards will be announced in the spring of 2026. In previous years, three poster prizes were awarded to appreciate the high level of the scientific exhibits.
 
 ## Presentation Requirements
 
