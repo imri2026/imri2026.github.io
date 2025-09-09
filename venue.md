@@ -6,11 +6,13 @@ permalink: /venue/
 
 ## Symposium Venue
 
-TBA
+### The Liberty Hotel
 
-## Travel Information
+- **Address**: 215 Charles St, Boston, MA 02114
+- **Tel**: +1 617-224-4000
+- [Hotel website](https://www.marriott.com/en-us/hotels/boslc-the-liberty-a-luxury-collection-hotel-boston/overview/?nst=paid&cid=PAI_GLB0004YXD_GLE000BIM5_GLF000OETA&ppc=ppc&pId=ustbppc&gclsrc=aw.ds&gad_source=1&gad_campaignid=1658413570&gbraid=0AAAAADilnifCP1aRkLF2RKRonz4SneqR0&gclid=Cj0KCQjwoP_FBhDFARIsANPG24Paz8MOd2OsBqcqfygALrzriLKqucWYHk_X3bEfwHlOnRUNalyQBjMaAsGhEALw_wcB
+)
 
-TBA
 
 
 ## Visa Information

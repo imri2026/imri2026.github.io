@@ -9,28 +9,28 @@ Registration for the 15th Interventional MRI Symposium will open in early 2026. 
 
 ## Registration Fees
 
+Registration fees will be announced Spring 2026.
+
 | Registration Type          | Early Bird (until {{ site.conference.early_bird_deadline }}) | Standard (After {{ site.conference.early_bird_deadline }} and before {{ site.conference.registration_deadline }})| Late (After {{ site.conference.registration_deadline }}) |
 |----------------------------|-----------------------------------------------------------|---------|----------|
-| Physicians                 | $600 | $650 | $700 | 
-| Professionals              | $500 | $550 | $600 |
-| Students/Residents/Fellows | $300 | $350 | $400 | 
+| Physicians                 | TBA | TBA | TBA | 
+| Professionals              | TBA | TBA | TBA |
+| Students/Residents/Fellows | TBA | TBA | TBA | 
 
 
 ## What's Included
 
-- Access to all conference sessions
+- Access to all conference sessions and exhibits
 - Conference materials
 - Coffee breaks and lunches for all conference days
-- Welcome reception
-- Conference dinner (except for virtual attendance)
+- Conference dinner
 - Certificate of attendance
 
 ## Registration Steps
 
-1. Complete the [online registration form](#)
-2. Pay the registration fee
-3. Receive confirmation email with details
-4. For international participants: Check if you need a visa for the country and apply early
+1. Complete the online registration form. (The registration site will be open in 2026)
+2. Receive confirmation email with details
+3. For international participants: Check if you need a visa for the country and apply early
 
 ## Important Dates
 
@@ -46,11 +46,8 @@ Registration for the 15th Interventional MRI Symposium will open in early 2026. 
 
 ## Student Registration
 
-To qualify for the student rate, you must be a full-time student at the time of the conference. Please upload a copy of your valid student ID or a letter from your institution confirming your student status when registering.
+To qualify for the student/resident/fellow rate, you must have a full-time position at the time of the conference. Please upload a copy of document that proves your status (e.g., a valid student ID, a letter from your institution confirming your status) when upon registration.
 
-## Group Registration
-
-For groups of 5 or more participants from the same institution, a 10% discount will be applied to the registration fee. Please contact us at [{{ site.email }}](mailto:{{ site.email }}) to arrange group registration.
 
 ## Contact
 
