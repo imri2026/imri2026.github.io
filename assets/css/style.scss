@@ -1078,18 +1078,63 @@ table {
       }
     }
     
+    .site-nav {
+      width: auto;
+      margin-left: 0;
+      margin-right: 0;
+      
+      .nav-trigger {
+        display: none;
+      }
+      
+      label[for="nav-trigger"] {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 36px;
+        z-index: 2;
+        cursor: pointer;
+        background: white;
+        border: 1px solid #e8e8e8;
+        border-radius: 5px;
+        margin: 10px 20px;
+      }
+      
+      .menu-icon {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 26px;
+        line-height: 0;
+        padding-top: 10px;
+        text-align: center;
+        
+        > svg {
+          fill: $secondary-color;
+          width: 18px;
+          height: 15px;
+        }
+      }
+    }
+    
     .site-title {
-      font-size: 18px;
+      font-size: 22px;
       margin-left: 10px;
+      width: 100vw;
+      margin-left: calc(-50vw + 50% + 10px);
+      line-height: 1.1;
       
       .title-highlight {
-        font-size: 22px;
+        font-size: 26px;
         padding: 8px 15px;
+        line-height: 1.1;
       }
       
       .title-main {
         padding: 8px 20px;
-        font-size: 18px;
+        font-size: 22px;
+        flex: 1;
+        line-height: 1.1;
       }
     }
   }

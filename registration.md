@@ -46,7 +46,7 @@ Registration fees will be announced Spring 2026.
 
 ## Student Registration
 
-To qualify for the student/resident/fellow rate, you must have a full-time position at the time of the conference. Please upload a copy of document that proves your status (e.g., a valid student ID, a letter from your institution confirming your status) when upon registration.
+To qualify for the student/resident/fellow rate, you must have a full-time position at the time of the conference. Please upload a copy of document that proves your status (e.g., a valid student ID, a letter from your institution confirming your status) upon registration.
 
 
 ## Contact
