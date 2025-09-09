@@ -27,7 +27,7 @@ We invite submissions in (but not limited to) the following research areas:
 - MRI-Guided Focused Ultrasound
 - Workflow Solutions for Interventional MRI
 
-## Abstracts Submission
+## Abstract Submission
 
 The submission will open in the spring of 2026.
 

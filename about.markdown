@@ -4,7 +4,7 @@ title: About the 15th Interventional MRI Symposium
 permalink: /about/
 ---
 
-The **15th Interventional MRI Symposium (iMRI Symposium)** is a biennial meeting for the interventional MRI community jointly organized by the Brigham and Women's Hospital/Harvard Medical School, Johns Hopkins University, and University of Leipzig. The iMRI Symposium provides an ideal platform for researchers, clinicians, healthcare professionals, and students alike to present their latest results. Sessions with both technical and clinical topics are composed of lectures by invited speakers and preferred scientific papers. 
+The **15th Interventional MRI Symposium** is a biennial meeting for the interventional MRI community jointly organized by the Brigham and Women's Hospital/Harvard Medical School, Johns Hopkins University, and University of Leipzig. The iMRI Symposium provides an ideal platform for researchers, clinicians, healthcare professionals, and students alike to present their latest results. Sessions with both technical and clinical topics are composed of lectures by invited speakers and preferred scientific papers. 
 
 
 ## Meeting Chairs
@@ -21,38 +21,16 @@ Professor of Health Policy and Management Rollins School of Public Health Atlant
 - **Nobuhiko Hata, PhD**: Professor of Radiology, Harvard Medical School, Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts, United States 
 
 ## Scientific Program Committee
-- Harald Busse, Leipzig, Germany
-- Jan Fritz, New York, USA
-- Nobuhiko Hata, Boston, USA
-- Thomas Kahn, Leipzig, Germany
-- Georg Rose, Magdeburg, Germany
-- Oliver Speck, Magdeburg, Germany
-- Frank Wacker, Hannover, Germany
-- Clifford R. Weiss, Baltimore, USA
+- **Clifford R. Weiss, MD**, Johns Hopkins University, Baltimore, Maryland, United States
+- **Dara Kraitchman, VMD, PhD**, Johns Hopkins University, Baltimore, Maryland, United States
+- **David A. Woodrum, MD, PhD**, Mayo Clinic, Rochester, Minnesota, United States
+- **Jan Fritz, MD**, NYU Langone, New York, New York, United States
+- **Wacker Frank, MD**, Hanover Medical School, Hannover, Germany
+- **Paul Bottomley, PhD**, Johns Hopkins University, Baltimore, Maryland, United States
 
 ## Faculty
-- Roberto Blanco-Sequeiros, Turku, Finland
-- Jeff Bulte, Baltimore, USA
-- Harald Busse, Leipzig, Germany
-- Jan Fritz, New York, USA
-- Jurgen Futterer, Nijmegen, The Netherlands
-- Afshin Gangi, Strasbourg, France
-- Nobuhiko Hata, Boston, USA
-- Ron Kikinis, Boston, USA
-- Kagayaki Kuroda, Hiratsuka, Japan
-- Nathan McDannold, Boston, USA
-- Arya Nabavi, Hannover, Germany
-- Kuberan Pushparajah, London, GB
-- Jens Ricke, Munich, Germany
-- Alexander Schaudinn, Leipzig, Germany
-- Clare Tempany, Boston, USA
-- Kemal Tuncali, Boston, USA
-- Arndt Vogel, Hannover, Germany
-- Frank Wacker, Hannover, Germany
-- Clifford R. Weiss, Baltimore, USA
-- Bradford Wood, Bethesda, USA
-- David Woodrum, Rochester, USA
 
+TBA
 
 
 ## Past Symposia
