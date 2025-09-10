@@ -145,16 +145,25 @@ a {
   background: white;
   border-top: none;
   border-bottom: none;
-  min-height: 80px;
+  min-height: 75px;
   box-shadow: none;
   position: sticky;
   top: 0;
   z-index: 1000;
+  margin: 0;
+  padding: 0;
+  
+  .wrapper {
+    padding: 0;
+    max-width: none;
+  }
   
   .site-branding {
     display: flex;
     align-items: center;
     padding: 0;
+    margin: 0;
+    margin-left: 20px;
     
     .site-logo {
       height: 75px;
@@ -176,13 +185,13 @@ a {
     font-weight: 700;
     color: white;
     letter-spacing: -0.5px;
-    margin-left: 20px;
+    margin-left: 0;
     display: flex;
     align-items: center;
     overflow: hidden;
     position: relative;
     width: 100vw;
-    margin-left: calc(-50vw + 50% + 20px);
+    margin-left: calc(-50vw + 50%);
     
     &:hover {
       text-decoration: none;
@@ -1100,7 +1109,7 @@ table {
         height: 75px;
         z-index: 2;
         cursor: pointer;
-        background: transparent;
+        background: $secondary-color !important;
         border: none;
         margin: 0;
         align-items: center;
@@ -1114,6 +1123,7 @@ table {
         height: 18px;
         line-height: 0;
         text-align: center;
+        background: $secondary-color !important;
         
         > svg {
           fill: white;
@@ -1130,8 +1140,15 @@ table {
         box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         border-radius: 5px;
         padding: 10px;
-        min-width: 150px;
+        min-width: 200px;
         display: none;
+        
+        .page-link {
+          display: block;
+          width: 100%;
+          padding: 8px 0;
+          white-space: nowrap;
+        }
       }
       
       .nav-trigger:checked ~ .trigger {
