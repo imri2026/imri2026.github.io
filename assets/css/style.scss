@@ -1070,12 +1070,16 @@ table {
 @media screen and (max-width: 768px) {
   .site-header {
     .site-branding {
-      padding: 10px 0;
+      padding: 0;
       
       .site-logo {
         height: 50px;
-        margin-right: 15px;
+        margin-right: 20px;
       }
+    }
+    
+    .conference-banner {
+      display: none;
     }
     
     .site-nav {
@@ -1091,7 +1095,7 @@ table {
       }
       
       label[for="nav-trigger"] {
-        display: block;
+        display: flex;
         width: 40px;
         height: 75px;
         z-index: 2;
@@ -1099,9 +1103,9 @@ table {
         background: transparent;
         border: none;
         margin: 0;
-        display: flex;
         align-items: center;
         justify-content: center;
+        position: relative;
       }
       
       .menu-icon {
@@ -1137,9 +1141,10 @@ table {
     
     .site-title {
       font-size: 22px;
-      margin-left: 10px;
+      margin-left: 0;
       width: 100vw;
-      margin-left: calc(-50vw + 50% + 10px);
+      margin-left: calc(-50vw + 50%);
+      margin-right: calc(-50vw + 50%);
       line-height: 1.1;
       position: relative;
       
@@ -1150,10 +1155,12 @@ table {
       }
       
       .title-main {
-        padding: 8px 20px;
+        padding: 8px 60px 8px 20px;
         font-size: 22px;
         flex: 1;
         line-height: 1.1;
+        background: $secondary-color;
+        width: 100vw;
       }
     }
   }
@@ -1203,54 +1210,3 @@ table {
   }
 }
 
-@media screen and (max-width: 576px) {
-  .hero-banner {
-    padding: 60px 0 40px;
-    
-    .hero-content {
-      h1 {
-        font-size: 28px;
-      }
-      
-      p {
-        font-size: 15px;
-      }
-    }
-  }
-  
-  .section-heading {
-    h2 {
-      font-size: 28px;
-    }
-    
-    p {
-      font-size: 15px;
-    }
-  }
-  
-  .page-content {
-    h1 {
-      font-size: 28px;
-    }
-    
-    h2 {
-      font-size: 22px;
-    }
-  }
-  
-  .program-timeline {
-    &:before {
-      left: 15px;
-    }
-    
-    .timeline-item {
-      padding-left: 45px;
-      
-      &:before {
-        left: 5px;
-        width: 20px;
-        height: 20px;
-      }
-    }
-  }
-}
