@@ -315,7 +315,7 @@ a {
 .hero-banner {
   background: url('/images/boston-harbor.jpg') center center;
   background-size: cover;
-  background-attachment: fixed;
+  background-attachment: scroll;
   color: white;
   padding: 100px 0 60px;
   margin: 0;
@@ -1094,7 +1094,7 @@ table {
     .site-nav {
       position: absolute;
       right: 10px;
-      top: 0;
+      top: 12px;
       width: auto;
       margin: 0;
       z-index: 100;
@@ -1106,7 +1106,7 @@ table {
       label[for="nav-trigger"] {
         display: flex;
         width: 40px;
-        height: 75px;
+        height: 50px;
         z-index: 2;
         cursor: pointer;
         background: $secondary-color !important;
@@ -1184,6 +1184,9 @@ table {
   
   .hero-banner {
     padding: 80px 0 60px;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
     
     .hero-content {
       h1 {
