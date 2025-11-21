@@ -8,8 +8,8 @@ title: 15th Interventional MRI Symposium
     <h1>15th Interventional MRI Symposium</h1>
     <p>Jointly organized by Brigham and Women's Hospital, Harvard Medical School, Johns Hopkins University, and the University of Leipzig in close cooperation with Hannover Medical School, the University of Magdeburg, Germany and Emory Healthcare.</p>
     <div class="hero-buttons">
-      <a href="/registration" class="btn">Register Now</a>
-      <a href="/submissions" class="btn accent">Submit Paper</a>
+      <a href="/registration" class="btn">Register (Open in February 2026)</a>
+      <a href="/submissions" class="btn accent">Submit Paper (Open in March 2026)</a>
     </div>
   </div>
 </div>
