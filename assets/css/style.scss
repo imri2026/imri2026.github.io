@@ -921,58 +921,58 @@ table {
 /* Program Timeline */
 /* Program Styles */
 .program-day-container {
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
 
 .program-day {
-  font-size: 32px;
+  font-size: 28px;
   font-weight: 800;
   color: $secondary-color;
-  margin-bottom: 30px;
-  padding-bottom: 15px;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
   border-bottom: 3px solid $accent-color;
   display: inline-block;
 }
 
 .program-timeline {
   position: relative;
-  padding: 30px 0;
+  padding: 15px 0;
   
   h3 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 500;
     color: $primary-color;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
     background: white;
-    padding: 15px 25px;
-    border-radius: 8px;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    padding: 10px 20px;
+    border-radius: 6px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.05);
     display: inline-block;
   }
   
   h4 {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 500;
-    margin-top: 30px;
-    margin-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;
     color: $secondary-color;
     background: linear-gradient(90deg, rgba(30,136,229,0.1), rgba(255,255,255,0));
-    padding: 10px 15px;
-    border-left: 4px solid $primary-color;
-    border-radius: 4px;
+    padding: 8px 12px;
+    border-left: 3px solid $primary-color;
+    border-radius: 3px;
   }
   
   p, ul, ol {
-    margin-left: 20px;
+    margin-left: 15px;
   }
   
   ul {
     list-style: none;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     
     li {
       position: relative;
-      padding: 12px 0 12px 30px;
+      padding: 8px 0 8px 25px;
       border-bottom: 1px dashed #e9ecef;
       
       &:last-child {
@@ -983,7 +983,7 @@ table {
         content: '🕒';
         position: absolute;
         left: 0;
-        top: 12px;
+        top: 8px;
       }
     }
   }
@@ -992,48 +992,48 @@ table {
     display: block;
     color: #6c757d;
     font-style: italic;
-    margin-bottom: 15px;
-    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-left: 15px;
   }
   
   .timeline-item {
     position: relative;
-    padding-left: 60px;
-    margin-bottom: 40px;
+    padding-left: 50px;
+    margin-bottom: 20px;
     background: white;
-    border-radius: 8px;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
-    padding: 25px 30px 25px 70px;
+    border-radius: 6px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+    padding: 15px 20px 15px 55px;
     
     &:before {
       content: '';
       position: absolute;
-      left: 20px;
-      top: 25px;
-      width: 24px;
-      height: 24px;
+      left: 15px;
+      top: 18px;
+      width: 18px;
+      height: 18px;
       border-radius: 50%;
       background: white;
-      border: 4px solid $accent-color;
-      box-shadow: 0 0 0 4px rgba(255,152,0,0.2);
+      border: 3px solid $accent-color;
+      box-shadow: 0 0 0 3px rgba(255,152,0,0.2);
     }
     
     .time {
       display: inline-block;
       background: $accent-color;
       color: white;
-      padding: 5px 15px;
-      border-radius: 20px;
-      font-size: 14px;
+      padding: 3px 12px;
+      border-radius: 15px;
+      font-size: 13px;
       font-weight: 600;
-      margin-bottom: 15px;
+      margin-bottom: 8px;
     }
     
     h3 {
       margin-top: 0;
-      margin-bottom: 10px;
+      margin-bottom: 5px;
       color: $secondary-color;
-      font-size: 22px;
+      font-size: 18px;
       font-weight: 700;
       padding: 0;
       background: transparent;
@@ -1043,17 +1043,19 @@ table {
     
     h4 {
       color: #6c757d;
-      font-size: 16px;
+      font-size: 14px;
       margin-top: 0;
-      margin-bottom: 15px;
+      margin-bottom: 8px;
       background: transparent;
       border-left: none;
       padding: 0;
     }
     
     p {
-      margin-bottom: 10px;
+      margin-bottom: 5px;
       margin-left: 0;
+      font-size: 14px;
+      line-height: 1.4;
     }
   }
 }
