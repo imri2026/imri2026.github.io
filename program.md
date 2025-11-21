@@ -5,7 +5,7 @@ permalink: /program/
 ---
 
 <div class="content-card">
-  <p>Join us for two intensive days of cutting-edge research presentations, networking opportunities, and collaborative discussions on MRI-guided interventions.</p>
+  <p><strong>Please note:</strong> This is a tentative program that will be updated as the symposium program is finalized. </p>
 </div>
 
 <div class="program-day-container">
