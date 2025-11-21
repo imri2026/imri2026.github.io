@@ -28,103 +28,65 @@ title: 15th Interventional MRI Symposium
     </div>
     
     <div class="section">
-      <div class="section-heading">
-        <h2>About The Symposium</h2>
-      </div>
-
-      <p>
-        Launched in 1994 and co-organized biennially by Dr. Thomas Kahn of the University of Leipzig, Dr. Jonathan S. Lewin of Emory University,
-        and Dr. Clare Tempany of Brigham and   Women’s Hospital and Harvard Medical School, the Interventional MRI Symposium has served as
-        a vital platform for physicians, scientists, and industry professionals from around the world. For nearly 30 years, the symposium has
-        brought together experts to discuss the use of magnetic resonance imaging (MRI) for planning, guiding, and monitoring interventions and surgeries.
-      </p>
-      <p>
-        The 15th Interventional MRI Symposium will be held at The Liberty Hotel in downtown Boston. Located in Beacon Hill—a historic district
-        known for its picturesque residential  streets and landmarks such as the Massachusetts State House and Boston Common—the hotel is
-        adjacent to the main campus of Massachusetts General Hospital. With excellent access from Boston Logan Airport, South Station,
-        Interstate 90/93, and U.S. Route 1, it is an ideal location for this international medical conference.
-      </p>
-      <p>
-        This symposium offers an exceptional opportunity to showcase your company and products to physicians and scientists from diverse
-        backgrounds spanning research, industry, and clinical practice. You will have the chance to network, build national and international
-        relationships, obtain valuable feedback, and forge new collaborative paths.
-      </p>
-
-
-<!--
       <div class="features-section">
         <div class="features-grid">
           <div class="feature-card">
-            <div class="feature-icon">
-              <i class="icon-presentation"></i>
+            <div class="feature-image">
+              <img src="/images/feature-about.jpg" alt="About Interventional MRI Symposium">
             </div>
-            <h3>Keynote Presentations</h3>
-            <p>Distinguished speakers from prestigious institutions worldwide will share their expertise and insights on cutting-edge research.</p>
+            <h3><a href="/about">About Interventional MRI Symposium</a></h3>
+            <p>Learn about the history, mission, and vision of the Interventional MRI Symposium spanning nearly 30 years.</p>
           </div>
           
           <div class="feature-card">
-            <div class="feature-icon">
-              <i class="icon-papers"></i>
+            <div class="feature-image">
+              <img src="/images/feature-program.jpg" alt="Program">
             </div>
-            <h3>Research Papers</h3>
-            <p>Present your research through oral and poster presentations across a wide range of scientific disciplines.</p>
+            <h3><a href="/program">Program</a></h3>
+            <p>Explore our comprehensive program featuring keynote presentations, research sessions, and workshops.</p>
           </div>
           
           <div class="feature-card">
-            <div class="feature-icon">
-              <i class="icon-workshop"></i>
+            <div class="feature-image">
+              <img src="/images/feature-submission.jpg" alt="Submission">
             </div>
-            <h3>Workshops</h3>
-            <p>Interactive workshops on emerging techniques, methodologies, and technologies relevant to multiple disciplines.</p>
+            <h3><a href="/submissions">Submission</a></h3>
+            <p>Submit your research through oral and poster presentations across a wide range of scientific disciplines.</p>
           </div>
           
           <div class="feature-card">
-            <div class="feature-icon">
-              <i class="icon-network"></i>
+            <div class="feature-image">
+              <img src="/images/feature-registration.jpg" alt="Registration">
             </div>
-            <h3>Networking</h3>
-            <p>Expand your professional network and establish meaningful collaborations with peers from around the world.</p>
+            <h3><a href="/registration">Registration</a></h3>
+            <p>Register for the symposium and secure your place at this prestigious international medical conference.</p>
           </div>
           
           <div class="feature-card">
-            <div class="feature-icon">
-              <i class="icon-exhibition"></i>
+            <div class="feature-image">
+              <img src="/images/feature-sponsor.jpg" alt="Sponsors">
             </div>
-            <h3>Exhibition</h3>
-            <p>Explore the latest products, services, and technologies from leading companies and organizations.</p>
+            <h3><a href="/sponsors">Sponsors</a></h3>
+            <p>Discover our sponsors and partners who support the advancement of MRI-guided interventions.</p>
           </div>
           
           <div class="feature-card">
-            <div class="feature-icon">
-              <i class="icon-award"></i>
+            <div class="feature-image">
+              <img src="/images/feature-venue.jpg" alt="Venue">
             </div>
-            <h3>Awards</h3>
-            <p>Recognition for outstanding research contributions and presentations across various categories.</p>
+            <h3><a href="/venue">Venue</a></h3>
+            <p>Located at The Liberty Hotel in downtown Boston's historic Beacon Hill district.</p>
           </div>
+          
+          
         </div>
       </div>
-      -->
     </div>
     
     <div class="section">
-      <div class="section-heading">
-        <h2>Research Areas</h2>
-      </div>
-      
-      <div class="research-areas">
-        <ul class="areas-list">
-          <li>MRI-Guided Biopsy and Ablation</li>
-          <li>Interventional MRI Hardware and Devices</li>
-          <li>Software for MRI-Guided Procedures</li>
-          <li>Real-Time Imaging Techniques</li>
-          <li>MR Thermometry and Temperature Monitoring</li>
-          <li>AI Applications in Interventional MRI</li>
-          <li>Clinical Applications and Case Studies</li>
-        </ul>
-      </div>
-      
       <div class="cta-button">
         <a href="/submissions" class="btn">Submit Your Research</a>
+        <a href="/registration" class="btn">Register</a>
       </div>
     </div>
   </div>
