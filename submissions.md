@@ -10,7 +10,6 @@ The 15th Interventional MRI Symposium welcomes high-quality research abstracts a
 
 - **Abstract Submission Deadline**: {{ site.conference.abstract_deadline }}
 - **Notification of Acceptance**: {{ site.conference.notification_date }}
-- **Camera-Ready Paper Deadline**: TBA
 - **Symposium Dates**: {{ site.conference.dates }}
 
 ## Topics of Interest

@@ -4,7 +4,29 @@ title: About the 15th Interventional MRI Symposium
 permalink: /about/
 ---
 
-The **15th Interventional MRI Symposium** is a biennial meeting for the interventional MRI community jointly organized by the Brigham and Women's Hospital/Harvard Medical School, Johns Hopkins University, and University of Leipzig. The iMRI Symposium provides an ideal platform for researchers, clinicians, healthcare professionals, and students alike to present their latest results. Sessions with both technical and clinical topics are composed of lectures by invited speakers and preferred scientific papers. 
+Launched in 1994 and co-organized biennially by Dr. Thomas Kahn of the University of Leipzig, Dr. Jonathan S. Lewin of Emory University,
+and Dr. Clare Tempany of Brigham and   Women’s Hospital and Harvard Medical School, the Interventional MRI Symposium has served as
+a vital platform for physicians, scientists, and industry professionals from around the world. For nearly 30 years, the symposium has
+brought together experts to discuss the use of magnetic resonance imaging (MRI) for planning, guiding, and monitoring interventions and surgeries.
+
+**The 15th Interventional MRI Symposium** will be held at The Liberty Hotel in downtown Boston. Located in Beacon Hill—a historic district
+known for its picturesque residential  streets and landmarks such as the Massachusetts State House and Boston Common—the hotel is
+adjacent to the main campus of Massachusetts General Hospital. With excellent access from Boston Logan Airport, South Station,
+Interstate 90/93, and U.S. Route 1, it is an ideal location for this international medical conference.
+
+This symposium offers an exceptional opportunity to showcase your company and products to physicians and scientists from diverse
+backgrounds spanning research, industry, and clinical practice. You will have the chance to network, build national and international
+relationships, obtain valuable feedback, and forge new collaborative paths.
+
+## Research Areas
+- MRI-Guided Biopsy and Ablation
+- Interventional MRI Hardware and Devices
+- Software for MRI-Guided Procedures
+- Real-Time Imaging Techniques
+- MR Thermometry and Temperature Monitoring
+- AI Applications in Interventional MRI
+- Clinical Applications and Case Studies
+
 
 
 ## Meeting Chairs
