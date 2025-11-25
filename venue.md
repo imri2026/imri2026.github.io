@@ -10,9 +10,12 @@ permalink: /venue/
 
 - **Address**: 215 Charles St, Boston, MA 02114
 - **Tel**: +1 617-224-4000
-- [Hotel website](https://www.marriott.com/en-us/hotels/boslc-the-liberty-a-luxury-collection-hotel-boston/overview/?nst=paid&cid=PAI_GLB0004YXD_GLE000BIM5_GLF000OETA&ppc=ppc&pId=ustbppc&gclsrc=aw.ds&gad_source=1&gad_campaignid=1658413570&gbraid=0AAAAADilnifCP1aRkLF2RKRonz4SneqR0&gclid=Cj0KCQjwoP_FBhDFARIsANPG24Paz8MOd2OsBqcqfygALrzriLKqucWYHk_X3bEfwHlOnRUNalyQBjMaAsGhEALw_wcB
-)
+- [Hotel website](https://www.marriott.com/en-us/hotels/boslc-the-liberty-a-luxury-collection-hotel-boston/overview/)
 
+### About The Venue
+**The 15th Interventional MRI Symposium (iMRI)** will be held at The Liberty Hotel in Downtown Boston. Located in Beacon Hill, a historic district known for its picturesque residential streets and landmarks such as the Massachusetts State House and Boston Common, the hotel sits adjacent to the main campus of Massachusetts General Hospital. With excellent access from Boston Logan Airport, South Station, Interstate 90/93, and US Route 1, it's an ideal location for this international medical conference.
+
+The Liberty Hotel is also renowned for its unique history and stunning architecture. Originally built as the Charles Street Jail in 1851, it housed notable inmates including Malcolm X and former Boston Mayor James Michael Curley. After closing as a jail in 1990, the building was transformed into a luxury hotel in 2007. The property beautifully preserves many original architectural features, offering guests an inspiring experience and providing a unique setting for conferences like iMRI.
 
 
 ## Visa Information
@@ -24,23 +27,31 @@ Upon registration, we can provide a letter of invitation to assist with your vis
 ## Local Attractions
 
 Boston offers numerous historical and cultural attractions for visitors:
-- Museum of Fine Arts (0.5 miles from venue)
-- Fenway Park (0.7 miles from venue)
-- Isabella Stewart Gardner Museum (0.6 miles from venue)
-- Freedom Trail (2 miles from venue)
-- Boston Common and Public Garden (2 miles from venue)
-- Harvard University (1.5 miles from venue)
-- New England Aquarium (4 miles from venue)
 
-## Weather
+- Museums
+  - [Museum of Fine Arts Boston](https://www.mfa.org)
+  - [Isabella Stewart Gardner Museum](https://www.gardnermuseum.org)
+  - [Institute of Contemporary Art / Boston](https://www.icaboston.org)
+  - [Museum of Science](https://www.mos.org)
+  - [USS Constitution Museum](https://ussconstitutionmuseum.org)
+  - [Harvard Museum of Natural History](https://www.hmnh.harvard.edu)
+  - [MIT Museum](https://mitmuseum.mit.edu)
+  - [Museum of Medical History and Innovation](https://www.massgeneral.org/museum)
+  - [Boston Tea Party Ships & Museum](https://www.bostonteapartyship.com)
+- Music
+  - [Boston Symphony Orchestra](https://www.bso.org)
+  - [Boston Ballet](https://www.bostonballet.org/)
+  
+- Sports
+  - [Fenway Park](https://www.mlb.com/redsox/ballpark)
+  - [TD Garden](https://www.tdgarden.com)
+- Walking
+  - [Freedom Trail](https://www.thefreedomtrail.org)
+  - [Boston Common and Public Garden](https://www.boston.gov/parks/public-garden)
+  - [Charles River](https://www.mass.gov/locations/charles-river-reservation)
+  - [Quincy Market](https://www.quincy-market.com)
+- Campuses
+  - [Harvard University](https://www.harvard.edu)
+  - [Massachusetts Institute of Technology](https://www.mit.edu)
 
-In October, Boston typically experiences cool autumn weather:
-- Average high temperature: 60°F (16°C)
-- Average low temperature: 45°F (7°C)
-- Precipitation: Occasional rain showers
-- Fall foliage is typically at its peak
-- We recommend bringing warm clothing and a jacket as temperatures can be chilly
 
-## Contact
-
-For any questions regarding venue or travel, please contact us at [{{ site.email }}](mailto:{{ site.email }}).
