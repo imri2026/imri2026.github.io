@@ -4,19 +4,13 @@ title: About the 15th Interventional MRI Symposium
 permalink: /about/
 ---
 
-Launched in 1994 and co-organized biennially by Dr. Thomas Kahn of the University of Leipzig, Dr. Jonathan S. Lewin of Emory University,
-and Dr. Clare Tempany of Brigham and   Women’s Hospital and Harvard Medical School, the Interventional MRI Symposium has served as
-a vital platform for physicians, scientists, and industry professionals from around the world. For nearly 30 years, the symposium has
-brought together experts to discuss the use of magnetic resonance imaging (MRI) for planning, guiding, and monitoring interventions and surgeries.
-
-**The 15th Interventional MRI Symposium** will be held at The Liberty Hotel in downtown Boston. Located in Beacon Hill—a historic district
-known for its picturesque residential  streets and landmarks such as the Massachusetts State House and Boston Common—the hotel is
-adjacent to the main campus of Massachusetts General Hospital. With excellent access from Boston Logan Airport, South Station,
-Interstate 90/93, and U.S. Route 1, it is an ideal location for this international medical conference.
-
-This symposium offers an exceptional opportunity to showcase your company and products to physicians and scientists from diverse
-backgrounds spanning research, industry, and clinical practice. You will have the chance to network, build national and international
-relationships, obtain valuable feedback, and forge new collaborative paths.
+Co-organized biennially by Dr. Thomas Kahn of the University of Leipzig, Dr. Jonathan S. Lewin of Emory University,
+and Dr. Clare Tempany of Brigham and Women’s Hospital and Harvard Medical School, the Interventional MRI Symposium has
+brought together experts to discuss the use of magnetic resonance imaging (MRI) for planning, guiding, and monitoring
+interventions and surgeries since 1994. This symposium offers an exceptional opportunity to showcase your company and
+products to physicians and scientists from diverse backgrounds spanning research, industry, and clinical practice. 
+You will have the chance to network, build national and international relationships, obtain valuable feedback,
+and forge new collaborative paths.
 
 ## Research Areas
 - MRI-Guided Biopsy and Ablation
@@ -31,10 +25,10 @@ relationships, obtain valuable feedback, and forge new collaborative paths.
 
 ## Meeting Chairs
 
-- **Thomas Kahn, MD** Professor of Radiology, Department of Diagnostic and Interventional Radiology University of Leipzig
+- **Thomas Kahn, MD** Professor of Radiology, Department of Diagnostic and Interventional Radiology, University of Leipzig,
 Leipzig, Germany 
-- **Jonathan Lewin, MD, FACR** Professor of Radiology, Biomedical Engineering, and Neurosurgery Emory School of Medicine,
-Professor of Health Policy and Management Rollins School of Public Health Atlanta, Georgia, United States
+- **Jonathan Lewin, MD, FACR** Professor of Radiology, Biomedical Engineering, and Neurosurgery, Emory School of Medicine,
+Professor of Health Policy and Management, Rollins School of Public Health, Atlanta, Georgia, United States
 - **Clare Tempany, MD** Ferenc Jolesz MD Professor of Radiology, Harvard Medical School, Center Director, National Center for Advanced Technologies Image Guided Therapy, Vice-Chair of Radiology Research, Brigham & Women’s Hospital, Boston, Massachusetts, United States
 
 ## Local Chairs Organizing Committee
