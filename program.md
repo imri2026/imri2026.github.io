@@ -9,7 +9,7 @@ permalink: /program/
 </div>
 
 <div class="program-day-container">
-  <h2 class="program-day">Day 1: October 7, 2026</h2>
+  <h2 class="program-day">Day 1: October 8, 2026</h2>
   
   <div class="program-timeline">
     <div class="timeline-item">
@@ -87,7 +87,7 @@ permalink: /program/
 </div>
 
 <div class="program-day-container">
-  <h2 class="program-day">Day 2: October 8, 2026</h2>
+  <h2 class="program-day">Day 2: October 9, 2026</h2>
   
   <div class="program-timeline">
     <div class="timeline-item">
