@@ -24,29 +24,36 @@ and forge new collaborative paths.
 
 
 ## Meeting Chairs
-
-- **Thomas Kahn, MD** Professor of Radiology, Department of Diagnostic and Interventional Radiology, University of Leipzig,
+- **Thomas Kahn, MD**, Professor of Radiology, Department of Diagnostic and Interventional Radiology, University of Leipzig,
 Leipzig, Germany 
-- **Jonathan Lewin, MD, FACR** Professor of Radiology, Biomedical Engineering, and Neurosurgery, Emory School of Medicine,
+- **Jonathan Lewin, MD, FACR**, Professor of Radiology, Biomedical Engineering, and Neurosurgery, Emory School of Medicine,
 Professor of Health Policy and Management, Rollins School of Public Health, Atlanta, Georgia, United States
-- **Clare Tempany, MD** Ferenc Jolesz MD Professor of Radiology, Harvard Medical School, Center Director, National Center for Advanced Technologies Image Guided Therapy, Vice-Chair of Radiology Research, Brigham & Women’s Hospital, Boston, Massachusetts, United States
+- **Clare Tempany, MD**, Ferenc Jolesz MD Professor of Radiology, Harvard Medical School, Center Director, National Center for Advanced Technologies Image Guided Therapy, Vice-Chair of Radiology Research, Brigham & Women’s Hospital, Boston, Massachusetts, United States
 
-## Local Chairs Organizing Committee
+## Meeting Co-Chair
+- **Nobuhiko Hata, PhD**, Professor of Radiology, Harvard Medical School, Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts, United States 
 
-- **Junichi Tokuda, PhD**: Associate Professor of Radiology, Harvard Medical School, Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts, United States 
-- **Nobuhiko Hata, PhD**: Professor of Radiology, Harvard Medical School, Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts, United States 
+## Organizing Chair
+- **Junichi Tokuda, PhD**, Associate Professor of Radiology, Harvard Medical School, Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts, United States 
 
-## Scientific Program Committee
+## Organizing Committee
+- **Junichi Tokuda, PhD**, Harvard Medical School, Brigham and Women's Hospital, Boston, Massachusetts, United States 
+- **David A. Woodrum, MD, PhD**, Mayo Clinic, Rochester, Minnesota, United States
 - **Clifford R. Weiss, MD**, Johns Hopkins University, Baltimore, Maryland, United States
 - **Dara Kraitchman, VMD, PhD**, Johns Hopkins University, Baltimore, Maryland, United States
-- **David A. Woodrum, MD, PhD**, Mayo Clinic, Rochester, Minnesota, United States
 - **Jan Fritz, MD**, NYU Langone, New York, New York, United States
 - **Wacker Frank, MD**, Hanover Medical School, Hannover, Germany
 - **Paul Bottomley, PhD**, Johns Hopkins University, Baltimore, Maryland, United States
 
+## Local Organizing Committee
+- **Mariana Bernardes, PhD**, Harvard Medical School, Brigham and Women's Hospital, Boston, Massachusetts, United States
+- **Pedro Moreira, PhD**, Harvard Medical School, Brigham and Women's Hospital, Boston, Massachusetts, United States
+
+
+
 ## Faculty
 
-TBA
+- TBD
 
 
 ## Past Symposia
