@@ -4,13 +4,9 @@ title: About the 15th Interventional MRI Symposium
 permalink: /about/
 ---
 
-Co-organized biennially by Dr. Thomas Kahn of the University of Leipzig, Dr. Jonathan S. Lewin of Emory University,
-and Dr. Clare Tempany of Brigham and Women’s Hospital and Harvard Medical School, the Interventional MRI Symposium has
-brought together experts to discuss the use of magnetic resonance imaging (MRI) for planning, guiding, and monitoring
-interventions and surgeries since 1994. This symposium offers an exceptional opportunity to showcase your company and
-products to physicians and scientists from diverse backgrounds spanning research, industry, and clinical practice. 
-You will have the chance to network, build national and international relationships, obtain valuable feedback,
-and forge new collaborative paths.
+Co-organized biennially by Dr. Thomas Kahn of the University of Leipzig, Dr. Jonathan S. Lewin of Emory University, and Dr. Clare Tempany of Brigham and Women’s Hospital and Harvard Medical School, the Interventional MRI (iMRI) Symposium has brought together experts since 1994 to discuss the use of magnetic resonance imaging (MRI) for planning, guiding, and monitoring interventions and surgeries.
+
+The 15th installment of this symposium will be held at The Liberty Hotel in Boston, MA, and will bring together participants who are actively advancing the field of interventional MRI. The meeting offers the interventional MRI community an opportunity to engage with opinion leaders and innovators, reconnect with colleagues, and build new collaborations that will help expand the field. The iMRI Symposium serves as an ideal platform for researchers, clinicians, healthcare professionals, and students to present their latest findings. Sessions covering both technical and clinical topics feature lectures by invited speakers as well as proffered scientific papers.
 
 ## Research Areas
 - MRI-Guided Biopsy and Ablation
