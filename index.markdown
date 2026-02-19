@@ -25,7 +25,8 @@ title: 15th Interventional MRI Symposium
       <h2>Important Dates</h2>
       <ul>
         <li><strong>Abstract Submission Deadline:</strong> {{ site.conference.abstract_deadline }}</li>
-        <li><strong>Notification of Acceptance:</strong> {{ site.conference.notification_date }}</li>
+        <li><strong>Notification of Acceptance:</strong> Within a week after submission (rolling basis)</li>
+        <li><strong>Notification of Presentation Format (oral or poster):</strong> {{ site.conference.notification_date }}</li>
         <li><strong>Early Bird Registration:</strong> {{ site.conference.early_bird_deadline }}</li>
         <li><strong>Registration Deadline:</strong> {{ site.conference.registration_deadline }}</li>
         <li><strong>Conference:</strong> {{ site.conference.dates }}</li>
