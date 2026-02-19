@@ -4,12 +4,17 @@ title: Submission Guidelines
 permalink: /submissions/
 ---
 
+
 The 15th Interventional MRI Symposium welcomes high-quality research abstracts and papers in all areas related to interventional MRI and image-guided procedures.
+
+New this year, papers will be **ACCEPTED ON A ROLLING BASIS** so that authors can begin scheduling their travel earlier. Accepted papers will then be assigned to either oral or poster sessions based on peer review after the submission deadline.
+
 
 ## Important Dates
 
 - **Abstract Submission Deadline**: {{ site.conference.abstract_deadline }}
-- **Notification of Acceptance**: {{ site.conference.notification_date }}
+- **Notification of Acceptance**: Within a week after submission (rolling basis)
+- **Notification of Presentation Format (oral or poster)**: {{ site.conference.notification_date }}
 - **Symposium Dates**: {{ site.conference.dates }}
 
 ## Topics of Interest
@@ -66,7 +71,7 @@ At least one author of each accepted paper must register for the conference and 
 
 ## Ethics Policy
 
-All submitted papers must adhere to high standards of research ethics. The conference follows the ACM Code of Ethics and Professional Conduct. Any form of plagiarism, falsification of data, or other unethical behavior will result in rejection of the paper.
+All submitted papers must adhere to high standards of research ethics and follow [the ICMJE recommendations](https://www.icmje.org/recommendations/). 
 
 ## Contact
 
