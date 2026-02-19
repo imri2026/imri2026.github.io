@@ -4,18 +4,13 @@ title: Registration
 permalink: /registration/
 ---
 
-Registration for the 15th Interventional MRI Symposium will open in early 2026. The following information is based on the previous symposium in 2024, provided for your reference only, and is subject to change.
-
-
 ## Registration Fees
-
-Registration fees will be announced Spring 2026.
 
 | Registration Type          | Early Bird (until {{ site.conference.early_bird_deadline }}) | Standard (After {{ site.conference.early_bird_deadline }} and before {{ site.conference.registration_deadline }})| Late (After {{ site.conference.registration_deadline }}) |
 |----------------------------|-----------------------------------------------------------|---------|----------|
-| Physicians                 | TBA | TBA | TBA | 
-| Professionals              | TBA | TBA | TBA |
-| Students/Residents/Fellows | TBA | TBA | TBA | 
+| Physicians                 | $650 USD | $700 USD | $750 USD | 
+| Professionals              | $550 USD | $600 USD | $650 USD |
+| Students/Residents/Fellows | $350 USD | $400 USD | $450 USD | 
 
 
 ## What's Included
@@ -40,15 +35,18 @@ Registration fees will be announced Spring 2026.
 
 ## Cancellation Policy
 
-- Cancellations made before September 1, 2026: Full refund minus a $50 administrative fee
-- Cancellations made between September 1 and September 20, 2026: 50% refund
-- Cancellations after September 20, 2026: No refund
+- Cancellations made before September 24, 2026: Full refund minus a $55 administrative fee
+- Cancellations after September 24, 2026: No refund
 
 ## Student Registration
 
-To qualify for the student/resident/fellow rate, you must have a full-time position at the time of the conference. Please upload a copy of document that proves your status (e.g., a valid student ID, a letter from your institution confirming your status) upon registration.
+To qualify for the student/resident/fellow rate, you must have a full-time position at the time of the conference. You will be asked to submit a copy of document that proves your status (e.g., a valid student ID, a letter from your institution confirming your status).
 
 
-## Contact
+## Registration
 
-If you have any questions regarding registration, please contact us at [{{ site.email }}](mailto:{{ site.email }}).
+You will jump to an external registration website hosted by Mass General Brigham.
+
+<div class="hero-buttons">
+<a href="https://cpd.partners.org/content/15th-interventional-mri-symposium#group-tabs-node-course-default6" class="btn">Go to Registration</a>
+</div>
