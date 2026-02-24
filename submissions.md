@@ -9,6 +9,14 @@ The 15th Interventional MRI Symposium welcomes high-quality research abstracts a
 
 New this year, papers will be **ACCEPTED ON A ROLLING BASIS** so that authors can begin scheduling their travel earlier. Accepted papers will then be assigned to either oral or poster sessions based on peer review after the submission deadline.
 
+## Submission
+
+You will jump to the submission system hosted by EasyChair.
+
+<div class="hero-buttons">
+<a href="https://easychair.org/conferences/?conf=imri2026" class="btn">Go to Submission Page</a>
+</div>
+
 
 ## Important Dates
 
@@ -37,16 +45,15 @@ The submission will open in the spring of 2026.
 
 Abstracts should be submitted electronically via a web-based management system, which will be linked in this page when we start accepting submissions. Abstracts must be written in English and are restricted to one printed page. All submissions must follow the conference template and formatting guidelines:
 
-1. Template: A Microsoft Word format will be provided early 2026
-2. Paper size: A4
-3. Margins: 1 inch on all sides
-4. Font: Times New Roman, 12pt
-5. Line spacing: 1.0
+1. Template: [iMRI2026-Template.docx](/images/iMRI2026-Template.docx)
+2. Paper size: Letter Size
+3. Margins: 0.7 inch on all sides
+4. Font: Aptos, 11pt
+5. Number of pages: 1
 6. Title, Authors and Affiliations is mandatory for each abstract and also needs to be entered electronically.
 7. Abstracts should be organized into sections **Purpose**, **Material and methods**, **Results**, and **Conclusion**. Please do not forget to select your preferred method of presentation (oral or poster) and enter up to five key words into the corresponding website field. 
 8. Figures and tables must be numbered and have captions
-9. Citations and references must follow APA style
-10. Abstracts should be uploaded in either Microsoft Word (.docx) or PDF format with figures and tables embedded.
+10. Abstracts should be uploaded in **PDF format** with figures and tables embedded.
 
 ## Abstract Deadline and Notification
 The submission deadline and the date of acceptance notifications will be announced early 2026. Authors of accepted abstracts are kindly requested to register by August 15, 2026 to be included in the scientific program.
