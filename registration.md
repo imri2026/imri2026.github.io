@@ -47,6 +47,10 @@ To qualify for the student/resident/fellow rate, you must have a full-time posit
 
 You will jump to an external registration website hosted by Mass General Brigham.
 
+A special room rate will be available for registered attendees. We will communicate the details directly to those who register. Please note that the availability of rooms with the special rate is limited.
+
+
 <div class="hero-buttons">
 <a href="https://cpd.partners.org/content/15th-interventional-mri-symposium#group-tabs-node-course-default6" class="btn">Go to Registration</a>
 </div>
+
