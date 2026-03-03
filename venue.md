@@ -17,6 +17,9 @@ permalink: /venue/
 
 The Liberty Hotel is also renowned for its unique history and stunning architecture. Originally built as the Charles Street Jail in 1851, it housed notable inmates including Malcolm X and former Boston Mayor James Michael Curley. After closing as a jail in 1990, the building was transformed into a luxury hotel in 2007. The property beautifully preserves many original architectural features, offering guests an inspiring experience and providing a unique setting for conferences like iMRI.
 
+### Hotel Reservation
+
+A special room rate will be available for registered attendees. We will communicate the details directly to those who register. Please note that the availability of rooms with the special rate is limited.
 
 ## Visa Information
 
