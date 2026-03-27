@@ -13,8 +13,10 @@ title: 15th Interventional MRI Symposium
       </div>
     </div>
   </div>
-  <div style="text-align: right; padding: 10px 10px; background: rgba(0, 0, 0, 0.3); color: white;">
-    Endosed by ISMRM <img src="/images/ismrm-endorsed-logo.png" width="100pt" alt="ISMRM Endorsed"/>
+  <div style="text-align: right; padding: 5px 5px; background: rgba(0, 0, 0, 0.3); color: white; position: relative; z-index: 1;">
+    Endorsed by ISMRM and ESMRMB 
+    <a href="https://www.ismrm.org" target="_blank"><img src="/images/ismrm-endorsed-logo.png" width="100pt" alt="ISMRM Endorsed"/></a>
+    <a href="https://www.esmrmb.org" target="_blank"><img src="/images/ESMRMB_Logo_white.png" width="100pt" alt="ESMRMB Endorsed"/></a>
   </div>
 </div>
 
