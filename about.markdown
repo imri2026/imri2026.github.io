@@ -18,7 +18,6 @@ The 15th installment of this symposium will be held at The Liberty Hotel in Bost
 - Clinical Applications and Case Studies
 
 
-
 ## Meeting Chairs
 - **Thomas Kahn, MD**, Professor of Radiology, Department of Diagnostic and Interventional Radiology, University of Leipzig,
 Leipzig, Germany 
@@ -26,30 +25,31 @@ Leipzig, Germany
 Professor of Health Policy and Management, Rollins School of Public Health, Atlanta, Georgia, United States
 - **Clare Tempany, MD**, Ferenc Jolesz MD Professor of Radiology, Harvard Medical School, Center Director, National Center for Advanced Technologies Image Guided Therapy, Vice-Chair of Radiology Research, Brigham & Women’s Hospital, Boston, Massachusetts, United States
 
-## Meeting Co-Chair
+## Local Organizing Committee
+- **Junichi Tokuda, PhD (Chair)**, Associate Professor of Radiology, Harvard Medical School, Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts, United States 
+- **Clare Tempany, MD**, Ferenc Jolesz MD Professor of Radiology, Harvard Medical School, Center Director, National Center for Advanced Technologies Image Guided Therapy, Vice-Chair of Radiology Research, Brigham & Women’s Hospital, Boston, Massachusetts, United States
 - **Nobuhiko Hata, PhD**, Professor of Radiology, Harvard Medical School, Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts, United States 
 
-## Organizing Chair
-- **Junichi Tokuda, PhD**, Associate Professor of Radiology, Harvard Medical School, Department of Radiology, Brigham and Women's Hospital, Boston, Massachusetts, United States 
+- **Mariana Bernardes, PhD**, Instructor in Radiology, Harvard Medical School, Brigham and Women's Hospital, Boston, Massachusetts, United States
+- **Pedro Moreira, PhD**, Instructor in Radiology, Harvard Medical School, Brigham and Women's Hospital, Boston, Massachusetts, United States
 
 ## Organizing Committee
-- **Junichi Tokuda, PhD**, Harvard Medical School, Brigham and Women's Hospital, Boston, Massachusetts, United States 
-- **David A. Woodrum, MD, PhD**, Mayo Clinic, Rochester, Minnesota, United States
-- **Clifford R. Weiss, MD**, Johns Hopkins University, Baltimore, Maryland, United States
-- **Dara Kraitchman, VMD, PhD**, Johns Hopkins University, Baltimore, Maryland, United States
-- **Jan Fritz, MD**, NYU Langone, New York, New York, United States
-- **Wacker Frank, MD**, Hanover Medical School, Hannover, Germany
-- **Paul Bottomley, PhD**, Johns Hopkins University, Baltimore, Maryland, United States
-
-## Local Organizing Committee
-- **Mariana Bernardes, PhD**, Harvard Medical School, Brigham and Women's Hospital, Boston, Massachusetts, United States
-- **Pedro Moreira, PhD**, Harvard Medical School, Brigham and Women's Hospital, Boston, Massachusetts, United States
-
+- **Clifford R. Weiss, MD**,Professor of Radiology, Radiological Science and Biomedical Engineering, Division of Interventional Radiology, Johns Hopkins School of Medicine, Baltimore, Maryland, United States 
+- **Dara Kraitchman, VMD, PhD**, Professor of Radiology, Radiological Science and Molecular and Comparative Pathobiology, Division of MR Research, Johns Hopkins School of Medicine, Baltimore, Maryland, United States
+- **Jan Fritz, MD**, Professor of Radiology, Director, Magnetic Resonance Imaging, Department of Radiology, NYU Grossman School of Medicine, New York, New York, United States
+- **Frank Wacker, MD**, Professor and Chairman, Department of Radiology, Imaging Unit, Clinical Research Center Hannover, Hannover Medical School, Hannover, Germany
+- **David A. Woodrum, MD, PhD**, Professor of Radiology, Department of Radiology, Mayo Clinic, Rochester, Minnesota, United States
+- **Georg Rose, PhD**, Professor of Medical Engineering, Chair of Medical Imaging, Director of the Research Campus STIMULATE, Otto-Von-Guericke-University Magdeburg
+Magdeburg, Germany
 
 
 ## Faculty
 
 - TBD
+
+
+## Hosting Institution
+The 15th Interventional MRI Symposium is hotested by the [NIH-funded National Center for Image Guided Therapy](https://www.ncigt.org) at [Brigham and Women's Hospital](https://www.brighamandwomens.org), a Teaching Affiliate of [Harvard Medical School](https://hms.harvard.edu).
 
 
 ## Past Symposia
