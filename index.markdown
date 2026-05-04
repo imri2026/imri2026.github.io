@@ -8,8 +8,8 @@ title: 15th Interventional MRI Symposium
     <h1>15th Interventional MRI Symposium</h1>
     <div style="margin-top: 120px; margin-bottom: 20px;">
       <div class="hero-buttons">
-        <a href="/registration" class="btn">Register (Open in February 2026)</a>
-        <a href="/submissions" class="btn accent">Submit Paper (Open in March 2026)</a>
+        <a href="/registration" class="btn">Registration</a>
+        <a href="/submissions" class="btn accent">Paper Submission</a>
       </div>
     </div>
   </div>
