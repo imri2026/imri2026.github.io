@@ -4,7 +4,7 @@ title: Alternative Hotel Options
 permalink: /hotels/
 ---
 
-We assembled a list of affordable hotel options. The conference venue is steps from the **Charles/MGH station** on the MBTA Red Line, and the hotels on this list are accessible from the venue by walk or using the public transit. October is peak season in Boston — we recommend booking early.
+We understand that hotel rates in Boston can be expensive, particularly in October which is peak season in the city. Participants are encouraged to explore options on major booking sites such as [Expedia](https://www.expedia.com), [Hotels.com](https://www.hotels.com), and [Booking.com](https://www.booking.com) to find rates that suit their budget. This page offers some suggestions on small independent hotels in and around Boston that may provide more affordable alternatives. The conference venue is steps from the **Charles/MGH station** on the MBTA Red Line, and all hotels on this list are accessible from the venue by walking or using public transit. We recommend booking early.
 
 > **Disclaimer:** The hotels listed below are suggestions for your convenience only and are not affiliated with, endorsed by, or sponsored by the 15th Interventional MRI Symposium or its organizers.
 
@@ -23,8 +23,6 @@ We assembled a list of affordable hotel options. The conference venue is steps f
 | [Oasis Guest House](https://www.oasisguesthouse.com) | Fenway | Hynes Convention Center (Green Line, 3 min walk) | Green Line → Park Street → Red Line, ~25 min |
 | [Longwood Inn](https://longwoodinnboston.com) | Brookline | Longwood Medical Area (Green Line D, 5 min walk) | Green Line D → Park Street → Red Line, ~30 min |
 | [Coolidge Corner Guest House](https://www.coolidgecornerguesthouse.com) | Brookline | Coolidge Corner (Green Line C, 5 min walk) | Green Line C → Park Street → Red Line, ~30 min |
-
-> We recommend checking booking sites such as [Expedia](https://www.expedia.com), [Hotels.com](https://www.hotels.com), or [Booking.com](https://www.booking.com) for availability and current rates.
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
