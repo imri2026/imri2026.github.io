@@ -4,7 +4,7 @@ title: Alternative Hotel Options
 permalink: /hotels/
 ---
 
-The conference venue is steps from the **Charles/MGH station** on the MBTA Red Line. The hotels below are along the Red Line and Green Line corridors with good transit access to the venue. October is peak season in Boston — we recommend booking early.
+We assembled a list of affordable hotel options. The conference venue is steps from the **Charles/MGH station** on the MBTA Red Line, and the hotels on this list are accessible from the venue by walk or using the public transit. October is peak season in Boston — we recommend booking early.
 
 > **Disclaimer:** The hotels listed below are suggestions for your convenience only and are not affiliated with, endorsed by, or sponsored by the 15th Interventional MRI Symposium or its organizers.
 
