@@ -12,16 +12,26 @@ We assembled a list of affordable hotel options. The conference venue is steps f
 |-------|----------|----------------|----------------------|
 | [Wyndham Boston Beacon Hill](https://www.wyndhamhotels.com/wyndham/boston-massachusetts/wyndham-boston-beacon-hill/overview) | Beacon Hill | Charles/MGH (Red Line, at hotel) | Walk directly, ~3 min |
 | [Omni Parker House](https://www.omnihotels.com/hotels/boston-parker-house) | Downtown | Park Street (Red Line, 3 min walk) | Red Line → Charles/MGH, ~10 min |
+| [Prospect Place B&B](https://prospectpl.com) | Cambridge | Central Square (Red Line, 5 min walk) | Direct Red Line, ~10 min |
 | [The Godfrey Hotel](https://www.godfreyhotelboston.com) | Downtown | Downtown Crossing (Red Line, 2 min walk) | Red Line → Charles/MGH, ~12 min |
+| [Irving House at Harvard](https://irvinghouse.com) | Cambridge | Harvard Square (Red Line, 7 min walk) | Direct Red Line, ~12 min |
 | [Porter Square Hotel](https://www.theportersquarehotel.com) | Cambridge | Porter Square (Red Line, at hotel) | Direct Red Line, ~15 min, no transfer |
+| [A Cambridge House Inn At Porter](https://acambridgehouseinn.com) | Cambridge | Porter Square (Red Line, 5 min walk) | Direct Red Line, ~15 min |
+| [A Friendly Inn At Harvard](https://www.afriendlyinn.com) | Cambridge | Harvard Square (Red Line, 10 min walk) | Direct Red Line, ~15 min |
+| [HI Boston Hostel](https://www.hiusa.org/find-hostels/massachusetts/boston-19-stuart-street) | Downtown | Boylston (Green Line, 5 min walk) | Green Line → Park Street → Red Line, ~15 min |
 | [Hotel Ivy Boston Common](https://www.hotelivyboston.com) | Theatre District | Boylston (Green Line, 1 block) | Green Line → Park Street → Red Line, ~15 min |
 | [Holiday Inn Express & Suites Boston-Cambridge](https://www.ihg.com/holidayinnexpress/hotels/us/en/cambridge/boscb/hoteldetail) | Cambridge | Lechmere (Green Line, 5 min walk) | Green Line → Park Street → Red Line, ~20 min |
 | [Hampton Inn Boston/Cambridge](https://www.hilton.com/en/hotels/boscahx-hampton-boston-cambridge/) | Cambridge | Lechmere (Green Line, 5 min walk) | Green Line → Park Street → Red Line, ~20 min |
+| [The Davis Square Inn](https://davissquareinn.com) | Somerville | Davis Square (Red Line, 5 min walk) | Direct Red Line, ~20 min |
+| [The Revolution Hotel](https://therevolutionhotel.com) | South End | Copley (Green Line, 10 min walk) | Green Line → Park Street → Red Line, ~20 min |
 | [Eurostars The Boxer](https://www.eurostarshotels.us/eurostars-the-boxer.html) | West End | North Station (Green Line, 2 min walk) | Green Line → Park Street → Red Line, ~20 min |
 | [citizenM Boston North Station](https://www.citizenm.com/hotels/united-states/boston/boston-north-station-hotel/) | West End | North Station (Green Line, 2 min walk) | Green Line → Park Street → Red Line, ~20 min |
 | [YOTEL Boston](https://www.yotel.com/en/hotels/yotel-boston) | Seaport | Courthouse (Silver Line, 5 min walk) | Silver Line → South Station → Red Line, ~25 min |
+| [Oasis Guest House](https://www.oasisguesthouse.com) | Fenway | Hynes Convention Center (Green Line, 3 min walk) | Green Line → Park Street → Red Line, ~25 min |
 | [The Midtown Hotel MOD Collection by Sonesta](https://www.midtownhotel.com) | Back Bay | Symphony (Green Line E, 5 min walk) | Green Line → Park Street → Red Line, ~25 min |
 | [La Quinta Inn & Suites Boston/Somerville](https://www.wyndhamhotels.com/laquinta/somerville-massachusetts/la-quinta-boston-somerville/overview) | Somerville | Sullivan Square (Orange Line, 10 min walk) | Orange Line → Downtown Crossing → Red Line, ~30 min |
+| [Longwood Inn](https://longwoodinnboston.com) | Brookline | Longwood Medical Area (Green Line D, 5 min walk) | Green Line D → Park Street → Red Line, ~30 min |
+| [Coolidge Corner Guest House](https://www.coolidgecornerguesthouse.com) | Brookline | Coolidge Corner (Green Line C, 5 min walk) | Green Line C → Park Street → Red Line, ~30 min |
 
 > We recommend checking booking sites such as [Expedia](https://www.expedia.com), [Hotels.com](https://www.hotels.com), or [Booking.com](https://www.booking.com) for availability and current rates.
 
@@ -60,6 +70,16 @@ We assembled a list of affordable hotel options. The conference venue is steps f
   pin(42.3490, -71.0445, hotelStyle, 'YOTEL Boston', 'Courthouse (Silver Line, 5 min walk)');
   pin(42.3441, -71.0869, hotelStyle, 'The Midtown Hotel MOD Collection by Sonesta', 'Symphony (Green Line E, 5 min walk)');
   pin(42.3857, -71.0990, hotelStyle, 'La Quinta Inn &amp; Suites Boston/Somerville', 'Sullivan Square (Orange Line, 10 min walk)');
+  pin(42.3651, -71.1035, hotelStyle, 'Prospect Place B&amp;B', 'Central Square (Red Line, 5 min walk)');
+  pin(42.3746, -71.1176, hotelStyle, 'Irving House at Harvard', 'Harvard Square (Red Line, 7 min walk)');
+  pin(42.3888, -71.1205, hotelStyle, 'A Cambridge House Inn At Porter', 'Porter Square (Red Line, 5 min walk)');
+  pin(42.3720, -71.1096, hotelStyle, 'A Friendly Inn At Harvard', 'Harvard Square (Red Line, 10 min walk)');
+  pin(42.3521, -71.0621, hotelStyle, 'HI Boston Hostel', 'Boylston (Green Line, 5 min walk)');
+  pin(42.3963, -71.1219, hotelStyle, 'The Davis Square Inn', 'Davis Square (Red Line, 5 min walk)');
+  pin(42.3473, -71.0731, hotelStyle, 'The Revolution Hotel', 'Copley (Green Line, 10 min walk)');
+  pin(42.3435, -71.0892, hotelStyle, 'Oasis Guest House', 'Hynes Convention Center (Green Line, 3 min walk)');
+  pin(42.3375, -71.1074, hotelStyle, 'Longwood Inn', 'Longwood Medical Area (Green Line D, 5 min walk)');
+  pin(42.3314, -71.1212, hotelStyle, 'Coolidge Corner Guest House', 'Coolidge Corner (Green Line C, 5 min walk)');
 
   var group = new L.featureGroup(markers);
   map.fitBounds(group.getBounds().pad(0.12));
