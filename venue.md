@@ -21,6 +21,22 @@ The Liberty Hotel is also renowned for its unique history and stunning architect
 
 A special room rate will be available for registered attendees. We will communicate the details directly to those who register. Please note that the availability of rooms with the special rate is limited.
 
+## Suggested Hotels
+
+The conference venue is steps from the **Charles/MGH station** on the MBTA Red Line. Hotels along the Red Line and Green Line corridors offer easy access. October is peak season in Boston — we recommend booking early. The options below are estimated under $300/night.
+
+| Hotel | Location | MBTA Access |
+|-------|----------|-------------|
+| [La Quinta Inn & Suites Boston/Somerville](https://www.wyndhamhotels.com/laquinta/somerville-massachusetts/la-quinta-boston-somerville/overview) | Somerville | ~10 min walk to Sullivan Sq (Orange Line) or bus to Red Line |
+| [Porter Square Hotel](https://www.theportersquarehotel.com) | Cambridge | At Porter Square (Red Line) |
+| [Holiday Inn Express & Suites Boston-Cambridge](https://www.ihg.com/holidayinnexpress/hotels/us/en/cambridge/boscb/hoteldetail) | Cambridge | Near Central Sq (Red Line) |
+| [Fairfield Inn & Suites Boston Cambridge](https://www.marriott.com/en-us/hotels/bosbg-fairfield-inn-and-suites-boston-cambridge/overview/) | Cambridge | Near Kendall/MIT (Red Line) |
+| [Hampton Inn Boston/Cambridge](https://www.hilton.com/en/hotels/boscahx-hampton-boston-cambridge/) | Cambridge | Near Central Sq (Red Line) |
+
+> **Note:** A limited number of rooms at The Liberty Hotel will be available at a special conference rate for registered attendees. Details will be communicated after registration.
+>
+> Rates are estimates based on typical October pricing and may vary. We recommend checking booking sites such as [Expedia](https://www.expedia.com), [Hotels.com](https://www.hotels.com), or [Booking.com](https://www.booking.com) for availability and current rates.
+
 ## Visa Information
 
 International attendees may require a visa to enter the United States. We recommend checking the [U.S. Department of State website](https://travel.state.gov/content/travel/en/us-visas.html) for visa requirements based on your country of citizenship.
