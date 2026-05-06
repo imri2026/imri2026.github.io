@@ -30,7 +30,7 @@ The 15th Interventional MRI Symposium is made possible through the generous supp
 
 - [CQmedical](https://cqmedical.com/)
 - [Nano4Imaging GmbH](https://www.nano4imaging.com)
-
+- [NordicNeuroLab](https://www.nordicneurolab.com)
 
 
 ## Sponsorship Opportunities
