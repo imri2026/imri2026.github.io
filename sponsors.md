@@ -17,20 +17,19 @@ The 15th Interventional MRI Symposium is made possible through the generous supp
 </table>
 
 
-## Exhibition Sponsors
-
+## Bronz Sponsor
 <table style="width:100%; border:none;">
   <tr>
     <td style="text-align:center; padding:20px; border:none;">
       <a href="https://www.mipm.com/" target="_blank"><img src="/images/sponsors/MIPM.png" width="200px" alt="MIPM"></a>
     </td>
-    <td style="text-align:center; padding:20px; border:none;">
-      <a href="https://cqmedical.com/" target="_blank"><img src="/images/sponsors/CQMedical.png" width="300px" alt="CQMedical"></a>
-    </td>
   </tr>
 </table>
 
+## Exhibitors
 
+- [CQmedical](https://cqmedical.com/)
+- [Nano4Imaging GmbH](https://www.nano4imaging.com)
 
 
 
