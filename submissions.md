@@ -13,10 +13,12 @@ New this year, papers will be **ACCEPTED ON A ROLLING BASIS** so that authors ca
 
 You will jump to the submission system hosted by EasyChair. 
 
-> **Caution:** If you bookmark the submission site, please bookmark **this page** ([https://imri2026.org/submissions/](https://imri2026.org/submissions/)) rather than the EasyChair page. EasyChair may redirect your browser to a session-specific URL that expires, so a bookmark to the EasyChair page may not work in a future session.
-
 <div class="hero-buttons">
 <a href="https://easychair.org/conferences/?conf=imri2026" class="btn">Go to Submission Page</a>
+</div>
+
+<div style="border: 1px solid #e0a800; border-left: 5px solid #e0a800; background: #fffbea; padding: 12px 16px; border-radius: 4px; margin: 1em 0;">
+  <strong>⚠ Caution:</strong> If you bookmark the submission site, please bookmark <strong>this page</strong> (<a href="https://imri2026.org/submissions/">https://imri2026.org/submissions/</a>) rather than the EasyChair page. EasyChair may redirect your browser to a session-specific URL that expires, so a bookmark to the EasyChair page may not work in a future session.
 </div>
 
 
