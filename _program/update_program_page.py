@@ -9,8 +9,8 @@ Defaults:
     input:  program.csv   (same directory as this script)
     output: ../program.md (site root)
 
-Notes rows (type=notes) are attached as supplemental text to the
-preceding timeline item and not rendered as standalone entries.
+Notes rows (type=notes) are folded into the preceding row's title cell
+as supplemental italic sub-text rather than rendered as separate rows.
 """
 
 import csv
@@ -31,15 +31,6 @@ permalink: /program/
 <div class="content-card">
   <p><strong>Please note:</strong> This is a tentative program that will be updated as the symposium program is finalized.</p>
 </div>"""
-
-TYPE_CSS = {
-    'break':        'break',
-    'session':      'session',
-    'invited_talk': 'talk',
-    'keynote':      'talk',
-    'special':      'special',
-    'social':       'social',
-}
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -64,82 +55,65 @@ def fmt_12h(t):
     return f'{h12}:{m:02d} {period}'
 
 
-def fmt_range(start, end):
-    """'09:00', '10:25' → '9:00–10:25 AM'"""
-    if not start:
-        return ''
-    s = fmt_12h(start)
-    if not end:
-        return s
-    e = fmt_12h(end)
-    # Drop the period from the start time when both share the same one
-    if s[-2:] == e[-2:]:
-        return f'{s[:-3]}–{e}'   # en dash
-    return f'{s}–{e}'
-
-
-def fmt_day_label(date_str, day_num):
+def fmt_day_label(date_str):
     try:
         d = datetime.strptime(date_str, '%Y-%m-%d')
-        return f'Day {day_num}: {d.strftime("%B %-d, %Y")}'
+        return d.strftime('%B %-d, %Y')
     except ValueError:
-        return f'Day {day_num}: {date_str}'
+        return date_str
 
 
-def status_html(s):
+def escape(s):
+    """Escape pipe characters so they don't break Markdown table cells."""
+    return (s or '').replace('|', '\\|')
+
+
+def status_text(s):
     s = (s or '').lower()
-    if s == 'confirmed':
-        return ' <span class="status-confirmed">(Confirmed)</span>'
-    if s == 'invited':
-        return ' <span class="status-invited">(Invited)</span>'
-    if s in ('tba', 'tbd'):
-        return ' <span class="status-tbd">(TBD)</span>'
+    if s == 'confirmed': return ' (Confirmed)'
+    if s == 'invited':   return ' (Invited)'
+    if s in ('tba', 'tbd'): return ' (TBD)'
     return ''
 
 # ---------------------------------------------------------------------------
-# HTML rendering per timeline item
+# Markdown row rendering
 # ---------------------------------------------------------------------------
 
-def render_item(row, notes_rows):
+def render_row(row, notes_rows):
     rtype   = (row.get('type', '') or '').lower()
-    title   = row.get('title', '') or ''
-    speaker = row.get('speaker', '') or ''
-    affil   = row.get('affiliation', '') or ''
+    title   = escape(row.get('title',       '') or '')
+    speaker = escape(row.get('speaker',     '') or '')
+    affil   = escape(row.get('affiliation', '') or '')
     status  = row.get('status', '') or ''
-    notes   = row.get('notes', '') or ''
+    notes   = escape(row.get('notes',       '') or '')
     start   = row.get('start', '') or ''
-    end     = row.get('end', '') or ''
+    end     = row.get('end',   '') or ''
 
-    css      = TYPE_CSS.get(rtype, '')
-    time_str = fmt_range(start, end)
+    s = fmt_12h(start)
+    e = fmt_12h(end)
 
-    lines = [f'    <div class="timeline-item {css}">'.rstrip()]
-
-    if time_str:
-        lines.append(f'      <div class="time">{time_str}</div>')
-
-    lines.append(f'      <h3>{title}</h3>')
+    # Title cell: bold title, optional italic speaker + notes lines
+    parts = [f'**{title}**']
 
     if speaker:
         spk = speaker
         if affil:
             spk += f', {affil}'
-        spk += status_html(status)
-        lines.append(f'      <p class="speaker">{spk}</p>')
+        spk += status_text(status)
+        parts.append(f'*{spk}*')
 
     if notes:
-        lines.append(f'      <p>{notes}</p>')
+        parts.append(f'*{notes}*')
 
     for nr in notes_rows:
-        nt = nr.get('title', '') or ''
-        nn = nr.get('notes', '') or ''
-        if nt:
-            lines.append(f'      <p class="session-notes">{nt}</p>')
-        if nn:
-            lines.append(f'      <p class="session-notes">{nn}</p>')
+        nt = escape(nr.get('title', '') or '')
+        nn = escape(nr.get('notes', '') or '')
+        line = '. '.join(filter(None, [nt, nn]))
+        if line:
+            parts.append(f'*{line}*')
 
-    lines.append('    </div>')
-    return '\n'.join(lines)
+    title_md = '<br>'.join(parts)
+    return f'| {s} | {e} | {title_md} |'
 
 # ---------------------------------------------------------------------------
 # Main
@@ -162,12 +136,14 @@ def generate(csv_path, md_path):
 
     for day_num, date in enumerate(day_order, 1):
         day_rows = days[date]
-        out.append('')
-        out.append('<div class="program-day-container">')
-        out.append(f'  <h2 class="program-day">{fmt_day_label(date, day_num)}</h2>')
-        out.append('  <div class="program-timeline">')
 
-        pending      = None
+        out.append('')
+        out.append(f'## Day {day_num}: {fmt_day_label(date)}')
+        out.append('')
+        out.append('| Start | End | Session |')
+        out.append('|-------|-----|---------|')
+
+        pending       = None
         pending_notes = []
 
         for row in day_rows:
@@ -176,15 +152,12 @@ def generate(csv_path, md_path):
                 pending_notes.append(row)
             else:
                 if pending is not None:
-                    out.append(render_item(pending, pending_notes))
+                    out.append(render_row(pending, pending_notes))
                 pending = row
                 pending_notes = []
 
         if pending is not None:
-            out.append(render_item(pending, pending_notes))
-
-        out.append('  </div>')
-        out.append('</div>')
+            out.append(render_row(pending, pending_notes))
 
     out.append('')
 
@@ -194,7 +167,7 @@ def generate(csv_path, md_path):
 
 
 if __name__ == '__main__':
-    args    = sys.argv[1:]
-    csv_in  = args[0] if len(args) > 0 else str(SCRIPT_DIR / 'program.csv')
-    md_out  = args[1] if len(args) > 1 else str(SITE_DIR / 'program.md')
+    args   = sys.argv[1:]
+    csv_in = args[0] if len(args) > 0 else str(SCRIPT_DIR / 'program.csv')
+    md_out = args[1] if len(args) > 1 else str(SITE_DIR / 'program.md')
     generate(csv_in, md_out)
