@@ -41,32 +41,33 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.enums import TA_LEFT, TA_CENTER
 
 # ---------------------------------------------------------------------------
-# Brand colours (matched to the draft booklet)
+# Brand colours
 # ---------------------------------------------------------------------------
-C_DARK   = HexColor('#1F4E79')   # dark navy — header box, col-header bg, accent strip
-C_LIGHT  = HexColor('#BDD7EE')   # light steel blue — day-header row bg
-C_GOLD   = HexColor('#E8A020')   # gold — thin accent strip, "15th"
-C_GRAY_L = HexColor('#F2F2F2')   # light grey — break rows
-C_GRAY   = HexColor('#555555')   # body/note text
+C_DARK   = HexColor('#1F4E79')   # dark navy  — accent strip, col-header bg, header box
+C_LIGHT  = HexColor('#9DC3E6')   # steel blue — day-header row bg
+C_GOLD   = HexColor('#F4A11D')   # amber gold — thin accent strip, "15th"
+C_RULE   = HexColor('#CCCCCC')   # light gray — row separator lines
+C_GRAY_L = HexColor('#F2F2F2')   # very light gray — break row bg
+C_GRAY   = HexColor('#555555')   # medium gray — note/supplemental text
 C_WHITE  = white
 C_BLACK  = black
 
 # ---------------------------------------------------------------------------
 # Page geometry
 # ---------------------------------------------------------------------------
-PAGE_W, PAGE_H = LETTER          # 8.5 × 11 in
+PAGE_W, PAGE_H = LETTER
 M_LEFT  = 0.55 * inch
 M_RIGHT = 0.55 * inch
-M_TOP   = 1.05 * inch            # space reserved for the header
+M_TOP   = 1.05 * inch
 M_BOT   = 0.50 * inch
 
 CONTENT_W = PAGE_W - M_LEFT - M_RIGHT
 
-# Schedule table column widths
-_W_GOLD  = 5 * pt               # thin gold accent strip
-_W_BLUE  = 14 * pt              # dark blue accent strip
-_W_START = 36 * pt              # "Start" time
-_W_END   = 36 * pt              # "End" time
+# Schedule table column widths — cols: [gold | blue | start | end | title]
+_W_GOLD  =  6 * pt
+_W_BLUE  = 20 * pt
+_W_START = 42 * pt
+_W_END   = 42 * pt
 _W_TITLE = CONTENT_W - _W_GOLD - _W_BLUE - _W_START - _W_END
 COL_WIDTHS = [_W_GOLD, _W_BLUE, _W_START, _W_END, _W_TITLE]
 
@@ -78,28 +79,28 @@ LOGO_PATH  = str(SITE_DIR / 'images' / 'imri-logo.png')
 # Typography
 # ---------------------------------------------------------------------------
 def _S(name, **kw):
-    defaults = dict(fontName='Helvetica', fontSize=9, leading=12, textColor=C_BLACK)
+    defaults = dict(fontName='Helvetica', fontSize=9.5, leading=13, textColor=C_BLACK)
     defaults.update(kw)
     return ParagraphStyle(name, **defaults)
 
 S = {
-    'day_hdr':    _S('day_hdr',  fontName='Helvetica-Bold',   fontSize=9,  textColor=C_BLACK),
-    'col_hdr':    _S('col_hdr',  fontName='Helvetica-Bold',   fontSize=9,  textColor=C_WHITE),
-    'time':       _S('time',     fontName='Helvetica',        fontSize=9,  textColor=C_BLACK),
-    'break_t':    _S('break_t',  fontName='Helvetica-Bold',   fontSize=9,  textColor=C_BLACK),
-    'session_t':  _S('session_t',fontName='Helvetica-Bold',   fontSize=10, leading=13, textColor=C_BLACK),
-    'talk_t':     _S('talk_t',   fontName='Helvetica-Bold',   fontSize=9,  textColor=C_BLACK),
-    'speaker':    _S('speaker',  fontName='Helvetica',        fontSize=8.5,leading=11, textColor=C_BLACK),
-    'note':       _S('note',     fontName='Helvetica',        fontSize=8.5,leading=11, textColor=C_GRAY),
-    'special_t':  _S('special_t',fontName='Helvetica-Bold',   fontSize=9,  textColor=C_BLACK),
-    'social_t':   _S('social_t', fontName='Helvetica-Bold',   fontSize=9,  textColor=C_BLACK),
+    'day_hdr':   _S('day_hdr',  fontName='Helvetica-Bold',  fontSize=10,  leading=13, textColor=C_BLACK),
+    'col_hdr':   _S('col_hdr',  fontName='Helvetica-Bold',  fontSize=9,   leading=12, textColor=C_WHITE),
+    'time':      _S('time',     fontName='Helvetica',       fontSize=9.5, leading=13, textColor=C_BLACK),
+    'break_t':   _S('break_t',  fontName='Helvetica-Bold',  fontSize=9.5, leading=13, textColor=C_BLACK),
+    'session_t': _S('session_t',fontName='Helvetica-Bold',  fontSize=11,  leading=14, textColor=C_BLACK),
+    'talk_t':    _S('talk_t',   fontName='Helvetica-Bold',  fontSize=9.5, leading=13, textColor=C_BLACK),
+    'speaker':   _S('speaker',  fontName='Helvetica',       fontSize=9,   leading=12, textColor=C_BLACK),
+    'note':      _S('note',     fontName='Helvetica',       fontSize=9,   leading=12, textColor=C_GRAY),
+    'special_t': _S('special_t',fontName='Helvetica-Bold',  fontSize=9.5, leading=13, textColor=C_BLACK),
+    'social_t':  _S('social_t', fontName='Helvetica-Bold',  fontSize=9.5, leading=13, textColor=C_BLACK),
 }
 
 def P(text, style):
     return Paragraph(text or '', S[style])
 
 # ---------------------------------------------------------------------------
-# Header / footer painted on every page
+# Page header / footer
 # ---------------------------------------------------------------------------
 HEADER_H = 0.80 * inch
 
@@ -111,51 +112,42 @@ def _draw_header(canvas, doc):
     logo_h = 30 * pt
     logo_w = 75 * pt
 
-    # iMRI logo
     try:
         c.drawImage(LOGO_PATH, M_LEFT, y_base,
                     width=logo_w, height=logo_h,
                     preserveAspectRatio=True, anchor='sw', mask='auto')
     except Exception:
-        # Fallback text if image not found
         c.setFont('Helvetica-Bold', 16)
         c.setFillColor(C_DARK)
         c.drawString(M_LEFT, y_base + 8 * pt, 'iMRI')
 
-    # Dark blue title box
     box_x = M_LEFT + logo_w + 6 * pt
     box_w = CONTENT_W - logo_w - 6 * pt
+
     c.setFillColor(C_DARK)
     c.rect(box_x, y_base, box_w, logo_h, fill=1, stroke=0)
 
-    # "15th" in gold
     c.setFillColor(C_GOLD)
     c.setFont('Helvetica-Bold', 17)
     c.drawString(box_x + 8 * pt, y_base + 11 * pt, '15')
     c.setFont('Helvetica-Bold', 10)
     c.drawString(box_x + 29 * pt, y_base + 20 * pt, 'th')
 
-    # "Interventional MRI Symposium"
     c.setFillColor(C_WHITE)
     c.setFont('Helvetica-Bold', 13)
     c.drawString(box_x + 44 * pt, y_base + 14 * pt, 'Interventional MRI Symposium')
-
-    # Sub-line: date + location
     c.setFont('Helvetica', 9)
     c.drawString(box_x + 44 * pt, y_base + 4 * pt, 'October 8–9, 2026, Boston MA')
 
-    # Thin gold rule below header
     c.setStrokeColor(C_GOLD)
     c.setLineWidth(1.5)
     c.line(M_LEFT, y_base - 5 * pt, PAGE_W - M_RIGHT, y_base - 5 * pt)
 
-    # Page number
     c.setFillColor(C_GRAY)
     c.setFont('Helvetica', 9)
     c.drawCentredString(PAGE_W / 2, M_BOT * 0.45, f'– {doc.page} –')
 
     c.restoreState()
-
 
 # ---------------------------------------------------------------------------
 # CSV loading
@@ -167,13 +159,11 @@ def load_csv(path):
 
 
 def fmt_date(date_str):
-    """'2026-10-08' → 'THURSDAY, OCTOBER 8, 2026'"""
     try:
         d = datetime.strptime(date_str, '%Y-%m-%d')
         return d.strftime('%A, %B %-d, %Y').upper()
     except ValueError:
         return date_str.upper()
-
 
 # ---------------------------------------------------------------------------
 # Build the schedule table
@@ -181,17 +171,13 @@ def fmt_date(date_str):
 
 def _status_tag(status):
     s = (status or '').lower()
-    if s == 'confirmed':
-        return ' (<b>Confirmed</b>)'
-    if s == 'invited':
-        return ' (<b>Invited</b>)'
-    if s in ('tba', 'tbd'):
-        return ' (<b>TBD</b>)'
+    if s == 'confirmed': return ' (<b>Confirmed</b>)'
+    if s == 'invited':   return ' (<b>Invited</b>)'
+    if s in ('tba', 'tbd'): return ' (<b>TBD</b>)'
     return ''
 
 
 def _title_cell(row):
-    """Return a list of Paragraphs for the Title column."""
     rtype   = (row.get('type', '') or '').lower()
     title   = row.get('title', '') or ''
     speaker = row.get('speaker', '') or ''
@@ -238,7 +224,6 @@ def _title_cell(row):
 
 
 def build_schedule_table(csv_rows):
-    """Return a reportlab Table representing the full schedule."""
     data = []
     cmds = []
     cur_date = None
@@ -252,32 +237,32 @@ def build_schedule_table(csv_rows):
         start = row.get('start', '') or ''
         end   = row.get('end', '') or ''
 
-        # --- Day header + column header when date changes ----------------
+        # --- Day header (full-width steel blue bar) ----------------------
         if date and date != cur_date:
             cur_date = date
             r = ri()
-            data.append(['', '', Paragraph(fmt_date(date), S['day_hdr']), '', ''])
+            # Span ALL 5 columns so the entire row is one unified light-blue bar
+            data.append([Paragraph(fmt_date(date), S['day_hdr']), '', '', '', ''])
             cmds += [
-                ('SPAN',       (2, r), (4, r)),
-                ('BACKGROUND', (0, r), (0, r), C_GOLD),
-                ('BACKGROUND', (1, r), (1, r), C_DARK),
-                ('BACKGROUND', (2, r), (4, r), C_LIGHT),
-                ('TOPPADDING',    (0, r), (-1, r), 4),
-                ('BOTTOMPADDING', (0, r), (-1, r), 4),
-                ('LEFTPADDING',   (2, r), (2, r),  6),
+                ('SPAN',          (0, r), (-1, r)),
+                ('BACKGROUND',    (0, r), (-1, r), C_LIGHT),
+                ('TOPPADDING',    (0, r), (-1, r), 5),
+                ('BOTTOMPADDING', (0, r), (-1, r), 5),
+                ('LEFTPADDING',   (0, r), (0,  r), _W_GOLD + _W_BLUE + 6),
             ]
 
+            # Column header row (dark blue, "Start | End | Title" in white)
             r = ri()
             data.append(['', '',
                          P('Start', 'col_hdr'),
                          P('End',   'col_hdr'),
                          P('Title', 'col_hdr')])
             cmds += [
-                ('BACKGROUND', (0, r), (-1, r), C_DARK),
-                ('BACKGROUND', (0, r), (0,  r), C_GOLD),
-                ('TOPPADDING',    (0, r), (-1, r), 3),
-                ('BOTTOMPADDING', (0, r), (-1, r), 3),
-                ('LEFTPADDING',   (2, r), (-1, r), 6),
+                ('BACKGROUND',    (0, r), (-1, r), C_DARK),
+                ('BACKGROUND',    (0, r), (0,  r), C_GOLD),
+                ('TOPPADDING',    (0, r), (-1, r), 4),
+                ('BOTTOMPADDING', (0, r), (-1, r), 4),
+                ('LEFTPADDING',   (2, r), (4,  r), 6),
             ]
 
         # --- Content row -------------------------------------------------
@@ -289,35 +274,36 @@ def build_schedule_table(csv_rows):
                      title_content])
 
         cmds += [
-            ('BACKGROUND', (0, r), (0, r), C_GOLD),
-            ('BACKGROUND', (1, r), (1, r), C_DARK),
-            ('VALIGN',     (0, r), (-1, r), 'TOP'),
-            ('TOPPADDING',    (2, r), (-1, r), 4),
-            ('BOTTOMPADDING', (2, r), (-1, r), 5),
+            ('BACKGROUND',    (0, r), (0, r), C_GOLD),
+            ('BACKGROUND',    (1, r), (1, r), C_DARK),
+            ('VALIGN',        (0, r), (-1, r), 'TOP'),
+            ('TOPPADDING',    (2, r), (-1, r), 8),
+            ('BOTTOMPADDING', (2, r), (-1, r), 9),
             ('LEFTPADDING',   (2, r), (3,  r), 6),
-            ('LEFTPADDING',   (4, r), (4,  r), 4),
-            ('RIGHTPADDING',  (4, r), (4,  r), 6),
+            ('LEFTPADDING',   (4, r), (4,  r), 6),
+            ('RIGHTPADDING',  (4, r), (4,  r), 8),
+            # Thin horizontal rule below every content row
+            ('LINEBELOW',     (2, r), (-1, r), 0.25, C_RULE),
         ]
 
         if rtype == 'break':
             cmds.append(('BACKGROUND', (2, r), (4, r), C_GRAY_L))
         elif rtype == 'notes':
+            # Compact padding and slight indent for TBA/notes lines
             cmds += [
-                ('TOPPADDING',    (2, r), (-1, r), 2),
-                ('BOTTOMPADDING', (2, r), (-1, r), 3),
+                ('TOPPADDING',    (2, r), (-1, r), 3),
+                ('BOTTOMPADDING', (2, r), (-1, r), 4),
+                ('LEFTPADDING',   (4, r), (4,  r), 16),
             ]
 
-    # Global table style
+    # Bottom rule on last row
     cmds += [
-        ('FONT',       (0, 0), (-1, -1), 'Helvetica', 9),
-        ('ROWBACKGROUNDS', (2, 0), (4, -1), [C_WHITE, C_WHITE]),  # default white
-        ('LINEBELOW',  (0, -1), (-1, -1), 0.5, C_GRAY),
+        ('LINEBELOW', (0, -1), (-1, -1), 0.5, C_DARK),
     ]
 
     tbl = Table(data, colWidths=COL_WIDTHS, repeatRows=0)
     tbl.setStyle(TableStyle(cmds))
     return tbl
-
 
 # ---------------------------------------------------------------------------
 # Main
@@ -344,8 +330,7 @@ def generate(csv_path, pdf_path):
         PageTemplate(id='schedule', frames=[frame], onPage=_draw_header)
     ])
 
-    tbl = build_schedule_table(csv_rows)
-    doc.build([tbl])
+    doc.build([build_schedule_table(csv_rows)])
     print(f'Generated: {pdf_path}')
 
 
