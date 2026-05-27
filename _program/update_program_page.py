@@ -29,7 +29,7 @@ permalink: /program/
 ---
 
 <div class="content-card">
-  <p><strong>Please note:</strong> This is a tentative program that will be updated as the symposium program is finalized.</p>
+  <p><strong>Please note:</strong> This is a tentative program. The times, speakers, and titles are subject to change.</p>
 </div>"""
 
 # ---------------------------------------------------------------------------
