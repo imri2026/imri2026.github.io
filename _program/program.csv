@@ -1,0 +1,43 @@
+date,start,end,type,title,speaker,affiliation,status,notes
+2026-10-08,07:00,08:00,break,REGISTRATION — BREAKFAST AND VISIT EXHIBIT,,,,
+2026-10-08,08:00,08:15,special,Welcome — Introduction and Goals (M-01),"Clare Tempany, Thomas Kahn, Jonathan Lewin",,,
+2026-10-08,08:15,08:25,special,In Memory of Dr. Harald Busse: Honoring His Contributions to the iMRI Society,,,,
+2026-10-08,08:25,09:10,invited_talk,Keynote Lecture — Ferenc Jolesz Memorial Lecture: Autonomous Robotic Surgery (TBD),Axel Krieger Ph.D.,Johns Hopkins University,confirmed,
+2026-10-08,09:00,10:25,session,Session I — Technology and Practice Building,,,,
+2026-10-08,09:00,09:15,invited_talk,Invited Talk: Building a New Interventional MRI Practice,Erica Knavel Koepsel MD,University of Wisconsin,invited,
+2026-10-08,09:15,09:30,invited_talk,Invited Talk: Safety Considerations for Interventional MRI,Aiming Lu PhD,Mayo Clinic,confirmed,
+2026-10-08,,,notes,Speakers TBA — 2 presentations,,,,"The session will feature invited talks about a research center or a series of research studies focused on technologies for interventional MRI."
+2026-10-08,10:25,11:00,break,Coffee Break and Exhibits,,,,
+2026-10-08,11:00,12:05,session,Session III — Abdominal Interventions,,,,
+2026-10-08,11:00,11:15,invited_talk,"Invited Talk: 0.55T MRI — ""Era of Body MRI, Why Now?""",Frank Wacker MD,Hannover Medical School,confirmed,
+2026-10-08,,,notes,Speakers TBA — 8 presentations,,,,"The session will feature preclinical and clinical studies on thermal ablations (e.g., microwave, laser, cryoablation, high-intensity focused ultrasound (HIFU)), and MR thermometry."
+2026-10-08,12:05,13:30,break,Lunch Break,,,,
+2026-10-08,13:30,15:00,session,Session IV — Poster Presentations,,,,
+2026-10-08,,,notes,Poster presenters TBA,,,,"Poster presentations will take place in the area adjacent to the main conference room. Each presenter can display an up to A0-sized paper poster at a designated poster board. The poster session will feature all aspects of interventional MRI."
+2026-10-08,15:00,15:25,break,Coffee Break and Exhibits,,,,
+2026-10-08,15:25,17:50,session,Session V — Prostate,,,,
+2026-10-08,15:25,15:40,invited_talk,Invited Talk: Prostate Interventions — How I Do It,Jurgen Futterer MD,Radboudumc,confirmed,
+2026-10-08,,,notes,Speakers TBA — 13 presentations,,,,"The session will feature preclinical and clinical studies on MRI-guided prostate interventions, such as thermal ablations, biopsies, and high-intensity focused ultrasound."
+2026-10-08,18:30,20:30,social,Reception,,,,This social event will invite all faculty and registrants to networking and research discussion. Food and beverages will be served.
+2026-10-09,08:30,09:30,session,Session VI — Neuro,,,,
+2026-10-09,08:30,08:45,invited_talk,Invited Talk: MRI-Guided Neurointervention (TBD),Peter LaViolett PhD,Medical College of Wisconsin,invited,
+2026-10-09,,,notes,Speakers TBA — 4 presentations,,,,"The session will feature technologies for and applications of MRI-guided neurosurgery and interventions, such as laser interstitial thermal therapy (LITT) and high-intensity focused ultrasound."
+2026-10-09,09:30,10:00,break,Coffee Break and Visit Exhibits,,,,
+2026-10-09,10:00,10:40,session,Session VII — Focused Ultrasound (FUS),,,,
+2026-10-09,10:00,10:15,invited_talk,Invited Talk: MR-Guided Focused Ultrasound Blood-Brain Barrier Opening for Next-Generation Gene Therapy Delivery Paradigms,Nicholas Todd PhD,Brigham and Women's Hospital / Harvard Medical School,confirmed,
+2026-10-09,,,notes,Speakers TBA — 4 presentations,,,,"The session will feature MRI-guided diagnosis and treatment for female-specific diseases, such as breast cancer, gynecologic cancer, and uterine fibroids."
+2026-10-09,10:40,11:40,session,Session VIII — Musculoskeletal,,,,
+2026-10-09,10:40,10:55,invited_talk,Invited Talk: MR Neurography-Guided Interventions (TBD),Jan Fritz MD,New York University Grossman School of Medicine,invited,
+2026-10-09,,,notes,Speakers TBA — 5 presentations,,,,"This session will feature MRI-guided minimally invasive treatment of musculoskeletal disease, such as bone tumor ablations, desmoid tumor ablation, meniscal tear repair, and tendon rapture repair."
+2026-10-09,11:40,13:10,break,Lunch Break,,,,
+2026-10-09,13:10,14:45,session,Session IX — Cardiac,,,,
+2026-10-09,13:10,13:25,invited_talk,Invited Talk: Interventional Cardiac MR for Congenital Heart Disease — Is 0.55T the Answer?,Aimee Armstrong MD,Johns Hopkins University,confirmed,
+2026-10-09,,,notes,Speakers TBA — 8 presentations,,,,"This session will focus on development and clinical application of MRI-guided cardiac interventions, such as ablation of cardiac arrhythmia."
+2026-10-09,14:45,15:00,break,Coffee Break and Visit Exhibits,,,,
+2026-10-09,15:00,16:00,session,Session X — MR Thermometry,,,,
+2026-10-09,,,notes,Speakers TBA — 6 presentations,,,,"This session will feature MRI-guided interventions of the liver, including biopsy, thermal ablations (microwave, cryoablation), and radiotherapy."
+2026-10-09,16:00,17:10,session,Session XI — Robotics,,,,
+2026-10-09,16:00,16:15,invited_talk,Invited Talk: MRI-Guided Robotic Systems (TBD),Kevin Cleary PhD,Children's National,invited,
+2026-10-09,,,notes,Speakers TBA — 6 presentations,,,,"This technology-focused session will highlight development and clinical application of robotic systems for MRI-guided interventions."
+2026-10-09,17:10,17:30,special,Poster Awards and Conclusion,,,,
+2026-10-09,17:30,,special,Adjourn,,,,

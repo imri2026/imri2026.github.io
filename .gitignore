@@ -11,6 +11,10 @@ vendor
 Thumbs.db
 ehthumbs.db
 
+# Program generation
+_program/.venv/
+_program/iMRI2026-program.pdf
+
 # Editor/IDE files
 *.swp
 *.swo
