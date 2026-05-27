@@ -1057,6 +1057,23 @@ table {
       font-size: 14px;
       line-height: 1.4;
     }
+
+    .speaker {
+      color: #555;
+      margin-bottom: 4px;
+    }
+
+    .session-notes {
+      color: #888;
+      font-size: 13px;
+      font-style: italic;
+      margin-bottom: 3px;
+      line-height: 1.4;
+    }
+
+    .status-confirmed { color: $secondary-color; font-weight: 600; }
+    .status-invited   { color: $primary-color; }
+    .status-tbd       { color: #888; }
   }
 }
 
