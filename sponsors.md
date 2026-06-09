@@ -16,6 +16,17 @@ The 15th Interventional MRI Symposium is made possible through the generous supp
   </tr>
 </table>
 
+## Gold Sponsor
+
+<table style="width:100%; border:none;">
+  <tr>
+    <td style="text-align:center; padding:20px; border:none;">
+      <a href="https://www.siemens-healthineers.com/magnetic-resonance-imaging/mri-guided-therapy" target="_blank"><img src="/images/sponsors/siemens.png" width="300px" alt="Cook Medical"></a>
+    </td>
+  </tr>
+</table>
+
+
 ## Bronze Sponsor
 <table style="width:100%; border:none;">
   <tr>
@@ -36,6 +47,7 @@ The 15th Interventional MRI Symposium is made possible through the generous supp
 
 - [CQmedical](https://cqmedical.com/)
 - [NordicNeuroLab](https://www.nordicneurolab.com)
+- [IMRIS](https://www.imris.com)
 
 
 ## Sponsorship Opportunities
