@@ -48,6 +48,7 @@ The 15th Interventional MRI Symposium is made possible through the generous supp
 - [CQmedical](https://cqmedical.com/)
 - [NordicNeuroLab](https://www.nordicneurolab.com)
 - [IMRIS](https://www.imris.com)
+- [IMRICOR](https://imricor.com)
 
 
 ## Sponsorship Opportunities
