@@ -54,7 +54,7 @@ permalink: /program/
 | 2:45 PM | 3:00 PM | **Coffee Break and Visit Exhibits** |
 | 3:00 PM | 4:00 PM | **Session X — MR Thermometry**<br>*This session will feature MRI-guided interventions of the liver, including biopsy, thermal ablations (microwave, cryoablation), and radiotherapy.* |
 | 4:00 PM | 5:10 PM | **Session XI — Robotics** |
-| 4:00 PM | 4:15 PM | **Invited Talk:(TBA)** |
+| 4:00 PM | 4:15 PM | **Invited Talk: MRI-Guided Robotics to Enable Interventions** <br>*Kevin Cleary PhD, Children's National Hospital (Confirmed)* |
 | 4:15 PM | 5:10 PM | **Speakers TBA — 6 presentations**<br>*This technology-focused session will highlight development and clinical application of robotic systems for MRI-guided interventions.* |
 | 5:10 PM | 5:30 PM | **Poster Awards and Conclusion** |
 | 5:30 PM |  | **Adjourn** |
