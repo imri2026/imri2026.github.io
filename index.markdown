@@ -83,10 +83,9 @@ title: 15th Interventional MRI Symposium
               <img src="/images/feature-venue.jpg" alt="Venue">
             </div>
             <h3><a href="/venue">Venue</a></h3>
-            <p>Located at The Liberty Hotel in downtown Boston's historic Beacon Hill district.</p>
+            <p><a href="https://www.marriott.com/en-us/hotels/boslc-the-liberty-a-luxury-collection-hotel-boston/overview/">The Liberty Hotel</a> in downtown Boston's historic Beacon Hill district.</p>
           </div>
-          
-          
+                    
         </div>
       </div>
     </div>

@@ -18,7 +18,7 @@ github_username: sciconf2025
 # Conference details
 conference:
   dates: "October 8-9, 2026"
-  location: "The Liberty Hotel, Boston, Massachusetts, USA"
+  location: '<a href="https://www.marriott.com/en-us/hotels/boslc-the-liberty-a-luxury-collection-hotel-boston/overview/" class="venue-link">The Liberty Hotel, Boston, Massachusetts, USA</a>'
   registration_open: "Early February, 2026"
   registration_deadline: "October 8, 2026"
   abstract_deadline: "<s>June 21, 2026</s> <strong>July 5, 2026</strong>"
