@@ -309,6 +309,20 @@ a {
     position: relative;
     z-index: 1;
     text-shadow: none;
+
+    a.venue-link {
+      color: white;
+      text-decoration: underline;
+
+      &:visited {
+        color: white;
+      }
+
+      &:hover,
+      &:focus {
+        color: $accent-color;
+      }
+    }
   }
 }
 

@@ -19,7 +19,11 @@ The Liberty Hotel is also renowned for its unique history and stunning architect
 
 ### Hotel Reservation
 
-Rooms at the special rate of $459/night will be available for registered attendees. We will communicate the details directly to those who register. Please note that the availability of rooms with is limited.
+You can book a guest room at The Liberty Hotel from the following page:
+- [Hotel Website](https://www.marriott.com/en-us/hotels/boslc-the-liberty-a-luxury-collection-hotel-boston/overview/) 
+
+Rooms at the special rate of $459/night will be available for registered attendees. Please contact [info@imri2026.org](mailto:info@imri2026.org) with your arrival and departure dates to check room availability. 
+
 
 We understand that hotel rates in Boston can be expensive, particularly in October which is peak season in the city. Participants may explore options on major booking sites such as [Expedia](https://www.expedia.com), [Hotels.com](https://www.hotels.com), and [Booking.com](https://www.booking.com) to find rates that suit their budget. You can also check [our list of alternative hotel options](/hotels/). 
 
