@@ -86,8 +86,11 @@ permalink: /program/
 <table class="program-session-table">
 <caption>
 <span class="session-name">Session III — Poster Presentations</span>
-<span class="session-notes">All poster-assigned abstracts are presented in the area adjacent to the main conference room; each presenter is assigned the full 90-minute session.</span>
 </caption>
+<thead><tr><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
+<tbody>
+<tr><td>1:00 PM</td><td>2:30 PM</td><td><strong>Poster Presentations</strong><br><em>All poster-assigned abstracts are presented in the area adjacent to the main conference room; each presenter is assigned the full 90-minute session.</em></td></tr>
+</tbody>
 </table>
 
 | Start | End | Item |
