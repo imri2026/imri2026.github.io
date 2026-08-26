@@ -11,9 +11,17 @@ Defaults:
 
 Notes rows (type=notes) are folded into the preceding row's title cell
 as supplemental italic sub-text rather than rendered as separate rows.
+
+Each `session` row becomes its own HTML table: the session name and
+moderators are merged into the table's own <caption> header, followed by
+a Start/End/Presentation body listing its invited_talk/oral/keynote
+children (omitted for sessions with none, e.g. the poster block). Other
+rows (break, special, social) render as standalone single-row 'note'
+tables between sections.
 """
 
 import csv
+import html
 import sys
 from pathlib import Path
 from datetime import datetime
@@ -75,31 +83,109 @@ def status_text(s):
     if s in ('tba', 'tbd'): return ' (TBD)'
     return ''
 
+
+def esc_html(s):
+    """Escape for raw-HTML output (kramdown passes HTML blocks through untouched)."""
+    return html.escape(s or '', quote=False)
+
 # ---------------------------------------------------------------------------
-# Markdown row rendering
+# Markdown rendering
 # ---------------------------------------------------------------------------
 
-def render_row(row, notes_rows):
-    rtype   = (row.get('type', '') or '').lower()
-    title   = escape(row.get('title',       '') or '')
-    speaker = escape(row.get('speaker',     '') or '')
-    affil   = escape(row.get('affiliation', '') or '')
+def speaker_line(row, escape_fn):
+    speaker = escape_fn(row.get('speaker', '') or '')
+    affil   = escape_fn(row.get('affiliation', '') or '')
     status  = row.get('status', '') or ''
-    notes   = escape(row.get('notes',       '') or '')
-    start   = row.get('start', '') or ''
-    end     = row.get('end',   '') or ''
+    if not speaker:
+        return None
+    spk = speaker
+    if affil:
+        spk += f', {affil}'
+    spk += status_text(status)
+    return spk
 
-    s = fmt_12h(start)
-    e = fmt_12h(end)
 
-    # Title cell: bold title, optional italic speaker + notes lines
+def render_session_child_row(row, notes_rows):
+    """One <tr> of a session's Start/End/Presentation body."""
+    title = esc_html(row.get('title', '') or '')
+    notes = esc_html(row.get('notes', '') or '')
+    s = esc_html(fmt_12h(row.get('start', '') or ''))
+    e = esc_html(fmt_12h(row.get('end',   '') or ''))
+
+    parts = [f'<strong>{title}</strong>']
+
+    spk = speaker_line(row, esc_html)
+    if spk:
+        parts.append(f'<em>{spk}</em>')
+
+    if notes:
+        parts.append(f'<em>{notes}</em>')
+
+    for nr in notes_rows:
+        nt = esc_html(nr.get('title', '') or '')
+        nn = esc_html(nr.get('notes', '') or '')
+        line = '. '.join(filter(None, [nt, nn]))
+        if line:
+            parts.append(f'<em>{line}</em>')
+
+    cell = '<br>'.join(parts)
+    return f'<tr><td>{s}</td><td>{e}</td><td>{cell}</td></tr>'
+
+
+def render_day_heading(day_num, date):
+    """A 'Day N: <date>' bar, styled like a session caption but orange."""
+    label = esc_html(f'Day {day_num}: {fmt_day_label(date)}')
+    return (
+        '<table class="program-day-table">\n'
+        f'<caption><span class="day-name">{label}</span></caption>\n'
+        '</table>'
+    )
+
+
+def render_session_table(session_row, session_notes_rows, children):
+    """A whole session: name + moderators merged into the table's own
+    <caption> header, followed by its Start/End/Presentation body (omitted
+    for sessions with no invited_talk/oral children, e.g. the poster block)."""
+    title = esc_html(session_row.get('title', '') or '')
+    mods  = esc_html(session_row.get('speaker', '') or '')
+    notes = esc_html(session_row.get('notes', '') or '')
+
+    lines = ['<table class="program-session-table">', '<caption>']
+    lines.append(f'<span class="session-name">{title}</span>')
+    if mods:
+        lines.append(f'<span class="session-moderators">{mods}</span>')
+    if notes:
+        lines.append(f'<span class="session-notes">{notes}</span>')
+    for nr in session_notes_rows:
+        nt = esc_html(nr.get('title', '') or '')
+        nn = esc_html(nr.get('notes', '') or '')
+        line = '. '.join(filter(None, [nt, nn]))
+        if line:
+            lines.append(f'<span class="session-notes">{line}</span>')
+    lines.append('</caption>')
+
+    if children:
+        lines.append('<thead><tr><th>Start</th><th>End</th><th>Presentation</th></tr></thead>')
+        lines.append('<tbody>')
+        for child_row, child_notes in children:
+            lines.append(render_session_child_row(child_row, child_notes))
+        lines.append('</tbody>')
+
+    lines.append('</table>')
+    return '\n'.join(lines)
+
+
+def render_standalone(row, notes_rows, out):
+    """A break/special/social row: a single-row orange 'note' table."""
+    title = escape(row.get('title', '') or '')
+    notes = escape(row.get('notes', '') or '')
+    s = fmt_12h(row.get('start', '') or '')
+    e = fmt_12h(row.get('end',   '') or '')
+
     parts = [f'**{title}**']
 
-    if speaker:
-        spk = speaker
-        if affil:
-            spk += f', {affil}'
-        spk += status_text(status)
+    spk = speaker_line(row, escape)
+    if spk:
         parts.append(f'*{spk}*')
 
     if notes:
@@ -112,12 +198,21 @@ def render_row(row, notes_rows):
         if line:
             parts.append(f'*{line}*')
 
-    title_md = '<br>'.join(parts)
-    return f'| {s} | {e} | {title_md} |'
+    item_md = '<br>'.join(parts)
+
+    out.append('')
+    out.append('| Start | End | Item |')
+    out.append('|-------|-----|------|')
+    out.append(f'| {s} | {e} | {item_md} |')
+    out.append('{: .program-note-table}')
+
 
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
+
+CHILD_TYPES = ('invited_talk', 'oral', 'keynote')
+
 
 def generate(csv_path, md_path):
     rows = load_csv(csv_path)
@@ -138,26 +233,40 @@ def generate(csv_path, md_path):
         day_rows = days[date]
 
         out.append('')
-        out.append(f'## Day {day_num}: {fmt_day_label(date)}')
-        out.append('')
-        out.append('| Start | End | Session |')
-        out.append('|-------|-----|---------|')
+        out.append(render_day_heading(day_num, date))
 
-        pending       = None
-        pending_notes = []
+        current_session  = None  # (session_row, session_notes_rows) for the open session
+        session_children = []    # accumulated invited_talk/oral rows for the open session
+        pending_notes    = []    # notes rows attached to whatever comes next
+
+        def flush_session():
+            nonlocal current_session
+            if current_session is not None:
+                sess_row, sess_notes = current_session
+                out.append('')
+                out.append(render_session_table(sess_row, sess_notes, session_children))
+            current_session = None
+            session_children.clear()
 
         for row in day_rows:
             rtype = (row.get('type', '') or '').lower()
+
             if rtype == 'notes':
                 pending_notes.append(row)
-            else:
-                if pending is not None:
-                    out.append(render_row(pending, pending_notes))
-                pending = row
-                pending_notes = []
+                continue
 
-        if pending is not None:
-            out.append(render_row(pending, pending_notes))
+            if rtype in CHILD_TYPES:
+                session_children.append((row, pending_notes))
+            elif rtype == 'session':
+                flush_session()
+                current_session = (row, pending_notes)
+            else:
+                flush_session()
+                render_standalone(row, pending_notes, out)
+
+            pending_notes = []
+
+        flush_session()
 
     out.append('')
 

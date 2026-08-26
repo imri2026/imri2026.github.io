@@ -671,11 +671,106 @@ table {
     
     &:nth-child(even) {
       background-color: #f8f9fa;
-      
+
       &:hover {
         background-color: #f1f3f5;
       }
     }
+  }
+}
+
+/* Program: day heading — same shape as a session table, but orange */
+table.program-day-table {
+  box-shadow: none;
+
+  caption {
+    caption-side: top;
+    text-align: left;
+    background: $accent-color;
+    color: $dark-color;
+    padding: 16px 20px;
+
+    .day-name {
+      display: block;
+      font-size: 26px;
+      font-weight: 700;
+    }
+  }
+}
+
+/* Program: session tables — name + moderators merged into the header */
+table.program-session-table {
+  box-shadow: none;
+
+  caption {
+    caption-side: top;
+    text-align: left;
+    background: $primary-color;
+    color: white;
+    padding: 16px 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+    .session-name {
+      display: block;
+      font-size: 18px;
+      font-weight: 700;
+    }
+
+    .session-moderators,
+    .session-notes {
+      display: block;
+      font-size: 13px;
+      font-weight: 400;
+      font-style: italic;
+      opacity: 0.85;
+      margin-top: 4px;
+    }
+  }
+
+  thead th {
+    padding: 8px 15px;
+  }
+}
+
+/* Program: non-session rows (breaks, welcome, reception, etc.) */
+table.program-note-table {
+  margin-bottom: 20px;
+  box-shadow: none;
+
+  thead {
+    display: none;
+  }
+
+  td {
+    background-color: rgba($accent-color, 0.16);
+    border-bottom: none;
+    padding: 10px 15px;
+    font-size: 14px;
+
+    &:first-child {
+      border-top-left-radius: 10px;
+      border-bottom-left-radius: 10px;
+      border-left: 4px solid $accent-color;
+      white-space: nowrap;
+      font-weight: 600;
+      width: 1%;
+    }
+
+    &:nth-child(2) {
+      white-space: nowrap;
+      font-weight: 600;
+      width: 1%;
+    }
+
+    &:last-child {
+      border-top-right-radius: 10px;
+      border-bottom-right-radius: 10px;
+    }
+  }
+
+  tr:hover td {
+    background-color: rgba($accent-color, 0.16);
   }
 }
 

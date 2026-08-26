@@ -71,7 +71,7 @@ Both scripts read from `_program/program.csv`. **Edit the CSV, then run the scri
 |--------|--------|
 | `date` | `YYYY-MM-DD` |
 | `start` / `end` | `HH:MM` (24-hour), empty for notes rows |
-| `type` | `break`, `session`, `invited_talk`, `keynote`, `special`, `social`, `notes` |
+| `type` | `break`, `session`, `invited_talk`, `keynote`, `oral`, `special`, `social`, `notes` |
 | `title` | Primary display text |
 | `speaker` | Presenter name(s), optional |
 | `affiliation` | Institution, optional |

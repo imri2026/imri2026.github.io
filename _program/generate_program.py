@@ -13,7 +13,7 @@ CSV columns:
     date        YYYY-MM-DD
     start       HH:MM (24-hour), empty for notes/placeholder rows
     end         HH:MM (24-hour), empty for notes rows and Adjourn
-    type        break | session | invited_talk | keynote | special | social | notes
+    type        break | session | invited_talk | keynote | oral | special | social | notes
     title       Primary text shown in the schedule row
     speaker     Presenter name(s)  [optional]
     affiliation Speaker affiliation  [optional]
@@ -193,6 +193,8 @@ def _title_cell(row):
 
     elif rtype == 'session':
         parts.append(P(f'<b>{title}</b>', 'session_t'))
+        if speaker:
+            parts.append(P(speaker, 'speaker'))
 
     elif rtype in ('invited_talk', 'keynote'):
         parts.append(P(f'<b>{title}</b>', 'talk_t'))
@@ -201,6 +203,14 @@ def _title_cell(row):
             if affil:
                 spk_line += f', {affil}'
             spk_line += tag
+            parts.append(P(spk_line, 'speaker'))
+
+    elif rtype == 'oral':
+        parts.append(P(f'<b>{title}</b>', 'talk_t'))
+        if speaker:
+            spk_line = speaker
+            if affil:
+                spk_line += f', {affil}'
             parts.append(P(spk_line, 'speaker'))
 
     elif rtype == 'special':
@@ -288,6 +298,8 @@ def build_schedule_table(csv_rows):
 
         if rtype == 'break':
             cmds.append(('BACKGROUND', (2, r), (4, r), C_GRAY_L))
+        elif rtype == 'oral':
+            cmds.append(('LEFTPADDING', (4, r), (4, r), 16))
         elif rtype == 'notes':
             # Compact padding and slight indent for TBA/notes lines
             cmds += [
