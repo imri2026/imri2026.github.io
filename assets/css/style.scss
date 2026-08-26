@@ -679,8 +679,65 @@ table {
   }
 }
 
+/* Program: table of contents */
+.program-toc {
+  background: rgba($primary-color, 0.16);
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+  padding: 20px 25px;
+  margin-bottom: 30px;
+  border-left: 5px solid $primary-color;
+
+  .program-toc-title {
+    font-size: 22px;
+    font-weight: 700;
+    color: $dark-color;
+  }
+
+  .program-toc-hint {
+    font-size: 13px;
+    font-style: italic;
+    color: $dark-gray;
+    opacity: 0.75;
+    margin-bottom: 10px;
+  }
+
+  .program-toc-day {
+    font-size: 16px;
+    font-weight: 700;
+    color: $primary-color;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 14px;
+  }
+
+  ul {
+    list-style: none;
+    margin: 6px 0 0 0;
+    padding: 0;
+    columns: 2;
+    column-gap: 30px;
+  }
+
+  li {
+    break-inside: avoid;
+    margin-bottom: 4px;
+  }
+
+  a {
+    text-decoration: none;
+    color: $secondary-color;
+    font-size: 16px;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
 /* Program: day heading — same shape as a session table, but orange */
 table.program-day-table {
+  scroll-margin-top: 190px;
   box-shadow: none;
   margin-top: 30px;
   margin-bottom: 15px;
@@ -702,6 +759,7 @@ table.program-day-table {
 
 /* Program: session tables — name + moderators merged into the header */
 table.program-session-table {
+  scroll-margin-top: 190px;
   box-shadow: none;
 
   caption {
@@ -732,6 +790,13 @@ table.program-session-table {
 
   thead th {
     padding: 8px 15px;
+  }
+
+  th:first-child,
+  td:first-child {
+    width: 1%;
+    white-space: nowrap;
+    text-align: center;
   }
 }
 
