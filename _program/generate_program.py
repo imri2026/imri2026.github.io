@@ -17,6 +17,8 @@ CSV columns:
     title       Primary text shown in the schedule row
     speaker     Presenter name(s)  [optional]
     affiliation Speaker affiliation  [optional]
+    city        Speaker's city  [optional]
+    country     Speaker's country  [optional]
     status      confirmed | invited | tba  [optional]
     notes       Free-form description printed below the title  [optional]
 
@@ -171,10 +173,19 @@ def fmt_date(date_str):
 
 def _status_tag(status):
     s = (status or '').lower()
-    if s == 'confirmed': return ' (<b>Confirmed</b>)'
     if s == 'invited':   return ' (<b>Invited</b>)'
     if s in ('tba', 'tbd'): return ' (<b>TBD</b>)'
     return ''
+
+
+def _speaker_line(speaker, affil, city, country, tag=''):
+    line = speaker
+    if affil:
+        line += f', {affil}'
+    location = ', '.join(filter(None, [city, country]))
+    if location:
+        line += f', {location}'
+    return line + tag
 
 
 def _title_cell(row):
@@ -182,6 +193,8 @@ def _title_cell(row):
     title   = row.get('title', '') or ''
     speaker = row.get('speaker', '') or ''
     affil   = row.get('affiliation', '') or ''
+    city    = row.get('city', '') or ''
+    country = row.get('country', '') or ''
     status  = row.get('status', '') or ''
     notes   = row.get('notes', '') or ''
 
@@ -199,19 +212,12 @@ def _title_cell(row):
     elif rtype in ('invited_talk', 'keynote'):
         parts.append(P(f'<b>{title}</b>', 'talk_t'))
         if speaker:
-            spk_line = speaker
-            if affil:
-                spk_line += f', {affil}'
-            spk_line += tag
-            parts.append(P(spk_line, 'speaker'))
+            parts.append(P(_speaker_line(speaker, affil, city, country, tag), 'speaker'))
 
     elif rtype == 'oral':
         parts.append(P(f'<b>{title}</b>', 'talk_t'))
         if speaker:
-            spk_line = speaker
-            if affil:
-                spk_line += f', {affil}'
-            parts.append(P(spk_line, 'speaker'))
+            parts.append(P(_speaker_line(speaker, affil, city, country), 'speaker'))
 
     elif rtype == 'special':
         parts.append(P(f'<b>{title}</b>', 'special_t'))

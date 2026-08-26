@@ -23,6 +23,7 @@ imri2026.github.io/
 ├── images/               # imri-logo.png, venue photos, sponsor logos
 ├── _program/             # Program toolchain (not served by Jekyll)
 │   ├── program.csv       # Source of truth for the schedule
+│   ├── posters.csv       # Poster abstract list (category, author, title) for the Poster Session section
 │   ├── generate_program.py   # Builds iMRI2026-program.pdf
 │   └── update_program_page.py # Regenerates program.md
 ├── program.md            # GENERATED — do not edit manually
@@ -48,7 +49,7 @@ bundle exec jekyll serve
 ### Regenerate program.md from CSV
 ```bash
 cd _program && python3 update_program_page.py
-# Reads program.csv, writes ../program.md
+# Reads program.csv (and posters.csv, if present), writes ../program.md
 ```
 
 ### Generate schedule PDF
@@ -72,13 +73,20 @@ Both scripts read from `_program/program.csv`. **Edit the CSV, then run the scri
 | `date` | `YYYY-MM-DD` |
 | `start` / `end` | `HH:MM` (24-hour), empty for notes rows |
 | `type` | `break`, `session`, `invited_talk`, `keynote`, `oral`, `special`, `social`, `notes` |
+| `number` | Chronological talk number (1, 2, 3, ...), only for `invited_talk`/`oral` rows that have a speaker |
 | `title` | Primary display text |
 | `speaker` | Presenter name(s), optional |
 | `affiliation` | Institution, optional |
+| `city` | Speaker's city, optional |
+| `country` | Speaker's country, optional |
 | `status` | `confirmed`, `invited`, `tba` / `tbd` |
 | `notes` | Supplemental description text |
 
 `notes` rows have no times and no standalone display. They attach to the **preceding** row as italic sub-text. Use them for "Speakers TBA — N presentations" lines and session descriptions.
+
+### Posters CSV (optional)
+
+`update_program_page.py` also reads `_program/posters.csv`, if present, and renders a "Poster Session" section at the end of `program.md` (grouped by `category`, with a Session Overview link). Columns: `category`, `number`, `subid`, `author`, `institution`, `city`, `country`, `title`. This list is not included in the PDF (`generate_program.py` only reads `program.csv`).
 
 ## Brand Colors
 
