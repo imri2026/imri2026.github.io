@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Registration Site Open!"
+title:  "The registration site open!"
 date:   2026-02-19 12:00:00 -0500
 categories: website
 ---

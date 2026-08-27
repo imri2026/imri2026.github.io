@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "15th Interventional MRI Symposium Site Open"
+title:  "The 15th Interventional MRI Symposium site open"
 date:   2025-09-01 12:00:00 -0500
 categories: website
 ---
