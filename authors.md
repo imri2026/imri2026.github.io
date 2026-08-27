@@ -9,7 +9,7 @@ This page outlines what authors of accepted abstracts need to know to prepare th
 
 ## Presentation Requirements
 
-At least one author of each accepted abstract must register for the conference and deliver the presentation (oral or poster). If none of the authors cannot deliver the presentation, please contact [{{ site.email }}](mailto:{{ site.email }}) with a name of alternative presenter as soon as possible. Abstracts without a presenter at the symposium will be removed from the proceedings. 
+At least one author of each accepted abstract must register for the conference and deliver the presentation (oral or poster). If none of the authors can deliver the presentation, please contact [{{ site.email }}](mailto:{{ site.email }}) with the name of an alternative presenter as soon as possible. Abstracts without a presenter at the symposium will be removed from the proceedings. 
 
 ## Presentation Formats
 
@@ -26,7 +26,7 @@ Accepted abstracts are assigned to either an **oral** or a **poster** presentati
 
 - **Display period**: Posters are displayed throughout the symposium.
 - **Poster session**: A dedicated poster discussion session will take place on the first day of the symposium (October 8, 2026). Presenting authors are expected to be present at their poster for the full session to answer questions.
-- **Size and mounting details**: Poster must fit on a 36 &times; 48 (portrait) poster board. The A0 format (841 mm &times; 1189 mm) should fit in this size. The poster must be hang on the board before 12 pm on October 8, 2026.
+- **Size and mounting details**: Poster must fit on a 36 &times; 48 (portrait) poster board. The A0 format (841 mm &times; 1189 mm) should fit in this size. The poster must be hung on the board before 12 pm on October 8, 2026.
 
 ## Questions
 

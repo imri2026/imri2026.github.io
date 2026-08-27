@@ -34,13 +34,12 @@ Professor of Health Policy and Management, Rollins School of Public Health, Atla
 - **Pedro Moreira, PhD**, Instructor in Radiology, Harvard Medical School, Brigham and Women's Hospital, Boston, Massachusetts, United States
 
 ## Organizing Committee
-- **Clifford R. Weiss, MD**,Professor of Radiology, Radiological Science and Biomedical Engineering, Division of Interventional Radiology, Johns Hopkins School of Medicine, Baltimore, Maryland, United States 
+- **Clifford R. Weiss, MD**, Professor of Radiology, Radiological Science and Biomedical Engineering, Division of Interventional Radiology, Johns Hopkins School of Medicine, Baltimore, Maryland, United States
 - **Dara Kraitchman, VMD, PhD**, Professor of Radiology, Radiological Science and Molecular and Comparative Pathobiology, Division of MR Research, Johns Hopkins School of Medicine, Baltimore, Maryland, United States
 - **Jan Fritz, MD**, Professor of Radiology, Director, Magnetic Resonance Imaging, Department of Radiology, NYU Grossman School of Medicine, New York, New York, United States
 - **Frank Wacker, MD**, Professor and Chairman, Department of Radiology, Imaging Unit, Clinical Research Center Hannover, Hannover Medical School, Hannover, Germany
 - **David A. Woodrum, MD, PhD**, Professor of Radiology, Department of Radiology, Mayo Clinic, Rochester, Minnesota, United States
-- **Georg Rose, PhD**, Professor of Medical Engineering, Chair of Medical Imaging, Director of the Research Campus STIMULATE, Otto-Von-Guericke-University Magdeburg
-Magdeburg, Germany
+- **Georg Rose, PhD**, Professor of Medical Engineering, Chair of Medical Imaging, Director of the Research Campus STIMULATE, Otto-von-Guericke University, Magdeburg, Germany
 
 
 ## Faculty
@@ -49,7 +48,7 @@ Magdeburg, Germany
 
 
 ## Hosting Institution
-The 15th Interventional MRI Symposium is hotested by the [NIH-funded National Center for Image Guided Therapy](https://www.ncigt.org) at [Brigham and Women's Hospital](https://www.brighamandwomens.org), a Teaching Affiliate of [Harvard Medical School](https://hms.harvard.edu).
+The 15th Interventional MRI Symposium is hosted by the [NIH-funded National Center for Image Guided Therapy](https://www.ncigt.org) at [Brigham and Women's Hospital](https://www.brighamandwomens.org), a Teaching Affiliate of [Harvard Medical School](https://hms.harvard.edu).
 
 
 ## Past Symposia

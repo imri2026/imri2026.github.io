@@ -54,10 +54,10 @@ Abstracts should be submitted electronically via a web-based management system, 
 3. Margins: 0.7 inch on all sides
 4. Font: Aptos, 11pt
 5. Number of pages: 1
-6. Title, Authors and Affiliations is mandatory for each abstract and also needs to be entered electronically.
+6. Title, Authors and Affiliations are mandatory for each abstract and also need to be entered electronically.
 7. Abstracts should be organized into sections **Purpose**, **Material and methods**, **Results**, and **Conclusion**. Please do not forget to select your preferred method of presentation (oral or poster) and enter up to five key words into the corresponding website field. 
 8. Figures and tables must be numbered and have captions
-10. Abstracts should be uploaded in **PDF format** with figures and tables embedded.
+9. Abstracts should be uploaded in **PDF format** with figures and tables embedded.
 
 ## Abstract Deadline and Notification
 The submission deadline and the date of acceptance notifications will be announced early 2026. Authors of accepted abstracts are kindly requested to register by August 15, 2026 to be included in the scientific program.
@@ -67,7 +67,7 @@ The submission deadline and the date of acceptance notifications will be announc
 All lectures and presentations will be in English.
 
 **Oral Presentations:** 
-Preferred papers will be formally presented in topical oral sessions. Your total time will be restricted to 10 minutes with 8 minutes for speaking and 2 more minutes for a short discussion. We kindly ask all speakers to strictly respect the time limit. Please prepare your presentation in .PPT format, copy it either on a USB medium and hand it in to one of the technical staff members in the speakers ready room at least one hour before the start of the session.
+Preferred papers will be formally presented in topical oral sessions. Your total time will be restricted to 10 minutes with 8 minutes for speaking and 2 more minutes for a short discussion. We kindly ask all speakers to strictly respect the time limit. Please prepare your presentation in .PPT format, copy it onto a USB medium, and hand it in to one of the technical staff members in the speakers' ready room at least one hour before the start of the session.
 
 **Poster Presentations**:
 Posters will be exhibited throughout the meeting. A dedicated poster discussion session will be organized and poster authors are requested to be present throughout that time and to be prepared for questions and discussions. 
