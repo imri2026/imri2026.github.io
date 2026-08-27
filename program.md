@@ -80,7 +80,7 @@ permalink: /program/
 <tbody>
 <tr><td>O-1</td><td>9:10 AM</td><td>9:25 AM</td><td><strong>Invited Talk: A New Era of Body iMRI, Why Now?</strong><br><em>Frank Wacker MD, Hannover Medical School, Hannover, Germany</em></td></tr>
 <tr><td>O-2</td><td>9:25 AM</td><td>9:40 AM</td><td><strong>Invited Talk: (Title TBA)</strong><br><em>Erica Knavel Koepsel MD, University of Wisconsin, Madison, WI, United States</em></td></tr>
-<tr><td>O-3</td><td>9:40 AM</td><td>9:50 AM</td><td><strong>Precision Targeting of Small Liver Lesions Using MRI-Guided Freehand Biopsy: Outcomes and Safety</strong><br><em>Vanessa F, LMU University Hospital, Munich, Germany</em></td></tr>
+<tr><td>O-3</td><td>9:40 AM</td><td>9:50 AM</td><td><strong>Precision Targeting of Small Liver Lesions Using MRI-Guided Freehand Biopsy: Outcomes and Safety</strong><br><em>Vanessa F. Schmidt, LMU University Hospital, Munich, Germany</em></td></tr>
 <tr><td>O-4</td><td>9:50 AM</td><td>10:00 AM</td><td><strong>MRI-Guided Hepatic Interventions Using Augmented Reality Optical Navigation: Initial Clinical Experience with the LUMENA System</strong><br><em>David Woodrum, Mayo Clinic, Rochester, MN, United States</em></td></tr>
 <tr><td>O-5</td><td>10:00 AM</td><td>10:10 AM</td><td><strong>Toward Personalized Planning of Liver Tumor Microwave Ablation Using Patient-Specific Modeling</strong><br><em>Nino Avetikovi, University of Bordeaux, Bordeaux, France</em></td></tr>
 <tr><td>O-6</td><td>10:10 AM</td><td>10:20 AM</td><td><strong>Assessing the Technical Feasibility of MR-Guided Irreversible Electroporation in a Porcine In Vivo Model in a 1.5T Clinical MR Environment</strong><br><em>Othmar Belker, Hannover Medical School, Hannover, Germany</em></td></tr>
@@ -403,7 +403,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-59 | MR-Guided Renal Cryoablation: Local Control and Technical Parameters in a Single-Center Cohort | Daniel Adamo, Mayo Clinic, Rochester, MN, United States |
 | P-60 | MRI-Guided Percutaneous Liver Biopsy: 15-Year Single-Center Experience at a Tertiary Referral Institution | Daniel Adamo, Mayo Clinic, Rochester, MN, United States |
 | P-61 | An End-to-End Framework for Real-Time 2D Multislice MRI-Guided Liver Interventions | Wenqi Zhou, University of California Los Angeles, Los Angeles, CA, United States |
-| P-62 | MR-Guided Microwave Ablation of Liver Tumors: Outcomes in Local Tumor Control and Determinants of Treatment Success | Vanessa F, LMU University Hospital, Munich, Germany |
+| P-62 | MR-Guided Microwave Ablation of Liver Tumors: Outcomes in Local Tumor Control and Determinants of Treatment Success | Vanessa F Schmidt, LMU University Hospital, Munich, Germany |
 | P-63 | An Adaptable, Patient-Conforming Robotic Template for MRI-Guided Abdominal Needle Interventions | Samuel Wilcox, Georgia Institute of Technology, Atlanta, GA, United States |
 | P-64 | MRI-Guided Percutaneous Cryoablation of Anatomically Challenging Primary and Metastatic Liver Tumors: A Five-Year Single-Center Experience | David Woodrum, Mayo Clinic, Rochester, MN, United States |
 | P-65 | MRI-Guided Percutaneous Cryoablation of Hepatic Tumors in Pericardiac Locations: A Case Series | Setayesh Sotoudehnia Korani, Mayo Clinic, Rochester, MN, United States |
