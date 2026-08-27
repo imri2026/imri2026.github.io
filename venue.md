@@ -13,7 +13,7 @@ permalink: /venue/
 - [Hotel website](https://www.marriott.com/en-us/hotels/boslc-the-liberty-a-luxury-collection-hotel-boston/overview/)
 
 ### About The Venue
-**The 15th Interventional MRI Symposium (iMRI)** will be held at The Liberty Hotel in Downtown Boston. Located in Beacon Hill, a historic district known for its picturesque residential streets and landmarks such as the Massachusetts State House and Boston Common, the hotel sits adjacent to the main campus of Massachusetts General Hospital. With excellent access from Boston Logan Airport, South Station, Interstate 90/93, and US Route 1, it's an ideal location for this international medical conference.
+**The 15th Interventional MRI Symposium (iMRI)** will be held at The Liberty Hotel in downtown Boston. Located in Beacon Hill, a historic district known for its picturesque residential streets and landmarks such as the Massachusetts State House and Boston Common, the hotel sits adjacent to the main campus of Massachusetts General Hospital. With excellent access from Boston Logan Airport, South Station, Interstate 90/93, and US Route 1, it's an ideal location for this international medical conference.
 
 The Liberty Hotel is also renowned for its unique history and stunning architecture. Originally built as the Charles Street Jail in 1851, it housed notable inmates including Malcolm X and former Boston Mayor James Michael Curley. After closing as a jail in 1990, the building was transformed into a luxury hotel in 2007. The property beautifully preserves many original architectural features, offering guests an inspiring experience and providing a unique setting for conferences like iMRI.
 

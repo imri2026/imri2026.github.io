@@ -40,7 +40,7 @@ permalink: /registration/
 
 ## Student Registration
 
-To qualify for the student/resident/fellow rate, you must have a full-time position at the time of the conference. You will be asked to submit a copy of document that proves your status (e.g., a valid student ID, a letter from your institution confirming your status).
+To qualify for the student/resident/fellow rate, you must have a full-time position at the time of the conference. You will be asked to submit a copy of a document that proves your status (e.g., a valid student ID, a letter from your institution confirming your status).
 
 
 ## Registration

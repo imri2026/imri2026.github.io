@@ -21,7 +21,7 @@ The 15th Interventional MRI Symposium is made possible through the generous supp
 <table style="width:100%; border:none;">
   <tr>
     <td style="text-align:center; padding:20px; border:none;">
-      <a href="https://www.siemens-healthineers.com/magnetic-resonance-imaging/mri-guided-therapy" target="_blank"><img src="/images/sponsors/siemens.png" width="300px" alt="Cook Medical"></a>
+      <a href="https://www.siemens-healthineers.com/magnetic-resonance-imaging/mri-guided-therapy" target="_blank"><img src="/images/sponsors/siemens.png" width="300px" alt="Siemens Healthineers"></a>
     </td>
   </tr>
 </table>
@@ -34,7 +34,7 @@ The 15th Interventional MRI Symposium is made possible through the generous supp
       <a href="https://www.mipm.com/" target="_blank"><img src="/images/sponsors/MIPM.png" width="150px" alt="MIPM"></a>
     </td>
     <td style="text-align:center; padding:20px; border:none;">
-      <a href="https://www.nano4imaging.com" target="_blank"><img src="/images/sponsors/Nano4imaging.png" width="300px" alt="MIPM"></a>
+      <a href="https://www.nano4imaging.com" target="_blank"><img src="/images/sponsors/Nano4imaging.png" width="300px" alt="Nano4imaging"></a>
     </td>
     <td style="text-align:center; padding:20px; border:none;">
       <a href="https://www.aimmedicalrobotics.com" target="_blank"><img src="/images/sponsors/aim-medical-robotics.png" width="300px" alt="AiM"></a>

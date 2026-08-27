@@ -32,7 +32,7 @@ plugins:
 
 # Collections
 collections:
-  peakers:
+  speakers:
     output: true
     permalink: /:collection/:name
   sessions:
