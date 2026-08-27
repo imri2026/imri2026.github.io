@@ -276,6 +276,7 @@ def render_poster_section(posters):
             if location:
                 presenter += f', {location}'
             lines.append(f'| {num} | {title} | {presenter} |')
+        lines.append('{: .program-poster-table}')
 
     return lines
 
