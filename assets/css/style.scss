@@ -800,6 +800,16 @@ table.program-session-table {
   }
 }
 
+/* Program: poster session tables */
+table.program-poster-table {
+  th:first-child,
+  td:first-child {
+    width: 1%;
+    white-space: nowrap;
+    text-align: center;
+  }
+}
+
 /* Program: non-session rows (breaks, welcome, reception, etc.) */
 table.program-note-table {
   margin-bottom: 20px;

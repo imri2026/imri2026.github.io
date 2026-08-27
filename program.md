@@ -318,6 +318,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-10 | Image Quality Assessment of 0.6T and 1.5T MRI for MRI-Guided Prostate Interventions | Daniel Adamo, Philips, Best, Netherlands |
 | P-11 | MR-Guided Cryoablation of Penile Metastasis - A Case Series of Three Patients | Ola Mohamed, Mayo Clinic, Rochester, MN, United States |
 | P-12 | MRI-Guided Percutaneous Cryoablation of a Symptomatic Penile Neurofibroma in the Setting of Neurofibromatosis Type 1: A Case Report | David Woodrum, Mayo Clinic, Rochester, MN, United States |
+{: .program-poster-table}
 
 ### RadOnc (4)
 
@@ -327,6 +328,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-14 | Outcome after MR-Guided Ablation of Small Liver Lesions with Catheter-Based Brachytherapy | Max Seidensticker, LMU University Hospital, Munich, Germany |
 | P-15 | Real-Time FBG Shape Feedback and Trajectory Prediction for Adaptive MRI-Guided Needle Interventions | Yinsong Ma, Johns Hopkins University, Baltimore, MD, United States |
 | P-16 | Integration of Habitat Analysis in Novel Clinical Trial for Characterization of Ultra-early Response to Radiotherapy | Adrian Breto, University of Miami, Miami, FL, United States |
+{: .program-poster-table}
 
 ### Technology (17)
 
@@ -349,6 +351,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-31 | MRI-Guided Microwave Ablation: System Comparison of Shaft Cooling and Thermocouple Regulation on Thermal Dose Distributions and Artifacts | Laura Maria Bauer, LMU University Hospital, Munich, Germany |
 | P-32 | Investigation of Water-Cooled MRI-Guided Microwave Ablation System on Electromagnetic Interference and Artifacts | Mandy Yu, Mayo Clinic, Rochester, MN, United States |
 | P-33 | Projection-based Receiver Interference Separation Method for Electromagnetic Interference Suppression during MR-Guided Microwave Ablation | Ning Jin, Siemens Medical Solutions, Malvern, PA, United States |
+{: .program-poster-table}
 
 ### FUS (5)
 
@@ -359,6 +362,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-36 | MRI-Guided Transurethral Ultrasound Ablation (TULSA) for Treating Native Prostate Cancer, a Prospective Single Center Study | Setayesh Sotoudehnia Korani, Mayo Clinic, Rochester, MN, United States |
 | P-37 | A Simulation-to-Robot Workflow for Directional Needle-Based Therapeutic Ultrasound Ablation | Kehan Yang, Worcester Polytechnic Institute, Worcester, MA, United States |
 | P-38 | Characterization of MRgFUS Ablation Effects through Radiology-Pathology Data Integration | Justina Bonaventura, University of Utah, Salt Lake City, UT, United States |
+{: .program-poster-table}
 
 ### Cardiovascular (4)
 
@@ -368,6 +372,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-40 | Evaluation of an Interventional MRI User Interface Extension for Real-Time Vascular and Cardiac Navigation | Nathan Ooms, Cook Advanced Technology, Bloomington, IN, United States |
 | P-41 | Plane-Specific Anomaly Detection for Passive Marker Identification and Localization in iCMR | Yixuan Liu, The Ohio State University, Columbus, OH, United States |
 | P-42 | Dexterous Intramyocardial Needle Ablation (d-INA): Initial Design, Fabrication, and In-Vivo Validation | Chang Zhou, Georgia Institute of Technology, Atlanta, GA, United States |
+{: .program-poster-table}
 
 ### MSK (13)
 
@@ -386,6 +391,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-53 | Sequential MR-guided laser and cryoablation of a recurrent painful slow-flow venous malformation in a 6-year-old | Ola Mohamed, Mayo Clinic, Rochester, MN, United States |
 | P-54 | MRI-Guided Cryoablation for Recurrent Pediatric Hand Desmoid Tumor: A Longitudinal Case Report | Laurel Woodrum, Mayo Clinic, Rochester, MN, United States |
 | P-55 | MRI-Guided Cryoablation of a Bilateral Plantar Fibromatosis | Setayesh Sotoudehnia Korani, Mayo Clinic, Rochester, MN, United States |
+{: .program-poster-table}
 
 ### Body (14)
 
@@ -405,6 +411,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-67 | First-in-Human Safety and Feasibility of Nodal MR Lymphangiography with Gadopiclenol | Wayne Stenzel, Mayo Clinic, Rochester, MN, United States |
 | P-68 | Feasibility of MR Guided Lung Biopsy at 0.55T Using 3D Stack-of-Spirals UTE | Pan Su, Siemens Medical Solutions, Malvern, PA, United States |
 | P-69 | Combined MRI-Guided Microwave Ablation and Cryoablation for Hepatic Tumors in a Single Session: A Single-Center Feasibility and Safety Report | David Woodrum, Mayo Clinic, Rochester, MN, United States |
+{: .program-poster-table}
 
 ### Neuro (4)
 
@@ -414,6 +421,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-71 | MR-Guided Cryoneurolysis for Painful Neuropathy - A Case Series | Ola Mohamed, Mayo Clinic, Rochester, MN, United States |
 | P-72 | Methods for Simulating Advanced MR Guided Cortical Brain Gene Therapy | Dalton Bermudez, University of Wisconsin-Madison, Madison, WI, United States |
 | P-73 | Brain Laser Interstitial Thermal Therapy (LITT) in Drug-Resistant Epilepsy: Case Examples | Mrinal Singh, Mayo Clinic, Rochester, MN, United States |
+{: .program-poster-table}
 
 ### MR Thermometry (6)
 
@@ -425,6 +433,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-77 | A Subvoxel Correction of Boiling-Induced Susceptibility Artifacts in MR Thermometry and Dosimetry for Monitoring MW Thermoablation | Eber Dantas, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil |
 | P-78 | MR-Compatible Testbed for MR Thermometry in Liver Microwave Ablation with Heat-Sink Effect | Yuqing Fan, Cornell University, New York, NY, United States |
 | P-79 | Using Fiber Bragg Grating Sensor Arrays to Validate MR Thermometry | Ana Sofia Garcia, Otto-von-Guericke University, Magdeburg, Germany |
+{: .program-poster-table}
 
 ### Safety (14)
 
@@ -444,6 +453,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-91 | MR-Guided Ablation in Patients with Active Implanted Medical Devices | Angela Pooler, Mayo Clinic, Rochester, MN, United States |
 | P-92 | Safety in Zone 4 of the Interventional MRI Suite During MR Guided Cryoablation - A Nursing Perspective | Katie Gehling, Mayo Clinic, Rochester, MN, United States |
 | P-93 | CPT Code Based Reimbursement Disparity Between Prostate Cryoablation (55873) and Radical Prostatectomy (55866): Implications for Interventional Radiology Practice and Value Based Care | Moises Cruz, Mayo Clinic, Rochester, MN, United States |
+{: .program-poster-table}
 
 ### Policy (2)
 
@@ -451,3 +461,4 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 |---|-------|-----------|
 | P-94 | Cost-Effectiveness of MR-Guided versus CT-Guided Biopsy of Small Focal Liver Lesions: A Decision-Analytic Analysis | Moritz Ludwig Schnitzer, LMU University Hospital, Munich, Germany |
 | P-95 | Reimbursement Disparity Between CT-Guided and MR-Guided Percutaneous Ablation Procedures Under the CY2026 Medicare Physician Fee Schedule | Moises Cruz, Mayo Clinic, Rochester, MN, United States |
+{: .program-poster-table}
