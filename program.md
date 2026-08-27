@@ -183,7 +183,7 @@ permalink: /program/
 <tr><td>O-24</td><td>8:45 AM</td><td>8:55 AM</td><td><strong>MRI-Guided In-Bore Percutaneous Transgluteal Prostate Biopsy at 0.55T</strong><br><em>Serdar Sagdic, University of Michigan, Ann Arbor, MI, United States</em></td></tr>
 <tr><td>O-25</td><td>8:55 AM</td><td>9:05 AM</td><td><strong>MRI-Guided Cryoablation for Primary and Salvage Prostate Cancer Treatment: Initial Patient Experience</strong><br><em>Lauren Marlatt, University of Wisconsin-Madison, Madison, WI, United States</em></td></tr>
 <tr><td>O-26</td><td>9:05 AM</td><td>9:15 AM</td><td><strong>Cost-Effective Needle Tract Verification Using Susceptibility-Weighted Imaging (SWI) in MR-Guided Prostate Biopsy</strong><br><em>Can Yüksel, University Hospital RWTH Aachen, Aachen, Germany</em></td></tr>
-<tr><td>O-27</td><td>9:15 AM</td><td>9:25 AM</td><td><strong>Accuracy and Verification of an MR-Compatible Transperineal Biopsy Device</strong><br><em>J.G.R, Radboudumc, Nijmegen, Netherlands</em></td></tr>
+<tr><td>O-27</td><td>9:15 AM</td><td>9:25 AM</td><td><strong>Accuracy and Verification of an MR-Compatible Transperineal Biopsy Device</strong><br><em>Joyce Bomers, Radboudumc, Nijmegen, Netherlands</em></td></tr>
 <tr><td>O-28</td><td>9:25 AM</td><td>9:35 AM</td><td><strong>Four-Year Experience with MRI-Guided Focal Prostate Cryoablation</strong><br><em>Vipul Sheth, Stanford University, Stanford, CA, United States</em></td></tr>
 <tr><td>O-29</td><td>9:35 AM</td><td>9:45 AM</td><td><strong>In-Bore MRI-Guided Trans-Perineal Partial Gland Cryoablation for Primary Prostate Cancer: A Prospective Study</strong><br><em>David Woodrum, Mayo Clinic, Rochester, MN, United States</em></td></tr>
 </tbody>
