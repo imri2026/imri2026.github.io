@@ -74,6 +74,7 @@ Both scripts read from `_program/program.csv`. **Edit the CSV, then run the scri
 | `start` / `end` | `HH:MM` (24-hour), empty for notes rows |
 | `type` | `break`, `session`, `invited_talk`, `keynote`, `oral`, `special`, `social`, `notes` |
 | `number` | Chronological talk number (1, 2, 3, ...), only for `invited_talk`/`oral` rows that have a speaker |
+| `subid` | EasyChair submission ID, only for `oral` rows (matches `Sub_ID` in `authors_accepted.csv` and `subid` in `posters.csv`); empty otherwise |
 | `title` | Primary display text |
 | `speaker` | Presenter name(s), optional |
 | `affiliation` | Institution, optional |

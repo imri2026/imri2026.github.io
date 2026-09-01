@@ -4,22 +4,21 @@ Pelvic (Prostate and Gyn),2,31,Setayesh Sotoudehnia Korani,Mayo Clinic,"Rocheste
 Pelvic (Prostate and Gyn),3,14,Ola Mohamed,Mayo Clinic,"Rochester, MN",United States,Locoregional Tumor Control of Prostate Cancer Bone Metastasis using MRI-Guided Cryoablation: A Retrospective Cohort Study
 Pelvic (Prostate and Gyn),4,16,David Woodrum,Mayo Clinic,"Rochester, MN",United States,"MRI-Guided Salvage Cryoablation of Localized, Recurrent Prostate Cancer: 13-Year Prospective Study"
 Pelvic (Prostate and Gyn),5,146,Pedro Moreira,Brigham and Women's Hospital,"Boston, MA",United States,AI-Assisted Quantification of Cryo-Injury in MRI-Guided Prostate Cryoablation Using Imaging-Derived Dose Metrics
-Pelvic (Prostate and Gyn),6,126,Deborah Shinyanbola,Royal College of Surgeons Ireland,Dublin,Ireland,"Effect of Bead Presence, Composition, and Configuration on MRI and CT Artifact Characteristics"
 Pelvic (Prostate and Gyn),7,125,Michael McKernan,Mayo Clinic,"Rochester, MN",United States,MRI-Guided Transperineal Prostate Biopsy in Patients Without Rectal Access: Technique and Feasibility
 Pelvic (Prostate and Gyn),8,81,Carly McKenzie,Mayo Clinic,"Rochester, MN",United States,Imaging Sequences Used for Prostate Cryoablation and Biopsy Guidance
 Pelvic (Prostate and Gyn),9,93,Daniel Adamo,Mayo Clinic,"Rochester, MN",United States,"Image Guided Focal Therapy for Prostate Cancer: A Review of Patient Selection, Imaging, and Treatment Techniques"
-Pelvic (Prostate and Gyn),10,110,Daniel Adamo,Philips,Best,Netherlands,Image Quality Assessment of 0.6T and 1.5T MRI for MRI-Guided Prostate Interventions
+Pelvic (Prostate and Gyn),10,110,Daniel Adamo,Philips,"Rochester, MN",United States,Image Quality Assessment of 0.6T and 1.5T MRI for MRI-Guided Prostate Interventions
 Pelvic (Prostate and Gyn),11,68,Ola Mohamed,Mayo Clinic,"Rochester, MN",United States,MR-Guided Cryoablation of Penile Metastasis - A Case Series of Three Patients
 Pelvic (Prostate and Gyn),12,38,David Woodrum,Mayo Clinic,"Rochester, MN",United States,MRI-Guided Percutaneous Cryoablation of a Symptomatic Penile Neurofibroma in the Setting of Neurofibromatosis Type 1: A Case Report
 RadOnc,13,26,Matthias Philipp Fabritius,LMU University Hospital,Munich,Germany,MR guided catheter-based radiotherapy / brachytherapy of small liver lesions - advantages of a tip marked MRI safe wire to define exact catheter position for radiotherapy planning
 RadOnc,14,116,Max Seidensticker,LMU University Hospital,Munich,Germany,Outcome after MR-Guided Ablation of Small Liver Lesions with Catheter-Based Brachytherapy
 RadOnc,15,105,Yinsong Ma,Johns Hopkins University,"Baltimore, MD",United States,Real-Time FBG Shape Feedback and Trajectory Prediction for Adaptive MRI-Guided Needle Interventions
 RadOnc,16,147,Adrian Breto,University of Miami,"Miami, FL",United States,Integration of Habitat Analysis in Novel Clinical Trial for Characterization of Ultra-early Response to Radiotherapy
-Technology,17,82,Chitresh Bhushan,GE Healthcare,"Waukesha, WI",United States,MR-Compatible Ultrasound Tracker for Fast Alignment of US-MR Images
+Technology,17,82,Chitresh Bhushan,GE Healthcare,"Niskayuna, NY",United States,MR-Compatible Ultrasound Tracker for Fast Alignment of US-MR Images
 Technology,18,130,Nirvaan N Jaitli,University of Wisconsin-Madison,"Madison, WI",United States,Custom Hardware to Adapt Conventional Flexible MRI Coils for Interventional Applications
 Technology,19,61,Qiaozhi Chen,Otto-von-Guericke University,Magdeburg,Germany,Design and Preliminary Evaluation of an MR-Compatible Microwave Applicator Holder with Motion-Adaptive Compliance for Interventional MRI Procedures
 Technology,20,149,Isabella Duan,Columbia University,"New York, NY",United States,Dynamic Decoupling of RF Coil Arrays for Interventional MRI
-Technology,21,25,Gina Thieße,Otto-von-Guericke University,Magdeburg,Germany,Comparison of Three Real-Time Marker Detection Algorithms for Instrument Tracking of MRI-Guided Robotic Needle Interventions
+Technology,21,25,Anton Schlünz,Otto-von-Guericke University,Magdeburg,Germany,Comparison of Three Real-Time Marker Detection Algorithms for Instrument Tracking of MRI-Guided Robotic Needle Interventions
 Technology,22,95,Evangelia Ilia,University of Twente,Enschede,Netherlands,Feasibility of Extended Reality Guidance for MRI-Guided Interventions: A Phantom Evaluation in Cardiac and Prostate Applications
 Technology,23,114,Ryo Murakami,Worcester Polytechnic Institute,"Worcester, MA",United States,From Stop-and-Go to Continuous in MRI-Guided Needle Steering: Addressing Delayed and Sparse Feedback
 Technology,24,111,Tae Wan Kim,Worcester Polytechnic Institute,"Worcester, MA",United States,Bidirectional Continuous Rotation and Variable Curvature Needle Steering (B-CURV) for MRI-Guided Robotic Prostate Biopsy
@@ -52,7 +51,7 @@ MSK,50,24,Setayesh Sotoudehnia Korani,Mayo Clinic,"Rochester, MN",United States,
 MSK,51,101,Hasan Usmani,Idaho College of Osteopathic Medicine,"Meridian, ID",United States,MR-Guided Ablation in Kaposiform Hemangioendothelioma
 MSK,52,19,Ola Mohamed,Mayo Clinic,"Rochester, MN",United States,MR guided cryoablation for treatment of painful large to medium slow-flow venous malformations in the plantar foot - a retrospective study
 MSK,53,13,Ola Mohamed,Mayo Clinic,"Rochester, MN",United States,Sequential MR-guided laser and cryoablation of a recurrent painful slow-flow venous malformation in a 6-year-old
-MSK,54,35,Laurel Woodrum,Mayo Clinic,"Rochester, MN",United States,MRI-Guided Cryoablation for Recurrent Pediatric Hand Desmoid Tumor: A Longitudinal Case Report
+MSK,54,35,Laurel Woodrum,Mayo Clinic,"Des Moines, IA",United States,MRI-Guided Cryoablation for Recurrent Pediatric Hand Desmoid Tumor: A Longitudinal Case Report
 MSK,55,37,Setayesh Sotoudehnia Korani,Mayo Clinic,"Rochester, MN",United States,MRI-Guided Cryoablation of a Bilateral Plantar Fibromatosis
 Body,56,67,Aiming Lu,Mayo Clinic,"Rochester, MN",United States,MRI-Guided Microwave Ablation of Hepatic Metastases Using a High-Energy MR-Compatible Microwave System: Initial Clinical Series
 Body,57,76,Ola Mohamed,Mayo Clinic,"Rochester, MN",United States,MR-Guided Cryoablation for Local Control of Adrenal Gland Metastases - A Case Series
@@ -76,14 +75,14 @@ MR Thermometry,74,115,Zhengyu Lin,Fujian Medical University,Fuzhou,China,Microwa
 MR Thermometry,75,148,Jonas Frederik Faust,Siemens Healthineers,Erlangen,Germany,Respiratory-Triggered Real-Time PRF Thermometry in the Liver at 0.55 T
 MR Thermometry,76,123,Dominik Horstmann,Hannover Medical School,Hannover,Germany,Volumetric 3D Stack-of-Spirals PRFS Thermometry at 0.55 T for MR-Guided Hepatic Microwave Ablation: Initial Feasibility
 MR Thermometry,77,57,Eber Dantas,Federal University of Rio de Janeiro,Rio de Janeiro,Brazil,A Subvoxel Correction of Boiling-Induced Susceptibility Artifacts in MR Thermometry and Dosimetry for Monitoring MW Thermoablation
-MR Thermometry,78,52,Yuqing Fan,Cornell University,"New York, NY",United States,MR-Compatible Testbed for MR Thermometry in Liver Microwave Ablation with Heat-Sink Effect
+MR Thermometry,78,52,Yuqing Fan,Cornell University,"Ithaca, NY",United States,MR-Compatible Testbed for MR Thermometry in Liver Microwave Ablation with Heat-Sink Effect
 MR Thermometry,79,151,Ana Sofia Garcia,Otto-von-Guericke University,Magdeburg,Germany,Using Fiber Bragg Grating Sensor Arrays to Validate MR Thermometry
 Safety,80,104,Setayesh Sotoudehnia Korani,Mayo Clinic,"Rochester, MN",United States,Safety and Efficacy of Live Intraprocedural Neuromonitoring During Interventional MRI Guided Ablation: A Retrospective Analysis
 Safety,81,87,Laura Maria Bauer,LMU University Hospital,Munich,Germany,Technical Performance and Quality Assessment of Clinical Interventional MR Microwave Applicators for Microwave Ablation Procedures
 Safety,82,132,Aiming Lu,Mayo Clinic,"Rochester, MN",United States,Effective Wire Heating Risk Mitigation for Intraoperative Neurophysiological Monitoring during MRI-Guided Ablations
 Safety,83,133,Janis Seibt,Otto-von-Guericke University,Magdeburg,Germany,Reliability of Vendor-Provided Gradient Data for Interventional Off-Center MR Imaging
 Safety,84,134,Aiming Lu,Mayo Clinic,"Rochester, MN",United States,Mitigation of RF Heating and Needle Artifacts in MRI-Guided Interventions Using RF Chokes
-Safety,85,5,Li Xiao,Tuen Mun Hospital,Tuen Mun,Hong Kong,Quantitative Investigation of Off-Centre Positioning Effects on MR Image Quality in an Interventional Setting based on Phantom study
+Safety,85,5,Li Xiao,Tuen Mun Hospital,Hong Kong,Hong Kong,Quantitative Investigation of Off-Centre Positioning Effects on MR Image Quality in an Interventional Setting based on Phantom study
 Safety,86,41,Hui Chen,Hannover Medical School,Hannover,Germany,Large Language Model-Supported Multi-Agent Pipeline for Speech-Based Workflow Analysis in Interventional Radiology: A Proof-of-Concept Study
 Safety,87,47,Daniel Hernandez,Gachon University Gil Medical Center,Incheon,South Korea,High Impedance Dielectric Cable Combination to Reduce Burn Risk from Intraoperative Neuromonitoring During MRI
 Safety,88,48,Suin Choi,Gachon University,Incheon,South Korea,Electromagnetic-Thermal Analysis of RF-Induced IONM Lead Heating at 1.5T MRI: Quantitative Effects of Geometric Parameters
@@ -91,6 +90,6 @@ Safety,89,54,Sarah Fasbender,Mayo Clinic,"Rochester, MN",United States,Safety in
 Safety,90,60,Steven Fischer,University of Waterloo,"Waterloo, ON",Canada,Ergonomic Comparison of CT- and MR-Guided Needle Interventions Using Digital Human Model Simulation
 Safety,91,78,Angela Pooler,Mayo Clinic,"Rochester, MN",United States,MR-Guided Ablation in Patients with Active Implanted Medical Devices
 Safety,92,89,Katie Gehling,Mayo Clinic,"Rochester, MN",United States,Safety in Zone 4 of the Interventional MRI Suite During MR Guided Cryoablation - A Nursing Perspective
-Safety,93,128,Moises Cruz,Mayo Clinic,"Rochester, MN",United States,CPT Code Based Reimbursement Disparity Between Prostate Cryoablation (55873) and Radical Prostatectomy (55866): Implications for Interventional Radiology Practice and Value Based Care
+Safety,93,128,Moises Cruz,Mayo Clinic,"Bloomington, IN",United States,CPT Code Based Reimbursement Disparity Between Prostate Cryoablation (55873) and Radical Prostatectomy (55866): Implications for Interventional Radiology Practice and Value Based Care
 Policy,94,124,Moritz Ludwig Schnitzer,LMU University Hospital,Munich,Germany,Cost-Effectiveness of MR-Guided versus CT-Guided Biopsy of Small Focal Liver Lesions: A Decision-Analytic Analysis
-Policy,95,127,Moises Cruz,Mayo Clinic,"Rochester, MN",United States,Reimbursement Disparity Between CT-Guided and MR-Guided Percutaneous Ablation Procedures Under the CY2026 Medicare Physician Fee Schedule
+Policy,95,127,Moises Cruz,Mayo Clinic,"Bloomington, IN",United States,Reimbursement Disparity Between CT-Guided and MR-Guided Percutaneous Ablation Procedures Under the CY2026 Medicare Physician Fee Schedule
