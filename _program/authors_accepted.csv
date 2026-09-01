@@ -1,0 +1,1153 @@
+Sub_ID,Author,Email,Country,City,Affiliation
+3,Vanessa F. Schmidt,vanessa.schmidt@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+3,Philipp Linden,philipp.linden@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+3,Olaf Dietrich,olaf.dietrich@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+3,Sinan Deniz,sinan.deniz@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+3,Daniel Puhr-Westerheide,daniel.puhr-westerheide@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+3,Osman Öcal,osman.oecal@med.uni-heidelberg.de,Germany,Heidelberg,"Heidelberg University Hospital, Heidelberg"
+3,Mingming Wu,mingming.wu@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+3,Luigi Nardone,luiginardone1996@gmail.com,Italy,Udine,"University of Udine, Udine"
+3,Florian Maier,f.maier@siemens-healthineers.com,Germany,Erlangen,"Siemens Healthineers AG, Erlangen"
+3,Ricarda Seidensticker,ricarda.seidensticker@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+3,Moritz Wildgruber,moritz.wildgruber@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+3,Jens Ricke,jens.ricke@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+3,Matthias Philipp Fabritius,matthias.fabritius@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+3,Max Seidensticker,max.seidensticker@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+5,Li Xiao,xl430@ha.org.hk,Hong Kong,Hong Kong,"Tuen Mun Hospital, Hong Kong"
+5,Philip Lee,lys273@ha.org.hk,Hong Kong,Hong Kong,"Tuen Mun Hospital, Hong Kong"
+5,O L Chan,col950@ha.org.hk,Hong Kong,Hong Kong,"Tuen Mun Hospital, Hong Kong"
+5,Oscar Sin,skw680@ha.org.hk,Hong Kong,Hong Kong,"Tuen Mun Hospital, Hong Kong"
+5,H F Tse,thf921@ha.org.hk,Hong Kong,Hong Kong,"Tuen Mun Hospital, Hong Kong"
+5,Jimmy Siu,scw816@ha.org.hk,Hong Kong,Hong Kong,"Tuen Mun Hospital, Hong Kong"
+5,Allen Li,lia@ha.org.hk,Hong Kong,Hong Kong,"Tuen Mun Hospital, Hong Kong"
+5,Juan Wei,juan.wei@siemens-healthineers.com,Hong Kong,Hong Kong,"Siemens Healthcare Limited, Hong Kong"
+5,K Y Kwok,kwokky2@ha.org.hk,Hong Kong,Hong Kong,"Tuen Mun Hospital, Hong Kong"
+6,Hans Jonas Meyer,jonas90.meyer@web.de,Germany,Leipzig,"Uniklinikum Leipzig Diagnostische und Interventionelle
+Radiologie"
+6,Timm Denecke,Timm.Denecke@medizin.uni-leipzig.de,Germany,Leipzig,"Uniklinikum Leipzig Diagnostische und Interventionelle
+Radiologie"
+6,Silke Zimmermann,silke.zimmermann@medizin.uni-leipzig.de,Germany,Leipzig,"Institute of Laboratory Medicine, Clinical Chemistry, and
+Molecular Diagnostics, University Hospital, Leipzig,
+Germany."
+7,Xin Weng,2107724079@qq.com,China,Xi'an,Xi'an International Medical Center Hospital
+7,Pin Nie,niepin89@163.com,China,Xi'an,Xi'an International Medical Center Hospital
+7,Yanli Dang,1031392960@qq.com,China,Xi'an,Xi'an International Medical Center Hospital
+7,Kaiguo Zhu,linnandeai@163.com,China,Xi'an,Xi'an International Medical Center Hospital
+7,Jintao Hu,302991751@qq.com,China,Xi'an,Xi'an International Medical Center Hospital
+7,Baoying Chen,chenby128@163.com,China,Xi'an,Xi'an International Medical Center Hospital
+8,Franz Wegner,franz.wegner@uksh.de,Germany,Lübeck,University of Luebeck
+8,Marius R. Meyer,marius.meyer@uni-due.de,Germany,Essen,University Duisburg-Essen
+8,Valentine Gesché,valentine.gesche@peragraft.de,Germany,Aachen,PerAGraft GmbH
+8,Paul Borm,pbo@nano4imaging.com,Germany,Düsseldorf,Nano4Imaging GmbH
+8,Samuel Müller,samuel.mueller@nano4imaging.com,Germany,Düsseldorf,Nano4Imaging GmbH
+8,Franziska Seidensticker,franziska.seidensticker@imte.fraunhofer.de,Germany,Lübeck,Fraunhofer IMTE
+8,Annika C. Dell,annika.dell@imte.fraunhofer.de,Germany,Lübeck,Fraunhofer IMTE
+8,Georg Männel,georg.maennel@imte.fraunhofer.de,Germany,Lübeck,Fraunhofer IMTE
+8,Dennis Wendt,dennis.wendt@imte.frauhofer.de,Germany,Lübeck,Fraunhofer IMTE
+8,Thomas Friedrich,thomas.friedrich@imte.fraunhofer.de,Germany,Lübeck,Fraunhofer IMTE
+8,Thorsten M. Buzug,thorsten.buzug@imte.fraunhofer.de,Germany,Lübeck,Fraunhofer IMTE
+8,Jörg Barkhausen,joerg.barkhausen@uksh.de,Germany,Lübeck,University of Luebeck
+8,Roman Kloeckner,roman.kloeckner@uksh.de,Germany,Lübeck,University of Luebeck
+8,Malte M. Sieren,malte.sieren@uksh.de,Germany,Lübeck,University of Luebeck
+9,Vanessa F. Schmidt,vanessa.schmidt@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+9,Olaf Dietrich,olaf.dietrich@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+9,Sinan Deniz,sinan.deniz@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+9,Daniel Puhr-Westerheide,daniel.puhr-westerheide@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+9,Osman Öcal,osman.oecal@med.uni-heidelberg.de,Germany,Heidelberg,"Heidelberg University Hospital, Heidelberg"
+9,Moritz Schnitzer,moritz.schnitzer@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+9,Florian Obereisenbuchner,florian.obereisenbuchner@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+9,Mingming Wu,mingming.wu@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+9,Florian Maier,f.maier@siemens-healthineers.com,Germany,Erlangen,"Siemens Healthineers AG, Erlangen"
+9,Ricarda Seidensticker,ricarda.seidensticker@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+9,Moritz Wildgruber,moritz.wildgruber@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+9,Jens Ricke,jens.ricke@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+9,Matthias Philipp Fabritius,matthias.fabritius@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+9,Max Seidensticker,max.seidensticker@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+11,Paul E Hermann,paul_herm@icloud.com,Germany,Lübeck,"Institute of Interventional Radiology, University Hospital
+Schleswig-Holstein, Lübeck, Germany"
+12,Sangeun Song,ssong@uakron.edu,United States,"Akron, OH",University of Akron
+12,Ulas Bagci,ulas.bagci@northwestern.edu,United States,"Chicago, IL",Northwestern University
+12,Ramsey Kinney,ramsey.kinney@va.gov,United States,"Orlando, FL",Orlando VA Medical Center
+12,Jutta Ellermann,eller001@umn.edu,United States,"Minneapolis, MN",University of Minnesota
+13,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+13,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo clinic rochester minnesota
+13,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+13,Haraldur Bjarnason,Bjarnason.Haraldur@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+13,Megha Tollefson,Tollefson.Megha@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+13,Emily Bendel,Bendel.Emily@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+13,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+13,Angela Bathke,bathke.angela@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+13,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+13,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+14,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+14,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo clinic rochester minnesota
+14,Lance Myenderse,Myenderse.lance@mayo.edu,United States,"Rochester, MN",Mayo clinic rochester minnesota
+14,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+14,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+14,Angela Bathke,bathke.angela@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+14,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+14,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+16,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+16,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+16,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+16,Lance Mynderse,mynderse.lance@mayo.edu,United States,"Rochester, MN",Department of Urology Mayo Clinic
+16,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+16,Angela Bathke,bathke.angela@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+16,Derek Lomas,lomas.derek@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+16,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+16,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+17,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+17,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+17,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+17,Lance Mynderse,mynderse.lance@mayo.edu,United States,"Rochester, MN",Department of Urology Mayo Clinic
+17,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+17,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+17,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+18,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+18,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+18,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+18,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+18,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+18,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+19,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+19,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+19,Haraldur Bjarnason,Bjarnason.Haraldur@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+19,Juna Musa,musa.juna@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+19,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+19,Megha Tollefson,Tollefson.Megha@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+19,Emily Bendel,Bendel.Emily@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+19,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+19,Angela Bathke,bathke.angela@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+19,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+19,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+20,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+20,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+20,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+20,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+20,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+20,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+21,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+21,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+21,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+21,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+21,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+21,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+22,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+22,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+22,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+22,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+22,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+22,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+23,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+23,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+23,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+23,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+23,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+23,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+24,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+24,Brian Welch,Welch.Brian@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+24,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+24,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+24,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+24,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+25,Gina Thieße,gina.thiesse@ovgu.de,Germany,Magdeburg,"Otto-von-Guericke University Magdeburg, FEIT, Germany;
+Research Campus STIMULATE, Magdeburg, Germany"
+25,Marcel Gutberlet,gutberlet.marcel@mh-hannover.de,Germany,Magdeburg,"Research Campus STIMULATE, Magdeburg, Germany; Inst. of
+Diagn. and Interv. Radiology, Hannover Medical School,
+Germany"
+25,Bennet Hensen,hensen.bennet@mh-hannover.de,Germany,Magdeburg,"Research Campus STIMULATE, Magdeburg, Germany; Inst. of
+Diagn. and Interv. Radiology, Hannover Medical School,
+Germany"
+25,Frank Wacker,Wacker.Frank@mh-hannover.de,Germany,Magdeburg,"Research Campus STIMULATE, Magdeburg, Germany; Inst. of
+Diagn. and Interv. Radiology, Hannover Medical School,
+Germany"
+25,Anton Schlünz,anton.schluenz@ovgu.de,Germany,Magdeburg,"Otto-von-Guericke University Magdeburg, FEIT, Germany;
+Research Campus STIMULATE, Magdeburg, Germany"
+25,Oliver Speck,oliver.speck@ovgu.de,Germany,Magdeburg,"Otto-von-Guericke University Magdeburg, FNW, Germany;
+Research Campus STIMULATE, Magdeburg, Germany"
+25,Georg Rose,georg.rose@ovgu.de,Germany,Magdeburg,"Otto-von-Guericke University Magdeburg, FEIT, Germany;
+Research Campus STIMULATE, Magdeburg, Germany"
+25,Ivan Vogt,ivan.vogt@ovgu.de,Germany,Magdeburg,"Otto-von-Guericke University Magdeburg, FEIT, Germany;
+Research Campus STIMULATE, Magdeburg, Germany"
+26,Matthias Philipp Fabritius,matthias.fabritius@med.uni-muenchen.de,Germany,Munich,"Department of Radiology, LMU University Hospital, Munich"
+26,Vanessa F. Schmidt,vanessa.schmidt@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+26,Daniel Puhr-Westerheide,daniel.puhr-westerheide@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+26,Jens Ricke,jens.ricke@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+26,Olaf Dietrich,olaf.dietrich@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+26,Osman Öcal,osman.oecal@med.uni-heidelberg.de,Germany,Heidelberg,"Heidelberg University Hospital, Heidelberg"
+26,Max Seidensticker,max.seidensticker@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+28,Lauren Marlatt,lmarlatt@wisc.edu,United States,"Madison, WI",University of Wisconsin School of Medicine and Public Health
+28,Tom Lilieholm,tlilieholm@wisc.edu,United States,"Madison, WI",University of Wisconsin-Madison Medical Physics
+28,Michael Risk,risk@urology.wisc.edu,United States,"Madison, WI",University of Wisconsin School of Medicine and Public Health
+28,David Jarrard,jarrard@urology.wisc.edu,United States,"Madison, WI",University of Wisconsin School of Medicine and Public Health
+28,Erica Knavel-Koepsel,knavel@wisc.edu,United States,"Madison, WI",University of Wisconsin School of Medicine and Public Health
+29,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+29,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+29,Andrew Mason,maosn.andrew@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+29,Matthew Augustine,augustine.matthew@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+29,Brian Welch,Welch.Brian@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+29,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+29,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+29,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+30,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+30,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+30,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+30,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+30,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+30,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+31,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic Rochester"
+31,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+31,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+31,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+31,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+31,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+34,Yueran Zhao,hi_iamrr@sjtu.edu.cn,China,Shanghai,"Biomedical Instrument Institute, School of Biomedical
+Engineering, Shanghai Jiao Tong University, Shanghai, China"
+34,Shenyan Zong,shenyanzong@sjtu.edu.cn,China,Shanghai,"Shanghai Sixth People’s Hospital Affiliated to Shanghai
+Jiao Tong University School of Medicine, Shanghai, China"
+34,Guofeng Shen,shenguofeng@sjtu.edu.cn,China,Shanghai,"Biomedical Instrument Institute, School of Biomedical
+Engineering, Shanghai Jiao Tong University, Shanghai, China"
+34,Chang-Sheng Mei,mei.changsheng@gmail.com,Taiwan,Taipei,"Soochow University, Taipei, Taiwan & Harvard Medical
+School, Brigham and Women’s Hospital, Boston, MA, USA"
+35,Laurel Woodrum,Laurel.Woodrum@dmu.edu,United States,"Des Moines, IA",Des Moines University
+35,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+35,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+35,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+35,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+36,Othmar Belker,belker.othmar@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Germany"
+36,Simon Schröer,schroeer.simon@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Germany"
+36,Thomas Gerlach,thomas.gerlach@ovgu.de,Germany,Magdeburg,"Otto von Guericke University Magdeburg, Institute for
+Medical Engineering, Germany"
+36,Max Joris Hubmann,joris.hubmann@ovgu.de,Germany,Magdeburg,"Otto von Guericke University Magdeburg, Institute for
+Information Technology and Communications, Germany"
+36,Daniel Düx,duex.daniel@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Germany"
+36,Marcel Eisenmann,marcel.eisenmann@ovgu.de,Germany,Magdeburg,"Research Campus STIMULATE, Germany"
+36,Christoph Fritsch,christoph.fritsch@st.ovgu.de,Germany,Magdeburg,"Otto von Guericke University Magdeburg, Institute for
+Physics, Germany"
+36,Julian Glandorf,glandorf.julian@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Germany"
+36,Seben Sena Yerdelen,Yerdelen.Sena@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Germany"
+36,Inga Bruesch,bruesch.inga@mh-hannover.de,Germany,Hannover,"Institute for Laboratory Animal Science and Central Animal
+Facility, Hannover Medical School, Germany"
+36,Björn Hartleben,hartleben.bjoern@mh-hannover.de,Germany,Hannover,"Institute of Pathology, Hannover Medical School, Germany"
+36,Sahar Arbabzadah,arbabzadah.sahar@mh-hannover.de,Germany,Hannover,"Department of General, Visceral and Transplantation
+Surgery, Hannover Medical School, Germany"
+36,Jörg Mengwasser,mengwasser.joerg@mh-hannover.de,Germany,Hannover,"Department of General, Visceral and Transplantation
+Surgery, Hannover Medical School, Germany"
+36,Philipp Felgendreff,felgendreff.philipp@mh-hannover.de,Germany,Hannover,"Department of General, Visceral and Transplantation
+Surgery, Hannover Medical School, Germany"
+36,Georg Rose,georg.rose@ovgu.de,Germany,Magdeburg,"Otto von Guericke University Magdeburg, Institute for
+Medical Engineering, Germany"
+36,Frank Wacker,Wacker.Frank@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Germany"
+36,Marcel Gutberlet,gutberlet.marcel@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Germany"
+36,Bennet Hensen,hensen.bennet@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Germany"
+37,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+37,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+37,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+37,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+37,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+37,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+38,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+38,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+38,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+38,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+38,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+38,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+40,Majd Antaki,mantaki1@jhmi.edu,United States,"Baltimore, MD","Radiation Oncology, Johns Hopkins University School of
+Medicine"
+40,Junghoon Lee,junghoon@jhu.edu,United States,"Baltimore, MD","Radiation Oncology, Johns Hopkins University School of
+Medicine"
+40,Michael Roumeliotis,mroumel1@jh.edu,United States,"Baltimore, MD","Radiation Oncology, Johns Hopkins University School of
+Medicine"
+40,Gayoung Kim,gkim86@jhu.edu,United States,"Baltimore, MD","Radiation Oncology, Johns Hopkins University School of
+Medicine"
+40,Khadija Sheikh,ksheikh4@jhmi.edu,United States,"Baltimore, MD","Radiation Oncology, Johns Hopkins University School of
+Medicine"
+40,Bruce L Daniel,bdaniel@stanford.edu,United States,"Stanford, CA","Radiology, Stanford University"
+40,Daniel Song,dsong2@jhu.edu,United States,"Baltimore, MD","Radiation Oncology, Johns Hopkins University School of
+Medicine"
+40,Ravi Seethamraju,Ravi.Seethamraju@siemens-healthineers.com,United States,"Boston, MA",Siemens Healthineers
+40,Yury Niatsetski,yury.niatsetski@elekta.com,Sweden,Stockholm,Elekta Nucletron
+40,Junichi Tokuda,tokuda@bwh.harvard.edu,United States,"Boston, MA","Radiology, Brigham and Women's Hospital"
+40,Robert A Cormack,RCORMACK@BWH.HARVARD.EDU,United States,"Boston, MA","Radiation Oncology, Brigham and Women's Hospital"
+40,Charles L Dumoulin,Charles.Dumoulin@cchmc.org,United States,"Cincinnati, OH",Cincinnati Children's Hospital Medical Center
+40,Wolfgang Loew,wolfgang.loew@cchmc.org,United States,"Cincinnati, OH",Cincinnati Children's Hospital Medical Center
+40,Ehud J Schmidt,eschmi17@jhu.edu,United States,"Baltimore, MD","Medicine (Cardiology), Johns Hopkins University School of
+Medicine"
+40,Akila N Viswanathan,anv@jhu.edu,United States,"Baltimore, MD","Radiation Oncology, Johns Hopkins University School of
+Medicine"
+41,Hui Chen,chen.hui@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Hanover, Germany"
+41,Enrico Pannicke,enrico.pannicke@meshwerk.ai,Germany,Magdeburg,"MESHwerk GmbH, Magdeburg, Germany"
+41,Frank Wacker,radiologie@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Hanover, Germany"
+41,Marcel Gutberlet,gutberlet.marcel@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Hanover, Germany"
+41,Bennet Hensen,hensen.bennet@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Hanover, Germany"
+42,Thomas Gerlach,thomas.gerlach@ovgu.de,Germany,Magdeburg,"Otto von Guericke University Magdeburg, Research Campus
+STIMULATE, Germany"
+42,Othmar Belker,belker.othmar@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Germany"
+42,Marcel Gutberlet,gutberlet.marcel@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Germany"
+42,Bennet Hensen,hensen.bennet@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Germany"
+42,Frank Wacker,Wacker.Frank@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Germany"
+42,Oliver Speck,oliver.speck@ovgu.de,Germany,Magdeburg,"Department of Biomedical Magnetic Resonance,
+Otto-von-Guericke University Magdeburg"
+42,Ralf Vick,ralf.vick@ovgu.de,Germany,Magdeburg,Otto von Guericke University Magdeburg
+43,Thomas Lilieholm,tlilieholm@wisc.edu,United States,"Madison, WI","University of Wisconsin at Madison, Medical Physics"
+43,Nirvaan N Jaitli,jaitli@wisc.edu,United States,"Madison, WI",University of Wisconsin at Madison
+43,Terrence R Oakes,troakes@gmail.com,United States,"Madison, WI",ImgGyd
+43,Azam S Ahmed,azam.ahmed@neurosurgery.wisc.edu,United States,"Madison, WI","University of Wisconsin at Madison, Neurosurgery"
+43,Andrew L Alexander,andy.alexander@wisc.edu,United States,"Madison, WI","University of Wisconsin at Madison, Waisman Center"
+43,Walter F Block,wfblock@wisc.edu,United States,"Madison, WI","University of Wisconsin at Madison, Medical Physics"
+44,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+44,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+44,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+44,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+44,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+44,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+45,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+45,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+45,Lance Mynderse,mynderse.lance@mayo.edu,United States,"Rochester, MN",Department of Urology Mayo Clinic
+45,Martin Requardt,martin.requardt@siemens-healthineers.com,Germany,Erlangen,Siemens Healthineers
+45,Xingmin Guan,xguan@profoundmedical.com,United States,"Mississauga, ON","Profound Medical Corp, Mississauga, ON, Canada"
+45,Joseph Busch,jbusch@buschcenter.com,United States,"Alpharetta, GA",The Busch Center
+45,Axel Krafft,axeljoachim.krafft@siemens-healthineers.com,Germany,Erlangen,Siemens Healthineers
+45,Ben Leung,bleung@profoundmedical.com,United States,"Mississauga, ON","Profound Medical Corp, Mississauga, ON, Canada"
+47,Daniel Hernandez,danmri@gachon.ac.kr,South Korea,Incheon,Gachon University Gil Medical Center
+47,Suin Choi,choisuin0324@gachon.ac.kr,South Korea,Incheon,"Department of Biomedical Engineering, Gachon University"
+47,Taewoo Nam,xodn99962140@gmail.com,South Korea,Incheon,"Neuroscience Research Institute, Gachon University"
+47,Eunwoo Lee,dldmsdn0701@gmail.com,South Korea,Incheon,Gachon University Gil Medical Center
+47,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic, Rochester, MN, US"
+47,Christopher P. Favazza,Favazza.Christopher@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic, Rochester, MN, US"
+47,Eric G. Stinson,stinson.eric@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic, Rochester, MN, US"
+47,David A. Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic, Rochester, MN, US"
+47,Kyoung-Nam Kim,kyoungnam.kim@gachon.ac.kr,South Korea,Incheon,"Department of Biomedical Engineering, Gachon University,
+Seongnam, Korea"
+47,Myung-Ho In,in.myungho@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic, Rochester, MN, US"
+48,Suin Choi,choisuin0324@gachon.ac.kr,South Korea,Incheon,"Department of Biomedical Engineering, Gachon University"
+48,Daniel Hernandez,danmri@gachon.ac.kr,South Korea,Incheon,Gachon University Gil Medical Center
+48,Taewoo Nam,xodn99962140@gmail.com,South Korea,Incheon,"Neuroscience Research Institute, Gachon University"
+48,Eunwoo Lee,dldmsdn0701@gmail.com,South Korea,Incheon,Gachon University Gil Medical Center
+48,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic, Rochester, MN, US"
+48,Christopher P. Favazza,Favazza.Christopher@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic, Rochester, MN, US"
+48,Eric G. Stinson,stinson.eric@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic, Rochester, MN, US"
+48,David A. Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic, Rochester, MN, US"
+48,Kyoung-Nam Kim,kyoungnam.kim@gachon.ac.kr,South Korea,Incheon,"Department of Biomedical Engineering, Gachon University,
+Seongnam, Korea"
+48,Myung-Ho In,in.myungho@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic, Rochester, MN, US"
+49,Manon Desclides,manon.desclides@u-bordeaux.fr,France,Bordeaux,"University of Bordeaux, CNRS, CMRSB, UMR 5536, F-33000
+Bordeaux"
+49,Bastien Gouges,gouges.bastien@gmail.com,France,Lille,"Department of Neurosurgery, U1189 - ONCO-THAI, Univ. Lille,
+Inserm, CHU Lille"
+49,Anne-Sophie Dewalle,anne-sophie.dewalle@inserm.fr,France,Lille,"U1189 - ONCO-THAI - Assisted Laser Therapy and
+Immunotherapy for Oncology, Univ. Lille, Inserm, CHU Lille"
+49,Gregory Baert,gregory.baert@inserm.fr,France,Lille,"U1189 - ONCO-THAI - Assisted Laser Therapy and
+Immunotherapy for Oncology, Univ. Lille, Inserm, CHU Lille"
+49,Benoit Derre,Benoit.DERRE@chu-lille.fr,France,Lille,"Department of Neurosurgery, Univ. Lille, CHU Lille"
+49,Quentin Vannod Michel,Quentin.VANNODMICHEL@CHU-LILLE.FR,France,Lille,"Department of Neuroradiology, Univ. Lille, CHU Lille"
+49,Jean-Luc Battaglia,jean-luc.battaglia@u-bordeaux.fr,France,Bordeaux,"Univ. Bordeaux, CNRS, Bordeaux INP, I2M, UMR 5295, F-33400,
+Talence, France"
+49,Nadira Delhem,nadira.delhem@univ-lille.fr,France,Lille,"U1189 - ONCO-THAI - Assisted Laser Therapy and
+Immunotherapy for Oncology, Univ. Lille, Inserm, CHU Lille"
+49,Nicolas Reyns,Nicolas.REYNS@chu-lille.fr,France,Lille,"Department of Neurosurgery, U1189 - ONCO-THAI, Univ. Lille,
+Inserm, CHU Lille"
+49,Valéry Ozenne,valery.ozenne@u-bordeaux.fr,France,Bordeaux,"University of Bordeaux, CNRS, CMRSB, UMR 5536, F-33000
+Bordeaux"
+50,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+50,Ben Leung,bleung@profoundmedical.com,United States,"Mississauga, ON","Profound Medical Corp, Mississauga, ON, Canada"
+50,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+50,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+50,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+50,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+50,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+51,J.G.R. Bomers,joyce.bomers@radboudumc.nl,Netherlands,Nijmegen,"Radboud University Medical Center, Nijmegen, the Netherlands"
+51,D.G.H. Bosboom,Dennis.Bosboom@radboudumc.nl,Netherlands,Arnhem,"Radboud University Medical Center, Nijmegen, the
+Netherlands and Soteria Medical, Arnhem, the Netherlands"
+51,M. Willemen,M.Willemen@soteria-medical.com,Netherlands,Arnhem,"Soteria Medical, Arnhem, the Netherlands"
+51,M. Hoogenboom,M.Hoogenboom@soteria-medical.com,Netherlands,Arnhem,"Soteria Medical, Arnhem, the Netherlands"
+51,J.J. Fütterer,Jurgen.Futterer@radboudumc.nl,Netherlands,Nijmegen,"Radboud University Medical Center, Nijmegen, the Netherlands"
+52,Yuqing Fan,yf427@cornell.edu,United States,"Ithaca, NY",M.Eng. in Biomedical Engineering Cornell University
+52,Suelia Fleury Rosa,sdf73@cornell.edu,United States,"Ithaca, NY",M.Eng. in Biomedical Engineering Cornell University
+52,Junichi Tokuda,tokuda@bwh.harvard.edu,United States,"Boston, MA",Brigham and Women's Hospital and Harvard Medical School
+52,Mariana Bernardes,mcostabernardesmatias@bwh.harvard.edu,United States,"Boston, MA",Brigham and Women's Hospital and Harvard Medical School
+53,Wayne Stenzel,stenzel.wayne@mayo.edu,United States,"Rochester, MN",mayo clinic
+53,Eric Stinson,stinson.eric@mayo.edu,United States,"Rochester, MN","Mayo Clinic, Rochester, MN"
+53,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN","Mayo Clinic, Rochester, MN"
+53,Jeremy Collins,collins.jeremy@mayo.edu,United States,"Rochester, MN","Mayo Clinic, Rochester, MN"
+53,Emily Bendel,Bendel.Emily@mayo.edu,United States,"Rochester, MN","Mayo Clinic, Department of Radiology"
+53,Robert Mcdonald,mcdonald.robert@mayo.edu,United States,"Rochester, MN",mayo clinic
+53,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN","Mayo Clinic, Rochester, MN"
+54,Sarah Fasbender,fasbender.sarah@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+54,Heather Heimer,heimer.heather@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+54,Katie Gehling,gehling.kathleen1@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+54,Courtney Burke,Burke.Courtney@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+54,Ang Bathke,bathke.angela@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+54,Christopher Favazza,Favazza.Christopher@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+54,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+54,Myungho In,in.myungho@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+54,Eric Stinson,stinson.eric@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+54,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+55,Ridaa Ali,rza3@case.edu,United States,"Cleveland, OH","Case Western Reserve University, Cleveland, OH, USA"
+55,Eser Tuna,eet12@case.edu,United States,"Cleveland, OH","Case Western Reserve University, Cleveland, OH, USA"
+55,Andrew Dupuis,andrew.dupuis@case.edu,United States,"Cleveland, OH","Case Western Reserve University, Cleveland, OH, USA"
+55,Yen-Chun Chen,yxc1873@case.edu,United States,"Cleveland, OH","Case Western Reserve University, Cleveland, OH, USA"
+55,Ahmed Aydin,axa1050@case.edu,United States,"Cleveland, OH","Case Western Reserve University, Cleveland, OH, USA"
+55,Tobias Cowles,tgc21@case.edu,United States,"Cleveland, OH","Case Western Reserve University, Cleveland, OH, USA"
+55,Gary Pawlowski,gpawlowski@metrohealth.org,United States,"Cleveland, OH","MetroHealth Medical Center, Cleveland, OH, USA"
+55,Brendan Morgan,bmorgan1@metrohealth.org,United States,"Cleveland, OH","MetroHealth Medical Center, Cleveland, OH, USA"
+55,Michael Markley,michael.markley@uhhospitals.org,United States,"Cleveland, OH","Case Western Reserve University, Cleveland, OH, USA"
+55,Michael Kavran,mdk60@case.edu,United States,"Cleveland, OH","Case Western Reserve University, Cleveland, OH, USA"
+55,Ajay Bhandari,ajaybhandari@usf.edu,United States,"Tampa, FL","University of South Florida, Tampa, FL, USA"
+55,Hiram Bezerra,hbezerra@usf.edu,United States,"Tampa, FL","University of South Florida, Tampa, FL, USA"
+55,Joseph Piktel,jpiktel@metrohealth.org,United States,"Cleveland, OH","Case Western Reserve University, Cleveland, OH,
+USA;MetroHealth Medical Center, Cleveland, OH, USA"
+55,Mark Griswold,mag46@case.edu,United States,"Cleveland, OH","Case Western Reserve University, Cleveland, OH, USA"
+55,Daniel Herzka,dah189@case.edu,United States,"Cleveland, OH","Case Western Reserve University, Cleveland, OH, USA"
+55,Murat Cavusoglu,mcc14@case.edu,United States,"Cleveland, OH","Case Western Reserve University, Cleveland, OH, USA"
+56,Hippolyte Salles,hippolyte.salles@imt-atlantique.net,France,Bordeaux,"University of Bordeaux, CNRS, CMRSB, UMR 5536, F-33000
+Bordeaux"
+56,Nino Avetikovi,nino.avetikovi@rmsb.u-bordeaux.fr,France,Bordeaux,"University of Bordeaux, CNRS, CMRSB, UMR 5536, F-33000
+Bordeaux"
+56,Manon Desclides,manon.desclides@u-bordeaux.fr,France,Bordeaux,"University of Bordeaux, CNRS, CMRSB, UMR 5536, F-33000
+Bordeaux"
+56,Jean-Luc Battaglia,jean-luc.battaglia@u-bordeaux.fr,France,Bordeaux,"Univ. Bordeaux, CNRS, Bordeaux INP, I2M, UMR 5295, F-33400,
+Talence, France"
+56,Max Seidensticker,max.seidensticker@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+56,Olaf Dietrich,olaf.dietrich@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+56,Valéry Ozenne,valery.ozenne@u-bordeaux.fr,France,Bordeaux,CNRS
+57,Eber Dantas,eberdantas@mecanica.coppe.ufrj.br,Brazil,Rio de Janeiro,"Federal University of Rio de Janeiro, UFRJ, Department of
+Mechanical Engineering, Rio de Janeiro, Brazil"
+57,Rebecca Lafont,rebecca.lafont@grenoble-inp.org,France,Bordeaux,"Univ. Bordeaux, CNRS, CRMSB, UMR 5536, IHU Liryc, F-33000
+Bordeaux, France"
+57,Pierre Bour,bour@certis-therapeutics.com,France,Pessac,"Certis Therapeutics, Pessac, France"
+57,Thibaut Faller,faller@certis-therapeutics.com,France,Pessac,"Certis Therapeutics, Pessac, France"
+57,Bruno Quesson,bruno.quesson@u-bordeaux.fr,France,Bordeaux,"Univ. Bordeaux, CNRS, CRMSB, UMR 5536, IHU Liryc, F-33000
+Bordeaux, France"
+57,Helcio Orlande,helcio@mecanica.coppe.ufrj.br,Brazil,Rio de Janeiro,"Federal University of Rio de Janeiro, UFRJ, Department of
+Mechanical Engineering, Rio de Janeiro, Brazil"
+57,Valéry Ozenne,valery.ozenne@u-bordeaux.fr,France,Bordeaux,"Univ. Bordeaux, CNRS, CRMSB, UMR 5536, IHU Liryc, F-33000
+Bordeaux, France"
+58,Nino Avetikovi,nino.avetikovi@rmsb.u-bordeaux.fr,France,Bordeaux,"University of Bordeaux, CNRS, CMRSB, UMR 5536, F-33000
+Bordeaux"
+58,Ida Burgers,ida.burgers@u-bordeaux.fr,France,Bordeaux,"Univ. Bordeaux, CNRS, Bordeaux INP, I2M, UMR 5295, F-33400,
+Talence, France"
+58,Mariana De Melo Antunes,marianamelo@unifei.edu.br,France,Bordeaux,"Univ. Bordeaux, CNRS, Bordeaux INP, I2M, UMR 5295, F-33400,
+Talence, France"
+58,Manon Desclides,manon.desclides@u-bordeaux.fr,France,Bordeaux,"University of Bordeaux, CNRS, CMRSB, UMR 5536, F-33000
+Bordeaux"
+58,Olaf Dietrich,olaf.dietrich@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+58,Max Seidensticker,max.seidensticker@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+58,Jean-Luc Battaglia,jean-luc.battaglia@u-bordeaux.fr,France,Bordeaux,"Univ. Bordeaux, CNRS, Bordeaux INP, I2M, UMR 5295, F-33400,
+Talence, France"
+58,Valéry Ozenne,valery.ozenne@u-bordeaux.fr,France,Bordeaux,CNRS
+59,Nino Avetikovi,nino.avetikovi@rmsb.u-bordeaux.fr,France,Bordeaux,"University of Bordeaux, CNRS, CMRSB, UMR 5536, F-33000
+Bordeaux"
+59,Ida Burgers,ida.burgers@u-bordeaux.fr,France,Bordeaux,"Univ. Bordeaux, CNRS, Bordeaux INP, I2M, UMR 5295, F-33400,
+Talence, France"
+59,Mariana De Melo Antunes,marianamelo@unifei.edu.br,France,Bordeaux,"Univ. Bordeaux, CNRS, Bordeaux INP, I2M, UMR 5295, F-33400,
+Talence, France"
+59,Manon Desclides,manon.desclides@u-bordeaux.fr,France,Bordeaux,"University of Bordeaux, CNRS, CMRSB, UMR 5536, F-33000
+Bordeaux"
+59,Luigi Nardone,luiginardone1996@gmail.com,Italy,Udine,"Institute of Radiology, Department of Medicine, University
+of Udine, Udine"
+59,Pierre Bour,bour@certis-therapeutics.com,France,Pessac,"Certis Therapeutics, Pessac"
+59,Thibaut Faller,faller@certis-therapeutics.com,France,Pessac,"Certis Therapeutics, Pessac"
+59,Nestor Pallares-Lupon,nestor.pallares-lupon@ihu-liryc.fr,France,Bordeaux,"Université de Bordeaux, INSERM, CRCTB, U 1045, IHU Liryc,
+F-33000 Bordeaux"
+59,Bruno Quesson,bruno.quesson@u-bordeaux.fr,France,Bordeaux,"University of Bordeaux, CNRS, CMRSB, UMR 5536, F-33000
+Bordeaux"
+59,Olaf Dietrich,olaf.dietrich@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+59,Max Seidensticker,max.seidensticker@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+59,Jean-Luc Battaglia,jean-luc.battaglia@u-bordeaux.fr,France,Bordeaux,"Univ. Bordeaux, CNRS, Bordeaux INP, I2M, UMR 5295, F-33400,
+Talence, France"
+59,Valéry Ozenne,valery.ozenne@u-bordeaux.fr,France,Bordeaux,CNRS
+60,Steven Fischer,steven.fischer@uwaterloo.ca,Canada,"Waterloo, ON",University of Waterloo
+60,Justin Davidson,jbdavids@uwaterloo.ca,Canada,"Waterloo, ON",University of Waterloo
+60,Jan Brandt,jan.brandt@siemens-healthineers.com,Germany,Erlangen,Siemens Healthcare AG
+60,Joshua Krieger,Joshua.Krieger@CookMedical.com,United States,"Bloomington, IN",Cook Medical
+60,Sean Chambers,sean.chambers@cookmedical.com,United States,"Bloomington, IN",Cook Medical
+60,Eric Brandner,Eric.Brandner@CookMedical.com,United States,"Bloomington, IN",Cook Medical
+61,Qiaozhi Chen,qiaozhi.chen@ovgu.de,Germany,Magdeburg,"Otto von Guericke University Magdeburg | Research Campus
+STIMULATE Magdeburg"
+61,Othmar Belker,belker.othmar@mh-hannover.de,Germany,Magdeburg,"Hannover Medical School | Research Campus STIMULATE
+Magdeburg"
+61,Marcel Gutberlet,gutberlet.marcel@mh-hannover.de,Germany,Magdeburg,"Hannover Medical School | Research Campus STIMULATE
+Magdeburg"
+61,Daniel Düx,duex.daniel@mh-hannover.de,Germany,Magdeburg,"Hannover Medical School | Research Campus STIMULATE
+Magdeburg"
+61,Martin Volk,martin.volk@med.ovgu.de,Germany,Magdeburg,"University Hospital Magdeburg | Research Campus STIMULATE
+Magdeburg"
+61,Anton Schlünz,anton.schluenz@ovgu.de,Germany,Magdeburg,"Otto von Guericke University Magdeburg | Research Campus
+STIMULATE Magdeburg"
+61,Thomas Gerlach,thomas.gerlach@ovgu.de,Germany,Magdeburg,"Otto von Guericke University Magdeburg | Research Campus
+STIMULATE Magdeburg"
+61,Frank Wacker,radiologie@mh-hannover.de,Germany,Magdeburg,"Hannover Medical School | Research Campus STIMULATE
+Magdeburg"
+61,Oliver Speck,oliver.speck@ovgu.de,Germany,Magdeburg,"Otto von Guericke University Magdeburg | Research Campus
+STIMULATE Magdeburg"
+61,Georg Rose,georg.rose@ovgu.de,Germany,Magdeburg,"Otto von Guericke University Magdeburg | Research Campus
+STIMULATE Magdeburg"
+62,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+62,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+62,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+62,Haraldur Bjarnason,Bjarnason.Haraldur@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+62,Megha Tollefson,Tollefson.Megha@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+62,Emily Bendel,Bendel.Emily@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+62,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+62,Angela Bathke,bathke.angela@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+62,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+62,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+63,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+63,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+63,Erica Knavel Koespel,knavel@wisc.edu,United States,"Madison, WI",University of Wiscounsin-Madison
+63,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+63,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+63,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+63,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+64,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+64,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+64,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+64,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+64,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+64,Angela Bathke,bathke.angela@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+64,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+65,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+65,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+65,Erica Knavel Koespel,knavel@wisc.edu,United States,"Madison, WI",University of Wiscounsin-Madison
+65,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+65,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+65,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+65,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+67,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+67,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+67,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+67,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+67,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+67,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+68,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+68,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+68,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+68,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+68,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+68,Angela Bathke,bathke.angela@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+68,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+69,Felix Spreter,felix.spreter@uniklinik-freiburg.de,Germany,Freiburg,Medical Center - University of Freiburg
+69,Alexander Maier,alexander.maier@uniklinik-freiburg.de,Germany,Freiburg,Medical Center - University of Freiburg
+69,Michael Bock,michael.bock@uniklinik-freiburg.de,Germany,Freiburg,Medical Center - University of Freiburg
+69,Simon Reiss,simon.reiss@uniklinik-freiburg.de,Germany,Freiburg,Medical Center - University of Freiburg
+72,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+72,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+72,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+72,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+72,Kenny Harlan,harlan@clearguidemedical.com,United States,"Baltimore, MD","Clear Guide Medical, Baltimore, MD, USA"
+72,Purnima Rajan,rajan@clearguidemedical.com,United States,"Baltimore, MD","Clear Guide Medical, Baltimore, MD, USA"
+72,Pezhman Foroughi,foroughi@clearguidemedical.com,United States,"Baltimore, MD","Clear Guide Medical, Baltimore, MD, USA"
+72,Alican Demir,demir@clearguidemedical.com,United States,"Baltimore, MD","Clear Guide Medical, Baltimore, MD, USA"
+72,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+72,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+73,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+73,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+73,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+73,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+73,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+73,Angela Bathke,bathke.angela@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+73,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+74,Nadeem Shah,nadeem.shah@ovgu.de,Germany,Magdeburg,Otto von Guericke University Magdeburg
+74,Lucas Knull,lucas.knull@ovgu.de,Germany,Magdeburg,Otto von Guericke University Magdeburg
+74,Thomas Gerlach,thomas.gerlach@ovgu.de,Germany,Magdeburg,Otto von Guericke University Magdeburg
+74,Oliver Speck,oliver.speck@ovgu.de,Germany,Magdeburg,Otto von Guericke University Magdeburg
+75,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+75,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+75,Anil Kurup,kurup.anil@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+75,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+75,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+75,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+75,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+76,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+76,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+76,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+76,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+76,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+76,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+77,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+77,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+77,Brian Welch,Welch.Brian@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+77,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+77,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+77,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+77,Angela Bathke,bathke.angela@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+77,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+78,Angela Pooler,pooler.angela@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+78,Eric Stinson,stinson.eric@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+78,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+78,Heather Heimer,heimer.heather@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+78,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+79,Simon Reiss,simon.reiss@uniklinik-freiburg.de,Germany,Freiburg,University Medical Center Freiburg
+79,Balazs Bogner,Balazs.bogner@uniklinik-freiburg.de,Germany,Freiburg,University Medical Center Freiburg
+79,Alexander Runkel,alexander.runkel@uniklinik-freiburg.de,Germany,Freiburg,University Medical Center Freiburg
+79,Elena Fritsch,elena.fritsch@uniklinik-freiburg.de,Germany,Freiburg,University Medical Center Freiburg
+79,Matthias Jung,matthias.jung@uniklinik-freiburg.de,Germany,Freiburg,University Medical Center Freiburg
+79,Jakob Weiss,jakob.weiss@uniklinik-freiburg.de,Germany,Freiburg,University Medical Center Freiburg
+79,Michael Bock,michael.bock@uniklinik-freiburg.de,Germany,Freiburg,University Medical Center Freiburg
+80,Heather Heimer,heimer.heather@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+80,Setayesh Sotoudenhnia Korani,Sotoudenhniakorani.Setayesh@mayo.edu,United States,"Rochester, MN",mayo clinic
+80,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+80,Angela Pooler,pooler.angela@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+80,Carly McKenzie,mckenzie.carly@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+80,Sarah Fasbender,fasbender.sarah@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+80,Wayne Stenzel,stenzel.wayne@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+80,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+81,Sarah Fasbender,fasbender.sarah@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+81,Carly McKenzie,mckenzie.carly@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+81,Angela Pooler,pooler.angela@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+81,Heather Heimer,heimer.heather@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+81,Connor Gleichner,gleichner.connor@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+81,Wayne Stenzel,stenzel.wayne@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+81,Gehling Katie,gehling.katie@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+81,Burke Courtney,Burke.Courtney@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+81,Bathke Angela,bathke.angela@mayo.edu,United States,"Rochester, MN",Mayo clinic
+81,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",mayo clinic
+81,Myungho In,in.myungho@mayo.edu,United States,"Rochester, MN",mayo clinic
+81,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+82,Chitresh Bhushan,chitresh.bhushan@gehealthcare.com,United States,"Niskayuna, NY",GE HealthCare Research
+82,Eric Fiveland,fiveland@gehealthcare.com,United States,"Niskayuna, NY",GE HealthCare Research
+82,Afis Ajala,afis.ajala@gehealthcare.com,United States,"Niskayuna, NY",GE HealthCare Research
+82,Mills David,millsda@gehealthcare.com,United States,"Niskayuna, NY",GE HealthCare Research
+82,Jhimli Mitra,jhimli.mitra@gehealthcare.com,United States,"Niskayuna, NY",GE HealthCare Research
+82,Shane Wells,shanewel@med.umich.edu,United States,"Ann Arbor, MI","Univ. of Michigan, Ann Arbor, MI"
+82,James Holmes,jim-holmes@uiowa.edu,United States,"Iowa City, IA",University of Iowa
+82,Desmond Yeo,yeot@gehealthcare.com,United States,"Niskayuna, NY",GE HealthCare Research
+83,Gang Li,gli2@cnmc.org,United States,"Washington, DC",Children's National Medical Center
+83,Atharva Paralikar,aparalikar@childrensnational.org,United States,"Washington, DC",Children's National Hospital
+83,Ayush Nankani,anankani@childrensnational.org,United States,"Washington, DC",Children's National Hospital
+83,Pavel Yarmolenko,PYarmole@childrensnational.org,United States,"Washington, DC",Children's National Hospital
+83,Wolfgang Loew,wolfgang.loew@cchmc.org,United States,"Cincinnati, OH",Cincinnati Children’s Hospital Medical Center
+83,Charles Dumoulin,Charles.Dumoulin@cchmc.org,United States,"Cincinnati, OH",Cincinnati Children’s Hospital Medical Center
+83,Kevin Cleary,kcleary@childrensnational.org,United States,"Washington, DC",Children's National Hospital
+83,Chima Oluigbo,coluigbo@childrensnational.org,United States,"Washington, DC",Children's National Hospital
+83,Reza Monfaredi,RMonfare@childrensnational.org,United States,"Washington, DC",Children's National Hospital
+85,Samuel Wilcox,swilcox33@gatech.edu,United States,"Atlanta, GA","Institute of Robotics and Intelligent Machines, Georgia
+Institute of Technology"
+85,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+85,Junichi Tokuda,tokuda@bwh.harvard.edu,United States,"Boston, MA","Department of Radiology, Brigham and Women's Hospital"
+85,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+85,Yue Chen,yue.chen@bme.gatech.edu,United States,"Atlanta, GA","Institute of Robotics and Intelligent Machines, Georgia
+Institute of Technology"
+86,David Sella,sella.david@mayo.edu,United States,"Jacksonville, FL","Mayo Clinic Florida, Jacksonville, FL, USA"
+86,Gregory Frey,Frey.Gregory@mayo.edu,United States,"Jacksonville, FL","Mayo Clinic Florida, Jacksonville, FL, USA"
+86,Chandler Dora,Dora.Chandler@mayo.edu,United States,"Jacksonville, FL","Mayo Clinic Florida, Jacksonville, FL, USA"
+86,Ram Pathak,pathak.ram@mayo.edu,United States,"Jacksonville, FL","Mayo Clinic Florida, Jacksonville, FL, USA"
+86,Andrea Acevedo Bado,acevedobado.andrea@mayo.edu,United States,"Jacksonville, FL","Mayo Clinic Florida, Jacksonville, FL, USA"
+86,Daniel Costa,Daniel.Costa@UTSouthwestern.edu,United States,"Dallas, TX","UT Southwestern Medical Center, Dallas, TX, USA"
+86,Jovan Begovic,Jovan.Begovic@UTSouthwestern.edu,United States,"Dallas, TX","UT Southwestern Medical Center, Dallas, TX, USA"
+86,Xiaosong Meng,Xiaosong.Meng@UTSouthwestern.edu,United States,"Dallas, TX","UT Southwestern Medical Center, Dallas, TX, USA"
+86,Naveen Kella,nkella@gmail.com,United States,"San Antonio, TX","The Urology Place, San Antonio, TX, USA"
+86,Edward Steiner,esteiner2@wellspan.org,United States,"York, PA","WellSpan Health, York, PA, USA"
+86,Adnaan Moin,amoin@wellspan.org,United States,"York, PA","WellSpan Health, York, PA, USA"
+86,Martin Cohen,micohen@sbcglobal.net,United States,"Los Angeles, CA","RadNet, Los Angeles, CA, USA"
+86,Robert Princenthal,Robert.Princenthal@RADNET.COM,United States,"Los Angeles, CA","RadNet, Los Angeles, CA, USA"
+86,Mohammad Mahdi Bhurwani,mbhurwani@profoundmedical.com,Canada,"Mississauga, ON","Profound Medical, Clinical Science, Mississauga, ON, Canada"
+86,Gina Clarke,GClarke@profoundmedical.com,Canada,"Mississauga, ON","Profound Medical, Clinical Science, Mississauga, ON, Canada"
+87,Laura Maria Bauer,Laura.bauer@med.uni-muenchen.de,Germany,Munich,"Department of Radiology, LMU University Hospital, LMU Munich"
+87,Luigi Nardone,luiginardone1996@gmail.com,Italy,Munich,"LMU University Hospital, LMU Munich, Germany; Institute of
+Radiology, University of Udine"
+87,Mingming Wu,mingming.wu@med.uni-muenchen.de,Germany,Munich,"Department of Radiology, LMU University Hospital, LMU Munich"
+87,Vanessa F Schmidt,vanessa.schmidt@med.uni-muenchen.de,Germany,Munich,"Department of Radiology, LMU University Hospital, LMU Munich"
+87,Matthias P Fabritius,matthias.fabritius@med.uni-muenchen.de,Germany,Munich,"Department of Radiology, LMU University Hospital, LMU Munich"
+87,Jens Ricke,,Germany,Munich,"Department of Radiology, LMU University Hospital, LMU Munich"
+87,Max Seidensticker,max.seidensticker@med.uni-muenchen.de,Germany,Munich,"Department of Radiology, LMU University Hospital, LMU Munich"
+87,Olaf Dietrich,olaf.dietrich@med.uni-muenchen.de,Germany,Munich,"Department of Radiology, LMU University Hospital, LMU Munich"
+88,Laura Maria Bauer,Laura.bauer@med.uni-muenchen.de,Germany,Munich,"Department of Radiology, LMU University Hospital, LMU Munich"
+88,Luigi Nardone,luiginardone1996@gmail.com,Italy,Munich,"LMU University Hospital, LMU Munich, Germany; Institute of
+Radiology, University of Udine"
+88,Mingming Wu,mingming.wu@med.uni-muenchen.de,Germany,Munich,"Department of Radiology, LMU University Hospital, LMU Munich"
+88,Vanessa F Schmidt,vanessa.schmidt@med.uni-muenchen.de,Germany,Munich,"Department of Radiology, LMU University Hospital, LMU Munich"
+88,Matthias P Fabritius,matthias.fabritius@med.uni-muenchen.de,Germany,Munich,"Department of Radiology, LMU University Hospital, LMU Munich"
+88,Jens Ricke,,Germany,Munich,"Department of Radiology, LMU University Hospital, LMU Munich"
+88,Max Seidensticker,max.seidensticker@med.uni-muenchen.de,Germany,Munich,"Department of Radiology, LMU University Hospital, LMU Munich"
+88,Olaf Dietrich,olaf.dietrich@med.uni-muenchen.de,Germany,Munich,"Department of Radiology, LMU University Hospital, LMU Munich"
+89,Katie Gehling,gehling.kathleen1@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+89,Courtney Burke,Burke.Courtney@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+89,Ang Bathke,bathke.angela@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+89,Christopher Favazza,Favazza.Christopher@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+89,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+89,Eric Stinson,stinson.eric@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+89,Myungho In,in.myungho@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+89,Sarah Fasbender,fasbender.sarah@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+89,Wayne Stenzel,stenzel.wayne@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic, Rochester, MN, USA"
+89,Setayesh Sotoudehnia,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN","Department of Radiology - Mayo Clinic - 200 1st Street SW
+Rochester MN 55905"
+89,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+90,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic in Rochester
+90,Lance Mynderse,mynderse.lance@mayo.edu,Canada,"Rochester, MN",Mayo Clinic in Rochester
+90,Pejman Ghanouni,ghanouni@stanford.edu,United States,"Stanford, CA",Stanford Medicine
+90,Sandeep Arora,Sandeep.Arora@Yale.edu,United States,"New Haven, CT",Yale School of Medicine
+90,Steven Raman,SRaman@mednet.ucla.edu,United States,"Los Angeles, CA",University of California Los Angeles Health
+90,Daniel Costa,Daniel.Costa@UTSouthwestern.edu,United States,"Dallas, TX","UT Southwestern Medical Center, Dallas, TX, USA"
+90,Jovan Begovic,Jovan.Begovic@UTSouthwestern.edu,United States,"Dallas, TX","UT Southwestern Medical Center, Dallas, TX, USA"
+90,David Sella,sella.david@mayo.edu,United States,"Jacksonville, FL","Mayo Clinic Florida, Jacksonville, FL, USA"
+90,Gregory Frey,Frey.Gregory@mayo.edu,United States,"Jacksonville, FL","Mayo Clinic Florida, Jacksonville, FL, USA"
+90,Robert Princenthal,Robert.Princenthal@RADNET.COM,United States,"Los Angeles, CA","RadNet, Los Angeles, CA, USA"
+90,Martin Cohen,micohen@sbcglobal.net,United States,"Los Angeles, CA","RadNet, Los Angeles, CA, USA"
+90,Katarzyna Macura,kmacura@jhmi.edu,United States,"Baltimore, MD",Johns Hopkins School of Medicine
+90,Temel Tirkes,atirkes@iupui.edu,United States,"Indianapolis, IN",Indiana University School of Medicine
+90,Joseph Busch,jbusch@buschcenter.com,United States,"Alpharetta, GA",The Busch Center
+90,Andrei Purysko,PURYSKA@ccf.org,United States,"Cleveland, OH",Cleveland Clinic
+90,Pietari Makela,pietari.makela@tyks.fi,Finland,Turku,Turku University Hospital
+90,Gary Brahm,gary.brahm@lhsc.on.ca,Canada,"London, ON","London Health Sciences Centre, Western University"
+90,Chirag Patel,chirag.patel@sunnybrook.ca,Canada,"Toronto, ON","Sunnybrook Health Sciences Centre, University of Toronto"
+90,Mohammad Mahdi Bhurwani,mbhurwani@profoundmedical.com,Canada,"Mississauga, ON","Profound Medical, Clinical Science, Mississauga, ON, Canada"
+90,Gina Clarke,GClarke@profoundmedical.com,Canada,"Mississauga, ON",Profound Medical
+90,Robert Staruch,rstaruch@profoundmedical.com,Canada,"Mississauga, ON",Profound Medical
+93,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+93,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+93,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+93,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+93,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+93,Lance Mynderse,mynderse.lance@mayo.edu,United States,"Rochester, MN",Department of Urology Mayo Clinic
+93,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+94,Mandy Yu,yumandy09@gmail.com,United States,"Rochester, MN",Mayo Clinic
+94,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+94,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+94,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+94,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+95,Evangelia Ilia,eva.ilia@utwente.nl,Netherlands,Enschede,University of Twente
+95,Roy Damgrave,R.G.J.Damgrave@utwente.nl,Netherlands,Enschede,University of Twente
+95,Wyger Brink,w.m.brink@utwente.nl,Netherlands,Enschede,University of Twente
+96,Dalton Bermudez,dbermudez@wisc.edu,United States,"Madison, WI","Departement of Medical Physics, UW Madison"
+96,Aidan Burich,aburich@wisc.edu,United States,"Madison, WI","Department of Biomedical Engineering, UW Madison"
+96,Walter Block,wfblock@wisc.edu,United States,"Madison, WI","Department of Medical Physics, Biomedical Engineering, and
+Radiology, UW Madison; ImgGyd"
+97,Joseph Corea,joe@inkspaceimaging.com,United States,"Pleasanton, CA",InkSpace Imaging
+97,Jayden Cox,jcox@inkspaceimaging.com,United States,"Pleasanton, CA",InkSpace Imaging
+97,Renato Hernandez,renato.ahr@inkspaceimaging.com,United States,"Pleasanton, CA",InkSpace Imaging
+97,Pejman Ghanouni,ghanouni@stanford.edu,United States,"Stanford, CA",Stanford Medicine
+98,Julia Chaffin,jchaff@umich.edu,United States,"Ann Arbor, MI",University of Michigan
+98,Kourosh Kalayeh,kouroshm@umich.edu,United States,"Ann Arbor, MI",University of Michigan
+98,J. Brian Fowlkes,fowlkes@umich.edu,United States,"Ann Arbor, MI",University of Michigan
+98,David Mills,millsda@gehealthcare.com,United States,"Niskayuna, NY",GE Healthcare
+98,Heather Chan,chanh@gehealthcare.com,United States,"Niskayuna, NY",GE Healthcare
+98,Desmond Yeo,yeot@gehealthcare.com,United States,"Niskayuna, NY",GE Healthcare
+98,Afis Ajala,afis.ajala@gehealthcare.com,United States,"Niskayuna, NY",GE Healthcare
+98,Chitresh Bhushan,chitresh.bhushan@gehealthcare.com,United States,"Niskayuna, NY",GE Healthcare
+98,Jhimli Mitra,jhimli.mitra@gehealthcare.com,United States,"Niskayuna, NY",GE Healthcare
+98,James H. Holmes,jim-holmes@uiowa.edu,United States,"Iowa City, IA",University of Iowa
+98,Christopher L. Brace,clbrace@wisc.edu,United States,"Madison, WI",University of Wisconsin
+98,Shane Wells,shanewel@med.umich.edu,United States,"Ann Arbor, MI",University of Michigan
+99,Lena Marie Wilms,lena.wilms@med.uni-duesseldorf.de,Germany,Düsseldorf,"Department of Diagnostic and Interventional Radiology,
+University Hospital Dusseldorf, Germany"
+99,Paula Krüselmann,Paula.Krueselmann@med.uni-duesseldorf.de,Germany,Düsseldorf,"Department of Diagnostic and Interventional Radiology,
+University Hospital Dusseldorf, Germany"
+99,Darius Nuernberger,darius.nuernberger@nano4imaging.com,Germany,Düsseldorf,"Nano4Imaging GmbH, Düsseldorf, Germany"
+99,Jalil Ahmed,jalil.ahmed@nano4imaging.com,Germany,Düsseldorf,"Nano4Imaging GmbH, Düsseldorf, Germany"
+99,Benedikt Kamp,Benedikt.Kamp@med.uni-duesseldorf.de,Germany,Düsseldorf,"Department of Diagnostic and Interventional Radiology,
+University Hospital Dusseldorf, Germany"
+99,Samuel Mueller,samuel.mueller@nano4imaging.com,Germany,Düsseldorf,"Nano4Imaging GmbH, Düsseldorf, Germany"
+99,Peter Minko,peter.minko@med.uni-duesseldorf.de,Germany,Düsseldorf,"Department of Diagnostic and Interventional Radiology,
+University Hospital Dusseldorf, Germany"
+100,Andrea Acevedo,andrea.acevedo11@upr.edu,United States,"Jacksonville, FL",University of Puerto Rico
+100,Robert Staruch,rstaruch@profoundmedical.com,Canada,"Mississauga, ON",Profound Medical
+100,David Sella,sella.david@mayo.edu,United States,"Jacksonville, FL","Mayo Clinic Florida, Jacksonville, FL, USA"
+100,Gregory Frey,Frey.Gregory@mayo.edu,United States,"Jacksonville, FL","Mayo Clinic Florida, Jacksonville, FL, USA"
+100,Chandler Dora,Dora.Chandler@mayo.edu,United States,"Jacksonville, FL","Mayo Clinic Florida, Jacksonville, FL, USA"
+100,Ram Pathak,pathak.ram@mayo.edu,United States,"Jacksonville, FL","Mayo Clinic Florida, Jacksonville, FL, USA"
+101,Hasan Usmani,husmani@s.icom.edu,United States,"Meridian, ID",Idaho College of Osteopathic Medicine
+101,Nessa Aghazadeh Mohandesi,Aghazadeh.Nessa@mayo.edu,United States,"Rochester, MN","Department of Dermatology, Section of Pediatric
+Dermatology, Mayo Clinic, Rochester, Minnesota"
+101,Megha Tollefson,Tollefson.Megha@mayo.edu,United States,"Rochester, MN","Department of Dermatology, Section of Pediatric
+Dermatology, Mayo Clinic, Rochester, Minnesota"
+101,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic, Rochester, Minnesota"
+101,Katelyn Anderson,Anderson.Katelyn2@mayo.edu,United States,"Rochester, MN","Department of Dermatology, Section of Pediatric
+Dermatology, Mayo Clinic, Rochester, Minnesota"
+101,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic, Rochester, Minnesota"
+102,Amanpreet Singh,amanpreet.singh@utah.edu,United States,"Salt Lake City, UT",University of Utah
+102,Samuel Adams,samuel.adams@utah.edu,United States,"Salt Lake City, UT",University of Utah
+102,Sara Johnson,sara.l.johnson@utah.edu,United States,"Salt Lake City, UT",University of Utah
+102,Ariana Page,ariana.page@utah.edu,United States,"Salt Lake City, UT",University of Utah
+102,Jill Shea,Jill.Shea@hsc.utah.edu,United States,"Salt Lake City, UT",University of Utah
+102,Henrik Odeen,henrik.odeen@hsc.utah.edu,United States,"Salt Lake City, UT",University of Utah
+102,Sarang Joshi,sarang.joshi@utah.edu,United States,"Salt Lake City, UT",University of Utah
+102,Allison Payne,allison.payne@hsc.utah.edu,United States,"Salt Lake City, UT",University of Utah
+103,Justina Bonaventura,j.bonaventura@utah.edu,United States,"Salt Lake City, UT",University of Utah
+103,Amanpreet Singh,amanpreet.singh@utah.edu,United States,"Salt Lake City, UT",University of Utah
+103,Sophie Zhao,u1397946@utah.edu,United States,"Salt Lake City, UT",University of Utah
+103,Samuel Adams,samuel.adams@utah.edu,United States,"Salt Lake City, UT",University of Utah
+103,Sarang Joshi,sarang.joshi@utah.edu,United States,"Salt Lake City, UT",University of Utah
+103,Beatrice Knudsen,beatrice.knudsen@path.utah.edu,United States,"Salt Lake City, UT",University of Utah
+103,Allison Payne,allison.payne@hsc.utah.edu,United States,"Salt Lake City, UT",University of Utah
+104,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+104,Matt Hoffman,hoffman.ematthew@mayo.edu,United States,"Rochester, MN",Department of Neurology- Mayo Clinic
+104,Tatsuya Oishi,Oishi.Tatsuya@mayo.edu,United States,"Rochester, MN",Department of Neurology- Mayo Clinic
+104,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+104,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+104,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+104,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+104,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+105,Yinsong Ma,yma71@jhu.edu,United States,"Baltimore, MD",Johns Hopkins University
+105,Jacynthe Francoeur,jfranc52@jhu.edu,United States,"Baltimore, MD",Johns Hopkins University
+105,Sichen Deng,sdeng18@jhu.edu,United States,"Baltimore, MD",Johns Hopkins University
+105,Jin Seob Kim,jkim115@jhu.edu,United States,"Baltimore, MD",Johns Hopkins University
+105,Iulian Iordachita,iordachita@jhu.edu,United States,"Baltimore, MD",Johns Hopkins University
+108,Yixuan Liu,liu216@osumc.edu,United States,"Columbus, OH",The Ohio State University
+108,Ateeb Butt,butt.113@buckeyemail.osu.edu,United States,"Columbus, OH",The Ohio State University
+108,Jianli Wei,jianli.wei@osumc.edu,United States,"Columbus, OH",The Ohio State University
+108,Samuel Ting,Samuel.Ting@osumc.edu,United States,"Columbus, OH",The Ohio State University
+108,Aimee Armstrong,aarmst33@jh.edu,United States,"Baltimore, MD",Johns Hopkins University
+108,Orlando Simonetti,orlando.simonetti@osumc.edu,United States,"Columbus, OH",The Ohio State University
+109,Adisorn Yimsuk,adisorn.yimsuk@gmail.com,Japan,Kanagawa,"Department of Human and Information Sciences, Tokai
+University"
+109,Kagayaki Kuroda,kagayaki@tokai.ac.jp,Japan,Kanagawa,"Department of Human and Information Sciences, Tokai
+University"
+110,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+110,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+110,Omer Burak Demirel,burak.demirel@philips.com,United States,"Andover, MN",Philips North America
+110,Zainudeen Kallumpurath,Zainudeen.KP@philips.com,United States,"Andover, MN",Philips North America
+110,Spencer Waddle,Waddle.Spencer@mayo.edu,United States,"Rochester, MN",Adjunct Assistant .Professor in Radiology Mayo Clinic
+110,Zhiqiang Li,li.zhiqiang@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+110,Jacinta Browne,Browne.Jacinta@mayo.edu,United States,"Rochester, MN",Department of Interventional Radiology Mayo Clinic
+110,Tim Leiner,leiner.tim@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+110,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+110,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+110,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+111,Tae Wan Kim,tkim5@wpi.edu,United States,"Worcester, MA","Robotics Engineering, Worcester Polytechnic Institute"
+111,Ryo Murakami,rmurakami@wpi.edu,United States,"Worcester, MA","Robotics Engineering, Worcester Polytechnic Institute"
+111,Kehan Yang,kyang3@wpi.edu,United States,"Worcester, MA","Robotics Engineering, Worcester Polytechnic Institute"
+111,Eric Wang,ywang43@wpi.edu,United States,"Worcester, MA","Worcester Polytechnic Institute, Robotics Engineering"
+111,Charles Bales,csbales@wpi.edu,United States,"Worcester, MA","Worcester Polytechnic Institute, Robotics Engineering"
+111,Nobuhiko Hata,hata@bwh.harvard.edu,United States,"Boston, MA","Department of Radiology, Brigham and Women's Hospital and
+Harvard Medical School"
+111,Haichong Zhang,hzhang10@wpi.edu,United States,"Worcester, MA",Worcester Polytechnic Institute
+112,Serdar Sagdic,sagdic@med.umich.edu,United States,"Ann Arbor, MI","Department of Radiology, University of Michigan"
+112,Yun Jiang,yunjiang@med.umich.edu,United States,"Ann Arbor, MI","Department of Radiology, University of Michigan"
+112,Tejinder Kaur,radtejinder@gmail.com,United States,"Ann Arbor, MI","Department of Radiology, University of Michigan"
+112,Shane Wells,shanewel@med.umich.edu,United States,"Ann Arbor, MI","Department of Radiology, University of Michigan"
+112,John Wei,jtwei@med.umich.edu,United States,"Ann Arbor, MI","Department of Urology, University of Michigan"
+112,Hero Hussain,hhussain@med.umich.edu,United States,"Ann Arbor, MI","Department of Radiology, University of Michigan"
+112,Vikas Gulani,vikas@med.umich.edu,United States,"Ann Arbor, MI","Department of Radiology, University of Michigan"
+112,Elaine Caoili,caoili@med.umich.edu,United States,"Ann Arbor, MI","Department of Radiology, University of Michigan"
+113,Pan Su,pan.su@siemens-healthineers.com,United States,"Malvern, PA","Siemens Medical Solutions USA, Inc."
+113,Nathan Ooms,nooms@medinstitute.com,United States,"Bloomington, IN",Cook Advanced Technologies
+113,Florian Maier,f.maier@siemens-healthineers.com,Germany,Erlangen,Siemens Healthineers AG
+113,Joshua Krieger,jkrieger@medinstitute.com,United States,"Bloomington, IN",Cook Medical
+113,Bradley Bolster,bradley.bolster@siemens-healthineers.com,United States,"Malvern, PA","Siemens Medical Solutions USA, Inc."
+113,Jesse Roll,jroll@medinstitute.com,United States,"Bloomington, IN",Cook Advanced Technologies
+113,Jianing Pang,jianing.pang@siemens-healthineers.com,United States,"Malvern, PA","Siemens Medical Solutions USA, Inc."
+114,Ryo Murakami,rmurakami@wpi.edu,United States,"Worcester, MA",Worcester Polytechnic Institute
+114,Yiwei Jiang,yjiang5@wpi.edu,United States,"Worcester, MA",Worcester Polytechnic Institute
+114,Satoshi Mori,wald.s1t5@gmail.com,Japan,Matsuyama,Independent Researcher
+114,Yang Wang,ywang43@wpi.edu,United States,"Worcester, MA",Worcester Polytechnic Institute
+114,Charles Bales,csbales@wpi.edu,United States,"Worcester, MA",Worcester Polytechnic Institute
+114,Farid Tavakkolmoghaddam,ftavakkolmoghadd@wpi.edu,United States,"Worcester, MA",ftavakkolmoghadd@wpi.edu
+114,Pedro Moreira,plopesdafrotamoreira@bwh.harvard.edu,United States,"Boston, MA",Brigham and Women's Hospital
+114,Junichi Tokuda,tokuda@bwh.harvard.edu,United States,"Boston, MA",Brigham and Women's Hospital
+114,Gregory Fischer,gfischer@wpi.edu,United States,"Worcester, MA",Worcester Polytechnic Institute
+114,Nobuhiko Hata,hata@bwh.harvard.edu,United States,"Boston, MA",Brigham and Women's Hospital
+114,Haichong Zhang,hzhang10@wpi.edu,United States,"Worcester, MA",Worcester Polytechnic Institute
+115,Zhengyu Lin,linsinlan@aliyun.com,China,Fuzhou,First Affiliated Hospital of Fujian Medical University
+115,Rui Guo,821453990@qq.com,China,Fuzhou,"Department of Interventional Radiology， the First
+Affiliated Hospital of Fujian Medical University"
+115,Bingyu Huang,527186471@qq.com,China,Fuzhou,First Affiliated Hospital of Fujian Medical University
+115,Jin Chen,snow8968851@163.com,China,Fuzhou,First Affiliated Hospital of Fujian Medical University
+116,Max Seidensticker,max.seidensticker@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+116,Alireza Haghpanah,Alireza.Haghpanah@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+116,Olaf Dietrich,olaf.dietrich@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+116,Daniel Puhr-Westerheide,daniel.puhr-westerheide@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+116,Vanessa F. Schmidt,vanessa.schmidt@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+116,Frederik Fuchs,Frederik.fuchsi@med.uni-muenchen.de,Germany,Munich,"Department of Radiation Oncology, University Hospital, LMU
+Munich"
+116,Jens Ricke,jens.ricke@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+116,Osman Öcal,osman.oecal@med.uni-heidelberg.de,Germany,Heidelberg,"Heidelberg University Hospital, Heidelberg"
+116,Matthias Philipp Fabritius,matthias.fabritius@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+117,Dan Stoianovici,dss@jhu.edu,United States,"Baltimore, MD",Johns Hopkins Urology
+117,Karun Sharma,KVSharma@childrensnational.org,United States,"Washington, DC",Children's National Hospital
+117,Pavel Yarmolenko,PYarmole@childrensnational.org,United States,"Washington, DC",Children’s National Hospital
+117,Van Khanh Lam,vklam@childrensnational.org,United States,"Washington, DC",Children's National Hospital
+117,Doru Petrisor,dpetris1@jhmi.edu,United States,"Baltimore, MD",Johns Hopkins Urology
+117,Jakub Piwowarczyk,jpiwowa2@jhu.edu,United States,"Baltimore, MD",Johns Hopkins Urology
+117,Kevin Cleary,kcleary@cnmc.org,United States,"Washington, DC",Chlidren's National Medical Center
+118,Lisa Regler,lisa.regler@uniklinik-freiburg.de,Germany,Freiburg,"Radiology, University Medical Center Freiburg, Faculty of
+Medicine, University of Freiburg, Freiburg, D"
+118,Wibke Uller,wibke.uller@uniklinik-freiburg.de,Germany,Freiburg,"Radiology, University Medical Center Freiburg, Faculty of
+Medicine, University of Freiburg, Freiburg, D"
+118,Niklas Verloh,Niklas.Verloh@mutterhaus.de,Germany,Trier,"Radiology, Borromean Sisters Hospital Trier, Medical Campus
+Trier of the University Medical Center Mainz, D"
+118,Alexander Maier,alexander.maier@uniklinik-freiburg.de,Germany,Freiburg,"Cardiology, Univ. Heart Center Freiburg - Bad Krozingen,
+Faculty of Medicine – University of Freiburg, Germany"
+118,Simon Reiss,simon.reiss@uniklinik-freiburg.de,Germany,Freiburg,"Radiology, University Medical Center Freiburg, Faculty of
+Medicine, University of Freiburg, Freiburg, D"
+118,Klaus Düring,k.duering@marvistech.com,Germany,Garmisch-Partenkirchen,"MaRVis Interventional GmbH, Germany"
+118,Areli Luttmann,a.luttmann@marvistech.com,Germany,Garmisch-Partenkirchen,"MaRVis Interventional GmbH, Germany"
+118,Pooja Virkar,p.virkar@marvistech.com,Germany,Garmisch-Partenkirchen,"MaRVis Interventional GmbH, Germany"
+118,Michael Bock,michael.bock@uniklinik-freiburg.de,Germany,Freiburg,"Radiology, University Medical Center Freiburg, Faculty of
+Medicine, University of Freiburg, Freiburg, D"
+119,Erik Arts,e.h.w.arts@student.utwente.nl,Netherlands,Enschede,University of Twente
+119,Witek Bosman,w.m.bosman@student.utwente.nl,Netherlands,Enschede,University of Twente
+119,Evangelia Ilia,eva.ilia@utwente.nl,Netherlands,Enschede,University of Twente
+119,Wyger Brink,w.m.brink@utwente.nl,Netherlands,Enschede,University of Twente
+120,Christopher Favazza,Favazza.Christopher@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+120,Eric Stinson,stinson.eric@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+120,Myungho In,in.myungho@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+120,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+120,Christi Fernandes,,United States,"Rochester, MN",Quantum Surgical
+120,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+120,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+121,Matthias Philipp Fabritius,matthias.fabritius@med.uni-muenchen.de,Germany,Munich,"Department of Radiology, LMU University Hospital, Munich"
+121,Alireza Haghpanah,Alireza.Haghpanah@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+121,Olaf Dietrich,olaf.dietrich@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+121,Daniel Puhr-Westerheide,daniel.puhr-westerheide@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+121,Vanessa F. Schmidt,vanessa.schmidt@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+121,Stefanie Corradini,Stefanie.Corradini@med.uni-muenchen.de,Germany,Munich,"Department of Radiation Oncology, University Hospital, LMU
+Munich"
+121,Jens Ricke,jens.ricke@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+121,Osman Öcal,osman.oecal@med.uni-heidelberg.de,Germany,Heidelberg,"Heidelberg University Hospital, Heidelberg"
+121,Max Seidensticker,max.seidensticker@med.uni-muenchen.de,Germany,Munich,"Klinik und Poliklinik für Radiologie, LMU Klinikum München"
+122,Can Yüksel,cyueksel@ukaachen.de,Germany,Aachen,"University Hospital RWTH Aachen Diagnostic and
+Interventional Radiology"
+122,Christiane K. Kuhl,,Germany,Aachen,"University Hospital RWTH Aachen Diagnostic and
+Interventional Radiology"
+122,Christoph Katemann,,Germany,Hamburg,Philips
+122,Oliver M. Weber,,Germany,Hamburg,Philips
+122,Narine Mesropyan,narine.mesropyan@ukbonn.de,Germany,Bonn,University Hospital Bonn
+123,Dominik Horstmann,horstmann.dominik@mh-hannover.de,Germany,Hannover,Hannover Medical School
+123,Othmar Belker,belker.othmar@mh-hannover.de,Germany,Hannover,"Institute of Diagnostic and Interventional Radiology,
+Hannover Medical School"
+123,Daniel Düx,duex.daniel@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Medical School Hanover"
+123,Hojjat Fallahi,hojjat.fallahi@siemens-healthineers.com,United States,Erlangen,"Varian Medical Systems, Inc. - A Siemens Healthineers
+Company, Palo Alto, CA, USA"
+123,Jonas Faust,jonas.faust@siemens-healthineers.com,Germany,Erlangen,"Siemens Healthineers AG, Erlangen, Germany"
+123,Moritz Gutt,gutt.moritz@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Medical School Hanover"
+123,Florian Maier,f.maier@siemens-healthineers.com,Germany,Erlangen,Siemens Healthineers AG
+123,Frank Wacker,Wacker.Frank@mh-hannover.de,Germany,Hannover,"Institute of Diagnostic and Interventional Radiology,
+Hannover Medical School"
+123,Bennet Hensen,hensen.bennet@mh-hannover.de,Germany,Hannover,"Institute of Diagnostic and Interventional Radiology,
+Hannover Medical School"
+123,Marcel Gutberlet,gutberlet.marcel@mh-hannover.de,Germany,Hannover,"Institute of Diagnostic and Interventional Radiology,
+Hannover Medical School"
+124,Moritz Ludwig Schnitzer,moritz.schnitzer@med.uni-muenchen.de,Germany,Munich,LMU University Hospital
+124,Vanessa F. Schmidt,vanessa.schmidt@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+124,Olaf Dietrich,olaf.dietrich@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+124,Daniel Puhr-Westerheide,daniel.puhr-westerheide@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+124,Sinan Deniz,sinan.deniz@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+124,Moritz Wildgruber,moritz.wildgruber@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+124,Jens Ricke,jens.ricke@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+124,Matthias Philipp Fabritius,matthias.fabritius@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+124,Max Seidensticker,max.seidensticker@med.uni-muenchen.de,Germany,Munich,"LMU University Hospital, LMU Munich"
+125,Michael McKernan,McKernan.michael@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+125,Ola Mohamed,mohamed.ola@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+125,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+125,Mrinal Singh,Singh.Mrinal@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+125,Derek Lomas,lomas.derek@mayo.edu,United States,"Rochester, MN","Department of Urology, Mayo Clinic"
+125,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+125,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+125,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+126,Deborah Shinyanbola,deborah.shinyanbola@gmail.com,Ireland,Dublin,Royal College of Surgeons Ireland
+126,Sharath Bhagavatula,SBHAGAVATULA@BWH.HARVARD.EDU,United States,"Boston, MA","Brigham and Women's Hospital, Harvard University"
+126,Nobuhiko Hata,hata@bwh.harvard.edu,United States,"Boston, MA","Brigham and Women's Hospital, Harvard University"
+126,Clare Tempany,ctempany@bwh.harvard.edu,United States,"Boston, MA","Brigham and Women's Hospital, Harvard University"
+127,Moises Cruz,moises.cruz@cookmedical.com,United States,"Bloomington, IN",Cook Medical
+127,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+127,Lauren Lewey,Lauren.Lewey@CookMedical.com,United States,"Bloomington, IN",Cook Medical
+127,Joshua Krieger,Joshua.Krieger@CookMedical.com,United States,"Bloomington, IN",Cook Medical
+127,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+127,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+127,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+128,Moises Cruz,moises.cruz@cookmedical.com,United States,"Bloomington, IN",Cook Medical
+128,Setayesh Sotoudehnia Korani,sotoudehniakorani.setayesh@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+128,Lauren Lewey,Lauren.Lewey@CookMedical.com,United States,"Bloomington, IN",Cook Medical
+128,Joshua Krieger,Joshua.Krieger@CookMedical.com,United States,"Bloomington, IN",Cook Medical
+128,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+128,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+128,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN","Department of Radiology, Mayo Clinic"
+129,Eric Stinson,stinson.eric@mayo.edu,United States,"Rochester, MN","Mayo Clinic, Rochester, MN"
+129,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN","Mayo Clinic, Rochester, MN"
+129,Jeremy Collins,collins.jeremy@mayo.edu,United States,"Rochester, MN","Mayo Clinic, Rochester, MN"
+129,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN","Mayo Clinic, Rochester, MN"
+130,Nirvaan N Jaitli,jaitli@wisc.edu,United States,"Madison, WI",University of Wisconsin at Madison
+130,Walter F Block,wfblock@wisc.edu,United States,"Madison, WI","University of Wisconsin at Madison, Medical Physics"
+130,Terrence R Oakes,troakes@gmail.com,United States,"Madison, WI",ImgGyd
+130,Azam S Ahmed,azam.ahmed@neurosurgery.wisc.edu,United States,"Madison, WI","University of Wisconsin at Madison, Neurosurgery"
+130,Andrew L Alexander,andy.alexander@wisc.edu,United States,"Madison, WI","University of Wisconsin at Madison, Waisman Center"
+130,Thomas Lilieholm,tlilieholm@wisc.edu,United States,"Madison, WI",University of Wisconsin at Madison
+131,Mrinal Singh,Singh.Mrinal@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+131,Kai Miller,miller.kai@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+131,Timothy Kaufmann,Kaufmann.Timothy@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+131,Vance Lehman,lehman.vance@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester
+132,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+132,Christopher Favazza,Favazza.Christopher@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+132,Matt Hoffman,hoffman.ematthew@mayo.edu,United States,"Rochester, MN",Department of Neurology- Mayo Clinic
+132,Myungho In,in.myungho@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+132,Eric Stinson,stinson.eric@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+132,Tatsuya Oishi,Oishi.Tatsuya@mayo.edu,United States,"Rochester, MN",Department of Neurology- Mayo Clinic
+132,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+132,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+132,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+133,Janis Seibt,janis.seibt@ovgu.de,Germany,Magdeburg,Otto-von-Guericke University Magdeburg
+133,Thomas Gerlach,thomas.gerlach@ovgu.de,Germany,Magdeburg,Otto-von-Guericke University Magdeburg
+133,Marcel Gutberlet,gutberlet.marcel@mh-hannover.de,Germany,Hannover,Hannover Medical School
+133,Oliver Speck,oliver.speck@ovgu.de,Germany,Magdeburg,Otto-von-Guericke University Magdeburg
+134,Aiming Lu,Lu.Aiming@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+134,Phillip Rossman,rossman.phillip@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+134,Daniel Adamo,adamo.daniel@mayo.edu,United States,"Rochester, MN",Mayo Clinic Rochester Minnesota
+134,Scott Thompson,thompson.scott@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+134,Christopher Favazza,Favazza.Christopher@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+134,Myungho In,in.myungho@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+134,Eric Stinson,stinson.eric@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+134,David Woodrum,woodrum.david@mayo.edu,United States,"Rochester, MN",Mayo Clinic
+135,Jayant D Sakhardande,jayant-sakhardande@uiowa.edu,United States,"Iowa City, IA",The University of Iowa
+135,Julia M Velikina,velikina@wisc.edu,United States,"Madison, WI",University of Wisconsin-Madison
+135,Alexey A Samsonov,samsonov@wisc.edu,United States,"Madison, WI",University of Wisconsin-Madison
+135,Eric M Schrauben,e.m.schrauben@amsterdamumc.nl,Netherlands,Amsterdam,Amsterdam UMC
+135,Francisco Donato Jr,francisco-donato@uiowa.edu,United States,"Iowa City, IA",The University of Iowa
+135,Silpa Babu,silpa-babu@uiowa.edu,United States,"Iowa City, IA",The University of Iowa
+135,Desmond T Yeo,yeot@gehealthcare.com,United States,"Niskayuna, NY","Technology and Innovation Center, GE HealthCare"
+135,Shane A Wells,shanewel@med.umich.edu,United States,"Ann Arbor, MI",University of Michigan
+135,James H Holmes,jim-holmes@uiowa.edu,United States,"Iowa City, IA",University of Iowa
+136,Jayant D Sakhardande,jayant-sakhardande@uiowa.edu,United States,"Iowa City, IA",The University of Iowa
+136,Jana Vincent,jana.vincent@gehealthcare.com,United States,"Aurora, OH",GE Healthcare MR Coils
+136,Victor Taracila,victor.taracila@gehealthcare.com,United States,"Aurora, OH",GE Healthcare MR Coils
+136,Fraser Robb,fraser.robb@gehealthcare.com,United States,"Aurora, OH",GE Healthcare MR Coils
+136,Francisco Donato Jr,francisco-donato@uiowa.edu,United States,"Iowa City, IA",The University of Iowa
+136,Desmond T Yeo,yeot@gehealthcare.com,United States,"Niskayuna, NY","Technology and Innovation Center, GE HealthCare"
+136,Shane A Wells,shanewel@med.umich.edu,United States,"Ann Arbor, MI",University of Michigan
+136,James H Holmes,jim-holmes@uiowa.edu,United States,"Iowa City, IA",University of Iowa
+138,Vipul Sheth,vsheth@stanford.edu,United States,"Stanford, CA",Stanford University
+138,Ryan Brunsing,brunsing@stanford.edu,United States,"Stanford, CA",Stanford University
+138,Sharmila Sewell,sharmilasewell@stanfordhealthcare.org,United States,"Stanford, CA",Stanford Healthcare
+138,Geoff Sonn,gsonn@stanford.edu,United States,"Stanford, CA",Stanford University
+138,Richard Fan,refan@stanford.edu,United States,"Stanford, CA",Stanford University
+138,Pejman Ghanouni,ghanouni@stanford.edu,United States,"Stanford, CA",Stanford University
+138,Negaur Iranpour,iranpour@stanford.edu,United States,"Stanford, CA",Stanford University
+138,Rachelle Bitton,rbitton@stanford.edu,United States,"Stanford, CA",Stanford University
+139,Kehan Yang,kyang3@wpi.edu,United States,"Worcester, MA",Worcester Polytechnic Institute
+139,Yiwei Jiang,yjiang5@wpi.edu,United States,"Worcester, MA",Worcester Polytechnic Institute
+139,Yang Wang,ywang43@wpi.edu,United States,"Worcester, MA",Worcester Polytechnic Institute
+139,Andrew Daudelin,adaudelin@wpi.edu,United States,"Worcester, MA",Worcester Polytechnic Institute
+139,Gregory S. Fischer,gfischer@wpi.edu,United States,"Worcester, MA",Worcester Polytechnic Institute
+140,Ning Jin,ning.jin@siemens-healthineers.com,United States,"Malvern, PA","Siemens Medical Solutions USA, Inc., Malvern, PA, USA"
+140,Jonas Frederik Faust,jonas.faust@siemens-healthineers.com,Germany,Erlangen,"New Markets, Magnetic Resonance, Siemens Healthineers AG,
+Erlangen, Germany"
+140,Hojjat Fallahi,hojjat.fallahi@siemens-healthineers.com,United States,Erlangen,"IO R&D, Siemens Healthineers, Minneapolis, MN, USA"
+140,Axel J. Krafft,axeljoachim.krafft@siemens-healthineers.com,Germany,Erlangen,"New Markets, Magnetic Resonance, Siemens Healthineers AG,
+Erlangen, Germany"
+140,Florian Maier,f.maier@siemens-healthineers.com,Germany,Erlangen,"New Markets, Magnetic Resonance, Siemens Healthineers AG,
+Erlangen, Germany"
+140,Jianing Pang,jianing.pang@siemens-healthineers.com,United States,"Malvern, PA","Siemens Medical Solutions USA, Inc., Malvern, PA, USA"
+142,Mariana C. Bernardes,mcostabernardesmatias@bwh.harvard.edu,United States,"Boston, MA","Brigham and Women's Hospital, Harvard Medical School"
+142,Vincent M Levesque,VLEVESQUE1@PARTNERS.ORG,United States,"Boston, MA",Brigham and Women's Hospital
+142,Junichi Tokuda,tokuda@bwh.harvard.edu,United States,"Boston, MA",Brigham and Women's Hospital and Harvard Medical School
+142,Jeffrey P. Guenette,jpguenette@bwh.harvard.edu,United States,"Boston, MA",Brigham and Women's Hospital and Harvard Medical School
+143,Mariana C. Bernardes,mcostabernardesmatias@bwh.harvard.edu,United States,"Boston, MA","Brigham and Women's Hospital, Harvard Medical School"
+143,Pedro Moreira,plopesdafrotamoreira@bwh.harvard.edu,United States,"Boston, MA","Department of Radiology, Brigham and Women’s Hospital,
+Harvard Medical School, Boston, MA, USA"
+143,Ravi Seethamraju,Ravi.Seethamraju@siemens-healthineers.com,United States,"Malvern, PA",Siemens Healthineers
+143,Lori Foley,lfoley5@bwh.harvard.edu,United States,"Boston, MA",Brigham and Women's Hospital and Harvard Medical School
+143,Kemal Tuncali,ktuncali@bwh.harvard.edu,United States,"Boston, MA",Brigham and Women's Hospital and Harvard Medical School
+143,Clare Tempany,ctempany@bwh.harvard.edu,United States,"Boston, MA",Brigham and Women's Hospital and Havard Medical School
+143,Simon Leonard,sleonard@jhu.edu,United States,"Baltimore, MD",Johns Hopkins University
+143,Axel Krieger,axel@jhu.edu,United States,"Baltimore, MD",Johns Hopkins University
+143,Junichi Tokuda,tokuda@bwh.harvard.edu,United States,"Boston, MA",Brigham and Women's Hospital and Harvard Medical School
+144,Sarah Garrow,garrow.sarahj@gmail.com,United States,"Cleveland, OH",Case Western Reserve University
+144,William Grissom,wag57@case.edu,United States,"Cleveland, OH",Case Western Reserve University
+145,Dominique Franson,dominique.franson@siemens-healthineers.com,United States,"Malvern, PA","Siemens Medical Solutions, USA"
+145,Jonas Faust,jonas.faust@siemens-healthineers.com,Germany,Erlangen,Siemens Healthineers AG
+145,Gunter Ambruster,guenter.armbruester.ext@siemens-healthineers.com,Germany,Nuremberg,ASTRUM IT GmbH
+145,Florian Maier,f.maier@siemens-healthineers.com,Germany,Erlangen,Siemens Healthineers AG
+146,Pedro Moreira,plopesdafrotamoreira@bwh.harvard.edu,United States,"Boston, MA","Department of Radiology, Brigham and Women’s Hospital,
+Harvard Medical School, Boston, MA, USA"
+146,Mijia Ma,mma1@hsph.harvard.edu,United States,"Boston, MA","Harvard T.H. Chan School of Public Health, Boston, MA, USA"
+146,Nicholas Fordham,nfordham@bu.edu,United States,"Boston, MA","Boston University School of Medicine, Boston, MA, USA"
+146,Mark Vangel,MVANGEL@mgh.harvard.edu,United States,"Boston, MA","Department of Radiology, Brigham and Women’s Hospital,
+Harvard Medical School, Boston, MA, USA"
+146,Clare Tempany,ctempany@bwh.harvard.edu,United States,"Boston, MA",Brigham and Women's Hospital and Havard Medical School
+146,Kemal Tuncali,ktuncali@bwh.harvard.edu,United States,"Boston, MA",Brigham and Women's Hospital and Harvard Medical School
+146,Junichi Tokuda,tokuda@bwh.harvard.edu,United States,"Boston, MA",Brigham and Women's Hospital and Harvard Medical School
+147,Adrian Breto,a.breto@miami.edu,United States,"Miami, FL","University of Miami Miller School of Medicine, Miami"
+147,Veronica Wallaengen,vmw45@med.miami.edu,United States,"Miami, FL","University of Miami Miller School of Medicine, Miami"
+147,Sandra Gaston,sxg1332@med.miami.edu,United States,"Miami, FL","University of Miami Miller School of Medicine, Miami"
+147,Matthew Abramowitz,MAbramowitz@med.miami.edu,United States,"Miami, FL","University of Miami Miller School of Medicine, Miami"
+147,Alan Pollack,apollack@med.miami.edu,United States,"Miami, FL","University of Miami Miller School of Medicine, Miami"
+147,Benjamin Spieler,bspieler@miami.edu,United States,"Miami, FL","University of Miami Miller School of Medicine, Miami"
+147,Radka Stoyanova,rstoyanova@med.miami.edu,United States,"Miami, FL","University of Miami Miller School of Medicine, Miami"
+148,Jonas Frederik Faust,jonas.faust@siemens-healthineers.com,Germany,Erlangen,"New Markets, Magnetic Resonance, Siemens Healthineers AG,
+Erlangen, Germany"
+148,Axel J. Krafft,axeljoachim.krafft@siemens-healthineers.com,Germany,Erlangen,"New Markets, Magnetic Resonance, Siemens Healthineers AG,
+Erlangen, Germany"
+148,Hojjat Fallahi,hojjat.fallahi@siemens-healthineers.com,United States,Erlangen,"IO R&D, Siemens Healthineers, Minneapolis, MN, USA"
+148,Bradley D. Bolster,bradley.bolster@siemens-healthineers.com,United States,"Malvern, PA","Siemens Medical Solutions USA Inc., Malvern, PA, USA"
+148,Florian Maier,f.maier@siemens-healthineers.com,Germany,Erlangen,"New Markets, Magnetic Resonance, Siemens Healthineers AG,
+Erlangen, Germany"
+149,Isabella Duan,yd2154@cumc.columbia.edu,United States,"New York, NY","Columbia University, Bergen County Technical
+School-Teterboro"
+149,Feng Liu,feng.liu@nyspi.columbia.edu,United States,"New York, NY",Columbia University
+150,Wenqi Zhou,wenqizhou@mednet.ucla.edu,United States,"Los Angeles, CA","University of California, Los Angeles"
+150,Qing Dai,qingdai@mednet.ucla.edu,United States,"Los Angeles, CA","University of California, Los Angeles"
+150,Shu-Fu Shi,sshih@mednet.ucla.edu,United States,"Los Angeles, CA","University of California, Los Angeles"
+150,Timoteo Delgado-Esbenshade,TDelgado-Esbenshade@mednet.ucla.edu,United States,"Los Angeles, CA","University of California, Los Angeles"
+150,David Lu,dlu@mednet.ucla.edu,United States,"Los Angeles, CA","University of California, Los Angeles"
+150,Jason Chiang,cjchiang@mednet.ucla.edu,United States,"Los Angeles, CA","University of California, Los Angeles"
+150,Holden Wu,HoldenWu@mednet.ucla.edu,United States,"Los Angeles, CA","University of California, Los Angeles"
+151,Ana Sofia Garcia,anasofiagarciagutierres@gmail.com,Germany,Magdeburg,"Otto von Guericke University Magdeburg | Research Campus
+STIMULATE"
+151,Thomas Gerlach,thomas.gerlach@ovgu.de,Germany,Magdeburg,"Otto von Guericke University Magdeburg | Research Campus
+STIMULATE"
+151,Anbarasi Pugazandi,anbarasi.pugazandi@ovgu.de,Germany,Magdeburg,"Otto von Guericke University Magdeburg | Research Campus
+STIMULATE"
+151,Marcel Gutberlet,gutberlet.marcel@mh-hannover.de,Germany,Magdeburg,Hannover Medical School | Research Campus STIMULATE
+151,Othmar Belker,belker.othmar@mh-hannover.de,Germany,Magdeburg,Hannover Medical School | Research Campus STIMULATE
+151,Bennet Hensen,hensen.bennet@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Germany"
+151,Frank Wacker,Wacker.Frank@mh-hannover.de,Germany,Hannover,"Department of Diagnostic and Interventional Radiology,
+Hannover Medical School, Germany"
+151,Georg Rose,georg.rose@ovgu.de,Germany,Magdeburg,"Otto von Guericke University Magdeburg | Research Campus
+STIMULATE Magdeburg"
+151,Oliver Speck,oliver.speck@ovgu.de,Germany,Magdeburg,"Otto-von-Guericke University Magdeburg | Research Campus
+STIMULATE"
+152,Christina Kerr,ckerr@g.ucla.edu,United States,"Los Angeles, CA","University of California, Los Angeles"
+152,Wenqi Zhou,wenqizhou@mednet.ucla.edu,United States,"Los Angeles, CA","University of California, Los Angeles"
+152,Holden Wu,HoldenWu@mednet.ucla.edu,United States,"Los Angeles, CA","University of California, Los Angeles"
+153,Nathan Ooms,nooms@medinstitute.com,United States,"Bloomington, IN",Cook Advanced Technology/Purdue University
+153,Jason Scott,jscott@medinstitute.com,United States,"Bloomington, IN",Cook Advanced Technology
+153,Jesse Roll,jroll@medinstitute.com,United States,"Bloomington, IN",Cook Advanced Technologies
+153,Axel Krafft,axeljoachim.krafft@siemens-healthineers.com,Germany,Erlangen,"Siemens Healthineers AG, Erlangen, Germany"
+153,Florian Maier,f.maier@siemens-healthineers.com,Germany,Erlangen,Siemens Healthineers AG
+154,Nathan Ooms,nooms@medinstitute.com,United States,"Bloomington, IN",Cook Advanced Technology/Purdue University
+154,Jason Scott,jscott@medinstitute.com,United States,"Bloomington, IN",Cook Advanced Technology
+154,Günter Armbrüster,guenter.armbruester.ext@siemens-healthineers.com,Germany,Erlangen,Siemens Healthineers
+154,Fang Dong,FANG.DONG@SIEMENS-HEALTHINEERS.COM,Germany,Erlangen,Siemens Healthineers
+154,Jesse Roll,jroll@medinstitute.com,United States,"Bloomington, IN",Cook Advanced Technologies
+154,Florian Maier,f.maier@siemens-healthineers.com,Germany,Erlangen,Siemens Healthineers AG
+155,Pedro Moreira,plopesdafrotamoreira@bwh.harvard.edu,United States,"Boston, MA","Department of Radiology, Brigham and Women’s Hospital,
+Harvard Medical School, Boston, MA, USA"
+155,Yang Wang,ywang@aimmedrobotics.com,United States,"Worcester, MA","AiM Medical Robotics, Worcester, MA, USA"
+155,Zhanyue Zhao,zzhao@aimmedrobotics.com,United States,"Worcester, MA","AiM Medical Robotics, Worcester, MA, USA"
+155,Charles Bales,cbales@aimmedrobotics.com,United States,"Worcester, MA","AiM Medical Robotics, Worcester, MA, USA"
+155,Shiyue Wang,swang@aimmedrobotics.com,United States,"Worcester, MA","AiM Medical Robotics, Worcester, MA, USA"
+155,Garth Cosgrove,rcosgrove2@bwh.harvard.edu,United States,"Boston, MA","Department of Neurosurgery, Brigham and Women's Hospital,
+Boston, MA, USA"
+155,Gregory Fischer,gfischer@aimmedrobotics.com,United States,"Worcester, MA","AiM Medical Robotics, Worcester, MA, USA"
+156,Evangelia Kaza,ekaza1@bwh.harvard.edu,United States,"Boston, MA","Department of Radiation Oncology, Mass General Brigham
+Cancer Institute and Harvard Medical School"
+156,Ivan Buzurovic,ibuzurovic@bwh.harvard.edu,United States,"Boston, MA","Department of Radiation Oncology, Mass General Brigham
+Cancer Institute and Harvard Medical School"
+157,Chang Zhou,czhou368@gatech.edu,United States,"Atlanta, GA",Georgia Institute of Technology
+157,Charles Hong,chong71@gatech.edu,United States,"Atlanta, GA",Georgia Institute of Technology
+157,Yifan Wang,wangyf@gatech.edu,United States,"Atlanta, GA",Georgia Institute of Technology
+157,William Stevenson,william.g.stevenson@vumc.org,United States,"Atlanta, GA",Georgia Institute of Technology
+157,Ehud Schmidt,eschmi17@jhu.edu,United States,"Baltimore, MD",Johns Hopkins University
+157,Junichi Tokuda,tokuda@bwh.harvard.edu,United States,"Boston, MA","Department of Radiology, Brigham and Women's Hospital"
+157,Aravindan Kolandaivelu,akoland1@jhmi.edu,United States,"Baltimore, MD",Johns Hopkins University
+157,Yue Chen,yue.chen@bme.gatech.edu,United States,"Atlanta, GA",Georgia Institute of Technology
