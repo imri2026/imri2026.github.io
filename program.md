@@ -179,13 +179,13 @@ permalink: /program/
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
-<tr><td>O-23</td><td>8:30 AM</td><td>8:45 AM</td><td><strong>Invited Talk: Prostate Interventions — How I Do It</strong><br><em>Jurgen Futterer MD, Radboudumc, Nijmegen, Netherlands</em></td></tr>
-<tr><td>O-24</td><td>8:45 AM</td><td>8:55 AM</td><td><strong>MRI-Guided In-Bore Percutaneous Transgluteal Prostate Biopsy at 0.55T</strong><br><em>Serdar Sagdic, University of Michigan, Ann Arbor, MI, United States</em></td></tr>
-<tr><td>O-25</td><td>8:55 AM</td><td>9:05 AM</td><td><strong>MRI-Guided Cryoablation for Primary and Salvage Prostate Cancer Treatment: Initial Patient Experience</strong><br><em>Lauren Marlatt, University of Wisconsin-Madison, Madison, WI, United States</em></td></tr>
-<tr><td>O-26</td><td>9:05 AM</td><td>9:15 AM</td><td><strong>Cost-Effective Needle Tract Verification Using Susceptibility-Weighted Imaging (SWI) in MR-Guided Prostate Biopsy</strong><br><em>Can Yüksel, University Hospital RWTH Aachen, Aachen, Germany</em></td></tr>
-<tr><td>O-27</td><td>9:15 AM</td><td>9:25 AM</td><td><strong>Accuracy and Verification of an MR-Compatible Transperineal Biopsy Device</strong><br><em>Joyce Bomers, Radboudumc, Nijmegen, Netherlands</em></td></tr>
-<tr><td>O-28</td><td>9:25 AM</td><td>9:35 AM</td><td><strong>Four-Year Experience with MRI-Guided Focal Prostate Cryoablation</strong><br><em>Vipul Sheth, Stanford University, Stanford, CA, United States</em></td></tr>
-<tr><td>O-29</td><td>9:35 AM</td><td>9:45 AM</td><td><strong>In-Bore MRI-Guided Trans-Perineal Partial Gland Cryoablation for Primary Prostate Cancer: A Prospective Study</strong><br><em>David Woodrum, Mayo Clinic, Rochester, MN, United States</em></td></tr>
+<tr><td>O-23</td><td>8:15 AM</td><td>8:30 AM</td><td><strong>Invited Talk: Prostate Interventions — How I Do It</strong><br><em>Jurgen Futterer MD, Radboudumc, Nijmegen, Netherlands</em></td></tr>
+<tr><td>O-24</td><td>8:30 AM</td><td>8:40 AM</td><td><strong>MRI-Guided In-Bore Percutaneous Transgluteal Prostate Biopsy at 0.55T</strong><br><em>Serdar Sagdic, University of Michigan, Ann Arbor, MI, United States</em></td></tr>
+<tr><td>O-25</td><td>8:40 AM</td><td>8:50 AM</td><td><strong>MRI-Guided Cryoablation for Primary and Salvage Prostate Cancer Treatment: Initial Patient Experience</strong><br><em>Lauren Marlatt, University of Wisconsin-Madison, Madison, WI, United States</em></td></tr>
+<tr><td>O-26</td><td>8:50 AM</td><td>9:00 AM</td><td><strong>Cost-Effective Needle Tract Verification Using Susceptibility-Weighted Imaging (SWI) in MR-Guided Prostate Biopsy</strong><br><em>Can Yüksel, University Hospital RWTH Aachen, Aachen, Germany</em></td></tr>
+<tr><td>O-27</td><td>9:00 AM</td><td>9:10 AM</td><td><strong>Accuracy and Verification of an MR-Compatible Transperineal Biopsy Device</strong><br><em>Joyce Bomers, Radboudumc, Nijmegen, Netherlands</em></td></tr>
+<tr><td>O-28</td><td>9:10 AM</td><td>9:20 AM</td><td><strong>Four-Year Experience with MRI-Guided Focal Prostate Cryoablation</strong><br><em>Vipul Sheth, Stanford University, Stanford, CA, United States</em></td></tr>
+<tr><td>O-29</td><td>9:20 AM</td><td>9:30 AM</td><td><strong>In-Bore MRI-Guided Trans-Perineal Partial Gland Cryoablation for Primary Prostate Cancer: A Prospective Study</strong><br><em>David Woodrum, Mayo Clinic, Rochester, MN, United States</em></td></tr>
 </tbody>
 </table>
 
@@ -195,15 +195,15 @@ permalink: /program/
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
-<tr><td>O-30</td><td>9:45 AM</td><td>9:55 AM</td><td><strong>MR Guided Brachytherapy of Small Liver Lesions – Optimizing Dose Delivery and Local Tumor Control (Results of the MR BRIGHT Trial)</strong><br><em>Matthias Philipp Fabritius, LMU University Hospital, Munich, Germany</em></td></tr>
-<tr><td>O-31</td><td>9:55 AM</td><td>10:05 AM</td><td><strong>End-to-End MRI &amp; MRT-guided cervical-cancer brachytherapy interventions</strong><br><em>Majd Antaki, Johns Hopkins University, Baltimore, MD, United States</em></td></tr>
-<tr><td>O-32</td><td>10:05 AM</td><td>10:15 AM</td><td><strong>Automated Detection of Syed-Neblett Applicators and Interstitial Needles on PETRA MRI Images</strong><br><em>Evangelia Kaza, Mass General Brigham, Boston, MA, United States</em></td></tr>
+<tr><td>O-30</td><td>9:30 AM</td><td>9:40 AM</td><td><strong>MR Guided Brachytherapy of Small Liver Lesions – Optimizing Dose Delivery and Local Tumor Control (Results of the MR BRIGHT Trial)</strong><br><em>Matthias Philipp Fabritius, LMU University Hospital, Munich, Germany</em></td></tr>
+<tr><td>O-31</td><td>9:40 AM</td><td>9:50 AM</td><td><strong>End-to-End MRI &amp; MRT-guided cervical-cancer brachytherapy interventions</strong><br><em>Majd Antaki, Johns Hopkins University, Baltimore, MD, United States</em></td></tr>
+<tr><td>O-32</td><td>9:50 AM</td><td>10:00 AM</td><td><strong>Automated Detection of Syed-Neblett Applicators and Interstitial Needles on PETRA MRI Images</strong><br><em>Evangelia Kaza, Mass General Brigham, Boston, MA, United States</em></td></tr>
 </tbody>
 </table>
 
 | Start | End | Item |
 |-------|-----|------|
-| 10:15 AM | 10:45 AM | **Coffee Break and Visit Exhibits** |
+| 10:00 AM | 10:30 AM | **Coffee Break and Visit Exhibits** |
 {: .program-note-table}
 
 <table class="program-session-table" id="day2-session-vii-neuro">
@@ -213,12 +213,12 @@ permalink: /program/
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
-<tr><td>O-33</td><td>10:45 AM</td><td>11:00 AM</td><td><strong>Invited Talk: Radio-pathomic Mapping of Brain Tumor Invasion</strong><br><em>Peter LaViolette PhD, Medical College of Wisconsin, Milwaukee, WI, United States</em></td></tr>
-<tr><td>O-34</td><td>11:00 AM</td><td>11:10 AM</td><td><strong>Brain Proton MRS Thermometry Enhanced by Fiber Orientation Susceptibility Correction</strong><br><em>Adisorn Yimsuk, Tokai University, Kanagawa, Japan</em></td></tr>
-<tr><td>O-35</td><td>11:10 AM</td><td>11:20 AM</td><td><strong>Clinical Feasibility of an MRI-Compatible Motorized Alignment Device for MRI-Guided Deep Brain Stimulation: Initial Experience</strong><br><em>Pedro Moreira, Brigham and Women's Hospital, Boston, MA, United States</em></td></tr>
-<tr><td>O-36</td><td>11:20 AM</td><td>11:30 AM</td><td><strong>Investigating the Thermal Effect of Interstitial Photodynamic Therapy for Glioblastoma Treatment: A Combined Experimental and Numerical Study</strong><br><em>Manon Desclides, University of Bordeaux, Bordeaux, France</em></td></tr>
-<tr><td>O-37</td><td>11:30 AM</td><td>11:40 AM</td><td><strong>Trajectory Guide for Accelerated Minimally-Invasive Neurosurgery: Hardware Validation in Phantoms</strong><br><em>Thomas Lilieholm, ImgGyd LLC, Madison, WI, United States</em></td></tr>
-<tr><td>O-38</td><td>11:40 AM</td><td>11:50 AM</td><td><strong>An MRI-Guided Robot for Stereotactic Neurosurgery: An Initial Cadaver Study</strong><br><em>Gang Li, Children's National Hospital, Washington, DC, United States</em></td></tr>
+<tr><td>O-33</td><td>10:30 AM</td><td>10:45 AM</td><td><strong>Invited Talk: Radio-pathomic Mapping of Brain Tumor Invasion</strong><br><em>Peter LaViolette PhD, Medical College of Wisconsin, Milwaukee, WI, United States</em></td></tr>
+<tr><td>O-34</td><td>10:45 AM</td><td>10:55 AM</td><td><strong>Brain Proton MRS Thermometry Enhanced by Fiber Orientation Susceptibility Correction</strong><br><em>Adisorn Yimsuk, Tokai University, Kanagawa, Japan</em></td></tr>
+<tr><td>O-35</td><td>10:55 AM</td><td>11:05 AM</td><td><strong>Clinical Feasibility of an MRI-Compatible Motorized Alignment Device for MRI-Guided Deep Brain Stimulation: Initial Experience</strong><br><em>Pedro Moreira, Brigham and Women's Hospital, Boston, MA, United States</em></td></tr>
+<tr><td>O-36</td><td>11:05 AM</td><td>11:15 AM</td><td><strong>Investigating the Thermal Effect of Interstitial Photodynamic Therapy for Glioblastoma Treatment: A Combined Experimental and Numerical Study</strong><br><em>Manon Desclides, University of Bordeaux, Bordeaux, France</em></td></tr>
+<tr><td>O-37</td><td>11:15 AM</td><td>11:25 AM</td><td><strong>Trajectory Guide for Accelerated Minimally-Invasive Neurosurgery: Hardware Validation in Phantoms</strong><br><em>Thomas Lilieholm, ImgGyd LLC, Madison, WI, United States</em></td></tr>
+<tr><td>O-38</td><td>11:25 AM</td><td>11:35 AM</td><td><strong>An MRI-Guided Robot for Stereotactic Neurosurgery: An Initial Cadaver Study</strong><br><em>Gang Li, Children's National Hospital, Washington, DC, United States</em></td></tr>
 </tbody>
 </table>
 
@@ -228,13 +228,13 @@ permalink: /program/
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
-<tr><td>O-39</td><td>11:50 AM</td><td>12:05 PM</td><td><strong>Invited Talk: From Intraoperative MRI to Intelligent Intervention: 30 Years of Image-Guided Therapy at Brigham and Women’s Hospital</strong><br><em>Nobuhiko Hata PhD, Brigham and Women's Hospital, Boston, MA, United States</em></td></tr>
+<tr><td>O-39</td><td>11:35 AM</td><td>11:50 AM</td><td><strong>Invited Talk: From Intraoperative MRI to Intelligent Intervention: 30 Years of Image-Guided Therapy at Brigham and Women’s Hospital</strong><br><em>Nobuhiko Hata PhD, Brigham and Women's Hospital, Boston, MA, United States</em></td></tr>
 </tbody>
 </table>
 
 | Start | End | Item |
 |-------|-----|------|
-| 12:05 PM | 1:35 PM | **Lunch Break and Exhibits** |
+| 11:50 AM | 1:20 PM | **Lunch Break and Exhibits** |
 {: .program-note-table}
 
 <table class="program-session-table" id="day2-session-ix-focused-ultrasound-fus">
@@ -244,10 +244,10 @@ permalink: /program/
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
-<tr><td>O-40</td><td>1:35 PM</td><td>1:50 PM</td><td><strong>Invited Talk: MR-Guided Focused Ultrasound Blood-Brain Barrier Opening for Next-Generation Gene Therapy</strong><br><em>Nicholas Todd PhD, Brigham and Women's Hospital / Harvard Medical School, Boston, MA, United States</em></td></tr>
-<tr><td>O-41</td><td>1:50 PM</td><td>2:00 PM</td><td><strong>MRI-Guided Transurethral Ultrasound Ablation (TULSA) vs Robotic Prostatectomy RCT: 6-Month Outcomes</strong><br><em>David Woodrum, Mayo Clinic, Rochester, MN, United States</em></td></tr>
-<tr><td>O-42</td><td>2:00 PM</td><td>2:10 PM</td><td><strong>Impact of Ablation Plan on PSA Response and Catheterization Duration After MRI-Guided TULSA in the CARE Registry</strong><br><em>David Sella, Mayo Clinic Florida, Jacksonville, FL, United States</em></td></tr>
-<tr><td>O-43</td><td>2:10 PM</td><td>2:20 PM</td><td><strong>Translational Assessment of a Rabbit-Model Trained MRgFUS Imaging Biomarker</strong><br><em>Amanpreet Singh, University of Utah, Salt Lake City, UT, United States</em></td></tr>
+<tr><td>O-40</td><td>1:20 PM</td><td>1:35 PM</td><td><strong>Invited Talk: MR-Guided Focused Ultrasound Blood-Brain Barrier Opening for Next-Generation Gene Therapy</strong><br><em>Nicholas Todd PhD, Brigham and Women's Hospital / Harvard Medical School, Boston, MA, United States</em></td></tr>
+<tr><td>O-41</td><td>1:35 PM</td><td>1:45 PM</td><td><strong>MRI-Guided Transurethral Ultrasound Ablation (TULSA) vs Robotic Prostatectomy RCT: 6-Month Outcomes</strong><br><em>David Woodrum, Mayo Clinic, Rochester, MN, United States</em></td></tr>
+<tr><td>O-42</td><td>1:45 PM</td><td>1:55 PM</td><td><strong>Impact of Ablation Plan on PSA Response and Catheterization Duration After MRI-Guided TULSA in the CARE Registry</strong><br><em>David Sella, Mayo Clinic Florida, Jacksonville, FL, United States</em></td></tr>
+<tr><td>O-43</td><td>1:55 PM</td><td>2:05 PM</td><td><strong>Translational Assessment of a Rabbit-Model Trained MRgFUS Imaging Biomarker</strong><br><em>Amanpreet Singh, University of Utah, Salt Lake City, UT, United States</em></td></tr>
 </tbody>
 </table>
 
@@ -258,17 +258,17 @@ permalink: /program/
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
-<tr><td>O-44</td><td>2:20 PM</td><td>2:35 PM</td><td><strong>Invited Talk: MR Neurography-Guided Interventions (Title TBA)</strong><br><em>Jan Fritz MD, New York University Grossman School of Medicine, New York, NY, United States</em></td></tr>
-<tr><td>O-45</td><td>2:35 PM</td><td>2:45 PM</td><td><strong>Feasibility of 3D Visualization for Intraprocedural Coverage Assessment in MR-Guided Spine Cryoablation</strong><br><em>Mariana C, Brigham and Women's Hospital, Boston, MA, United States</em></td></tr>
-<tr><td>O-46</td><td>2:45 PM</td><td>2:55 PM</td><td><strong>MRI-Guided Multi-Regional Biopsy of Soft-Tissue Sarcomas</strong><br><em>Simon Reiss, University Medical Center Freiburg, Freiburg, Germany</em></td></tr>
-<tr><td>O-47</td><td>2:55 PM</td><td>3:05 PM</td><td><strong>MRI-Guided Percutaneous Laser Ablation for Pediatric Vascular Anomalies: A Single-Institution Experience</strong><br><em>Setayesh Sotoudehnia Korani, Mayo Clinic, Rochester, MN, United States</em></td></tr>
-<tr><td>O-48</td><td>3:05 PM</td><td>3:15 PM</td><td><strong>MRI-Safe Robot and Drill for Bone Biopsy: First Clinical Results</strong><br><em>Kevin Cleary, Children's National Hospital, Washington, DC, United States</em></td></tr>
+<tr><td>O-44</td><td>2:05 PM</td><td>2:20 PM</td><td><strong>Invited Talk: MR Neurography-Guided Interventions (Title TBA)</strong><br><em>Jan Fritz MD, New York University Grossman School of Medicine, New York, NY, United States</em></td></tr>
+<tr><td>O-45</td><td>2:20 PM</td><td>2:30 PM</td><td><strong>Feasibility of 3D Visualization for Intraprocedural Coverage Assessment in MR-Guided Spine Cryoablation</strong><br><em>Mariana C, Brigham and Women's Hospital, Boston, MA, United States</em></td></tr>
+<tr><td>O-46</td><td>2:30 PM</td><td>2:40 PM</td><td><strong>MRI-Guided Multi-Regional Biopsy of Soft-Tissue Sarcomas</strong><br><em>Simon Reiss, University Medical Center Freiburg, Freiburg, Germany</em></td></tr>
+<tr><td>O-47</td><td>2:40 PM</td><td>2:50 PM</td><td><strong>MRI-Guided Percutaneous Laser Ablation for Pediatric Vascular Anomalies: A Single-Institution Experience</strong><br><em>Setayesh Sotoudehnia Korani, Mayo Clinic, Rochester, MN, United States</em></td></tr>
+<tr><td>O-48</td><td>2:50 PM</td><td>3:00 PM</td><td><strong>MRI-Safe Robot and Drill for Bone Biopsy: First Clinical Results</strong><br><em>Kevin Cleary, Children's National Hospital, Washington, DC, United States</em></td></tr>
 </tbody>
 </table>
 
 | Start | End | Item |
 |-------|-----|------|
-| 3:15 PM | 3:45 PM | **Coffee Break and Visit Exhibits** |
+| 3:00 PM | 3:30 PM | **Coffee Break and Visit Exhibits** |
 {: .program-note-table}
 
 <table class="program-session-table" id="day2-session-xi-technology-ii">
@@ -278,31 +278,31 @@ permalink: /program/
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
-<tr><td>O-49</td><td>3:45 PM</td><td>4:00 PM</td><td><strong>Invited Talk: (Title TBA)</strong><br><em>Holden Wu PhD, University of California Los Angeles, Los Angeles, CA, United States</em></td></tr>
-<tr><td>O-50</td><td>4:00 PM</td><td>4:10 PM</td><td><strong>Tissue and Needle Tracking on Real-Time Interventional Liver MRI Using the SAM2++ Foundation Model</strong><br><em>Christina Kerr, University of California Los Angeles, Los Angeles, CA, United States</em></td></tr>
-<tr><td>O-51</td><td>4:10 PM</td><td>4:20 PM</td><td><strong>Unsupervised Conditional INR for Referenceless PRF Thermometry</strong><br><em>Yueran Zhao, Shanghai Jiao Tong University, Shanghai, China</em></td></tr>
-<tr><td>O-52</td><td>4:20 PM</td><td>4:30 PM</td><td><strong>MR Thermometry-Based Validation of Liver Tumor Microwave Ablation Computational Modeling for Lesion Size Prediction</strong><br><em>Nino Avetikovi, University of Bordeaux, Bordeaux, France</em></td></tr>
-<tr><td>O-53</td><td>4:30 PM</td><td>4:40 PM</td><td><strong>AI-Based Workflow for Automatic Needle Tracking and Dynamic Scan-Plane Control in Interventional MRI</strong><br><em>Mariana C, Brigham and Women's Hospital, Boston, MA, United States</em></td></tr>
+<tr><td>O-49</td><td>3:30 PM</td><td>3:45 PM</td><td><strong>Invited Talk: (Title TBA)</strong><br><em>Holden Wu PhD, University of California Los Angeles, Los Angeles, CA, United States</em></td></tr>
+<tr><td>O-50</td><td>3:45 PM</td><td>3:55 PM</td><td><strong>Tissue and Needle Tracking on Real-Time Interventional Liver MRI Using the SAM2++ Foundation Model</strong><br><em>Christina Kerr, University of California Los Angeles, Los Angeles, CA, United States</em></td></tr>
+<tr><td>O-51</td><td>3:55 PM</td><td>4:05 PM</td><td><strong>Unsupervised Conditional INR for Referenceless PRF Thermometry</strong><br><em>Chang-Sheng Mei, Soochow University, Taipei, Taiwan</em></td></tr>
+<tr><td>O-52</td><td>4:05 PM</td><td>4:15 PM</td><td><strong>MR Thermometry-Based Validation of Liver Tumor Microwave Ablation Computational Modeling for Lesion Size Prediction</strong><br><em>Nino Avetikovi, University of Bordeaux, Bordeaux, France</em></td></tr>
+<tr><td>O-53</td><td>4:15 PM</td><td>4:25 PM</td><td><strong>AI-Based Workflow for Automatic Needle Tracking and Dynamic Scan-Plane Control in Interventional MRI</strong><br><em>Mariana C, Brigham and Women's Hospital, Boston, MA, United States</em></td></tr>
 </tbody>
 </table>
 
 | Start | End | Item |
 |-------|-----|------|
-| 4:40 PM | 5:00 PM | **Poster Awards and Conclusion** |
+| 4:25 PM | 4:45 PM | **Poster Awards and Conclusion** |
 {: .program-note-table}
 
 | Start | End | Item |
 |-------|-----|------|
-| 5:00 PM |  | **Adjourn** |
+| 4:45 PM |  | **Adjourn** |
 {: .program-note-table}
 
 <table class="program-day-table" id="poster-session">
 <caption><span class="day-name">Poster Session</span></caption>
 </table>
 
-All 95 poster-assigned abstracts are presented in the area adjacent to the main conference room during Session III — Poster Presentations (1:00 PM – 2:30 PM, October 8, 2026), grouped below by topic.
+All 94 poster-assigned abstracts are presented in the area adjacent to the main conference room during Session III — Poster Presentations (1:00 PM – 2:30 PM, October 8, 2026), grouped below by topic.
 
-### Pelvic (Prostate and Gyn) (12)
+### Pelvic (Prostate and Gyn) (11)
 
 | # | Title | Presenter |
 |---|-------|-----------|
@@ -311,7 +311,6 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-3 | Locoregional Tumor Control of Prostate Cancer Bone Metastasis using MRI-Guided Cryoablation: A Retrospective Cohort Study | Ola Mohamed, Mayo Clinic, Rochester, MN, United States |
 | P-4 | MRI-Guided Salvage Cryoablation of Localized, Recurrent Prostate Cancer: 13-Year Prospective Study | David Woodrum, Mayo Clinic, Rochester, MN, United States |
 | P-5 | AI-Assisted Quantification of Cryo-Injury in MRI-Guided Prostate Cryoablation Using Imaging-Derived Dose Metrics | Pedro Moreira, Brigham and Women's Hospital, Boston, MA, United States |
-| P-6 | Effect of Bead Presence, Composition, and Configuration on MRI and CT Artifact Characteristics | Deborah Shinyanbola, Royal College of Surgeons Ireland, Dublin, Ireland |
 | P-7 | MRI-Guided Transperineal Prostate Biopsy in Patients Without Rectal Access: Technique and Feasibility | Michael McKernan, Mayo Clinic, Rochester, MN, United States |
 | P-8 | Imaging Sequences Used for Prostate Cryoablation and Biopsy Guidance | Carly McKenzie, Mayo Clinic, Rochester, MN, United States |
 | P-9 | Image Guided Focal Therapy for Prostate Cancer: A Review of Patient Selection, Imaging, and Treatment Techniques | Daniel Adamo, Mayo Clinic, Rochester, MN, United States |
@@ -338,7 +337,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-18 | Custom Hardware to Adapt Conventional Flexible MRI Coils for Interventional Applications | Nirvaan N Jaitli, University of Wisconsin-Madison, Madison, WI, United States |
 | P-19 | Design and Preliminary Evaluation of an MR-Compatible Microwave Applicator Holder with Motion-Adaptive Compliance for Interventional MRI Procedures | Qiaozhi Chen, Otto-von-Guericke University, Magdeburg, Germany |
 | P-20 | Dynamic Decoupling of RF Coil Arrays for Interventional MRI | Isabella Duan, Columbia University, New York, NY, United States |
-| P-21 | Comparison of Three Real-Time Marker Detection Algorithms for Instrument Tracking of MRI-Guided Robotic Needle Interventions | Gina Thieße, Otto-von-Guericke University, Magdeburg, Germany |
+| P-21 | Comparison of Three Real-Time Marker Detection Algorithms for Instrument Tracking of MRI-Guided Robotic Needle Interventions | Anton Schlünz, Otto-von-Guericke University, Magdeburg, Germany |
 | P-22 | Feasibility of Extended Reality Guidance for MRI-Guided Interventions: A Phantom Evaluation in Cardiac and Prostate Applications | Evangelia Ilia, University of Twente, Enschede, Netherlands |
 | P-23 | From Stop-and-Go to Continuous in MRI-Guided Needle Steering: Addressing Delayed and Sparse Feedback | Ryo Murakami, Worcester Polytechnic Institute, Worcester, MA, United States |
 | P-24 | Bidirectional Continuous Rotation and Variable Curvature Needle Steering (B-CURV) for MRI-Guided Robotic Prostate Biopsy | Tae Wan Kim, Worcester Polytechnic Institute, Worcester, MA, United States |
