@@ -135,7 +135,7 @@ permalink: /program/
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
 <tr><td>O-12</td><td>2:55 PM</td><td>3:10 PM</td><td><strong>Invited Talk: MRI-Guided Robotics to Enable Interventions</strong><br><em>Kevin Cleary PhD, Children's National Hospital, Washington, DC, United States</em></td></tr>
-<tr><td>O-13</td><td>3:10 PM</td><td>3:20 PM</td><td><strong>RF Receive Coil with Integrated MRI-Transparent Heater for Cryoablation</strong><br><em>Joseph Corea, InkSpace Imaging, Providence, RI, United States</em></td></tr>
+<tr><td>O-13</td><td>3:10 PM</td><td>3:20 PM</td><td><strong>RF Receive Coil with Integrated MRI-Transparent Heater for Cryoablation</strong><br><em>Joseph Corea, InkSpace Imaging, Pleasanton, CA, United States</em></td></tr>
 <tr><td>O-14</td><td>3:20 PM</td><td>3:30 PM</td><td><strong>MRI Hybrid Ablation: Using the MR Scanner Hardware as Power Source for RF Ablation and as Receiving Unit of Thermal Monitoring by MR Thermometry</strong><br><em>Thomas Gerlach, Otto-von-Guericke University, Magdeburg, Germany</em></td></tr>
 <tr><td>O-15</td><td>3:30 PM</td><td>3:40 PM</td><td><strong>Out-of-Bore Respiratory Tracking in MRI-Guided Percutaneous Interventions Using a Noise Navigator</strong><br><em>Erik Arts, University of Twente, Enschede, Netherlands</em></td></tr>
 <tr><td>O-16</td><td>3:40 PM</td><td>3:50 PM</td><td><strong>Flexible RF Receive Array Coil Optimized for MR-Guided Interventions</strong><br><em>Jayant D Sakhardande, University of Iowa, Iowa City, IA, United States</em></td></tr>
@@ -217,7 +217,7 @@ permalink: /program/
 <tr><td>O-34</td><td>11:00 AM</td><td>11:10 AM</td><td><strong>Brain Proton MRS Thermometry Enhanced by Fiber Orientation Susceptibility Correction</strong><br><em>Adisorn Yimsuk, Tokai University, Kanagawa, Japan</em></td></tr>
 <tr><td>O-35</td><td>11:10 AM</td><td>11:20 AM</td><td><strong>Clinical Feasibility of an MRI-Compatible Motorized Alignment Device for MRI-Guided Deep Brain Stimulation: Initial Experience</strong><br><em>Pedro Moreira, Brigham and Women's Hospital, Boston, MA, United States</em></td></tr>
 <tr><td>O-36</td><td>11:20 AM</td><td>11:30 AM</td><td><strong>Investigating the Thermal Effect of Interstitial Photodynamic Therapy for Glioblastoma Treatment: A Combined Experimental and Numerical Study</strong><br><em>Manon Desclides, University of Bordeaux, Bordeaux, France</em></td></tr>
-<tr><td>O-37</td><td>11:30 AM</td><td>11:40 AM</td><td><strong>Trajectory Guide for Accelerated Minimally-Invasive Neurosurgery: Hardware Validation in Phantoms</strong><br><em>Thomas Lilieholm, ImgGyd LLC, United States</em></td></tr>
+<tr><td>O-37</td><td>11:30 AM</td><td>11:40 AM</td><td><strong>Trajectory Guide for Accelerated Minimally-Invasive Neurosurgery: Hardware Validation in Phantoms</strong><br><em>Thomas Lilieholm, ImgGyd LLC, Madison, WI, United States</em></td></tr>
 <tr><td>O-38</td><td>11:40 AM</td><td>11:50 AM</td><td><strong>An MRI-Guided Robot for Stereotactic Neurosurgery: An Initial Cadaver Study</strong><br><em>Gang Li, Children's National Hospital, Washington, DC, United States</em></td></tr>
 </tbody>
 </table>
@@ -315,7 +315,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-7 | MRI-Guided Transperineal Prostate Biopsy in Patients Without Rectal Access: Technique and Feasibility | Michael McKernan, Mayo Clinic, Rochester, MN, United States |
 | P-8 | Imaging Sequences Used for Prostate Cryoablation and Biopsy Guidance | Carly McKenzie, Mayo Clinic, Rochester, MN, United States |
 | P-9 | Image Guided Focal Therapy for Prostate Cancer: A Review of Patient Selection, Imaging, and Treatment Techniques | Daniel Adamo, Mayo Clinic, Rochester, MN, United States |
-| P-10 | Image Quality Assessment of 0.6T and 1.5T MRI for MRI-Guided Prostate Interventions | Daniel Adamo, Philips, Best, Netherlands |
+| P-10 | Image Quality Assessment of 0.6T and 1.5T MRI for MRI-Guided Prostate Interventions | Daniel Adamo, Philips, Rochester, MN, United States |
 | P-11 | MR-Guided Cryoablation of Penile Metastasis - A Case Series of Three Patients | Ola Mohamed, Mayo Clinic, Rochester, MN, United States |
 | P-12 | MRI-Guided Percutaneous Cryoablation of a Symptomatic Penile Neurofibroma in the Setting of Neurofibromatosis Type 1: A Case Report | David Woodrum, Mayo Clinic, Rochester, MN, United States |
 {: .program-poster-table}
@@ -334,7 +334,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 
 | # | Title | Presenter |
 |---|-------|-----------|
-| P-17 | MR-Compatible Ultrasound Tracker for Fast Alignment of US-MR Images | Chitresh Bhushan, GE Healthcare, Waukesha, WI, United States |
+| P-17 | MR-Compatible Ultrasound Tracker for Fast Alignment of US-MR Images | Chitresh Bhushan, GE Healthcare, Niskayuna, NY, United States |
 | P-18 | Custom Hardware to Adapt Conventional Flexible MRI Coils for Interventional Applications | Nirvaan N Jaitli, University of Wisconsin-Madison, Madison, WI, United States |
 | P-19 | Design and Preliminary Evaluation of an MR-Compatible Microwave Applicator Holder with Motion-Adaptive Compliance for Interventional MRI Procedures | Qiaozhi Chen, Otto-von-Guericke University, Magdeburg, Germany |
 | P-20 | Dynamic Decoupling of RF Coil Arrays for Interventional MRI | Isabella Duan, Columbia University, New York, NY, United States |
@@ -389,7 +389,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-51 | MR-Guided Ablation in Kaposiform Hemangioendothelioma | Hasan Usmani, Idaho College of Osteopathic Medicine, Meridian, ID, United States |
 | P-52 | MR guided cryoablation for treatment of painful large to medium slow-flow venous malformations in the plantar foot - a retrospective study | Ola Mohamed, Mayo Clinic, Rochester, MN, United States |
 | P-53 | Sequential MR-guided laser and cryoablation of a recurrent painful slow-flow venous malformation in a 6-year-old | Ola Mohamed, Mayo Clinic, Rochester, MN, United States |
-| P-54 | MRI-Guided Cryoablation for Recurrent Pediatric Hand Desmoid Tumor: A Longitudinal Case Report | Laurel Woodrum, Mayo Clinic, Rochester, MN, United States |
+| P-54 | MRI-Guided Cryoablation for Recurrent Pediatric Hand Desmoid Tumor: A Longitudinal Case Report | Laurel Woodrum, Mayo Clinic, Des Moines, IA, United States |
 | P-55 | MRI-Guided Cryoablation of a Bilateral Plantar Fibromatosis | Setayesh Sotoudehnia Korani, Mayo Clinic, Rochester, MN, United States |
 {: .program-poster-table}
 
@@ -431,7 +431,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-75 | Respiratory-Triggered Real-Time PRF Thermometry in the Liver at 0.55 T | Jonas Frederik Faust, Siemens Healthineers, Erlangen, Germany |
 | P-76 | Volumetric 3D Stack-of-Spirals PRFS Thermometry at 0.55 T for MR-Guided Hepatic Microwave Ablation: Initial Feasibility | Dominik Horstmann, Hannover Medical School, Hannover, Germany |
 | P-77 | A Subvoxel Correction of Boiling-Induced Susceptibility Artifacts in MR Thermometry and Dosimetry for Monitoring MW Thermoablation | Eber Dantas, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil |
-| P-78 | MR-Compatible Testbed for MR Thermometry in Liver Microwave Ablation with Heat-Sink Effect | Yuqing Fan, Cornell University, New York, NY, United States |
+| P-78 | MR-Compatible Testbed for MR Thermometry in Liver Microwave Ablation with Heat-Sink Effect | Yuqing Fan, Cornell University, Ithaca, NY, United States |
 | P-79 | Using Fiber Bragg Grating Sensor Arrays to Validate MR Thermometry | Ana Sofia Garcia, Otto-von-Guericke University, Magdeburg, Germany |
 {: .program-poster-table}
 
@@ -444,7 +444,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-82 | Effective Wire Heating Risk Mitigation for Intraoperative Neurophysiological Monitoring during MRI-Guided Ablations | Aiming Lu, Mayo Clinic, Rochester, MN, United States |
 | P-83 | Reliability of Vendor-Provided Gradient Data for Interventional Off-Center MR Imaging | Janis Seibt, Otto-von-Guericke University, Magdeburg, Germany |
 | P-84 | Mitigation of RF Heating and Needle Artifacts in MRI-Guided Interventions Using RF Chokes | Aiming Lu, Mayo Clinic, Rochester, MN, United States |
-| P-85 | Quantitative Investigation of Off-Centre Positioning Effects on MR Image Quality in an Interventional Setting based on Phantom study | Li Xiao, Tuen Mun Hospital, Tuen Mun, Hong Kong |
+| P-85 | Quantitative Investigation of Off-Centre Positioning Effects on MR Image Quality in an Interventional Setting based on Phantom study | Li Xiao, Tuen Mun Hospital, Hong Kong, Hong Kong |
 | P-86 | Large Language Model-Supported Multi-Agent Pipeline for Speech-Based Workflow Analysis in Interventional Radiology: A Proof-of-Concept Study | Hui Chen, Hannover Medical School, Hannover, Germany |
 | P-87 | High Impedance Dielectric Cable Combination to Reduce Burn Risk from Intraoperative Neuromonitoring During MRI | Daniel Hernandez, Gachon University Gil Medical Center, Incheon, South Korea |
 | P-88 | Electromagnetic-Thermal Analysis of RF-Induced IONM Lead Heating at 1.5T MRI: Quantitative Effects of Geometric Parameters | Suin Choi, Gachon University, Incheon, South Korea |
@@ -452,7 +452,7 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-90 | Ergonomic Comparison of CT- and MR-Guided Needle Interventions Using Digital Human Model Simulation | Steven Fischer, University of Waterloo, Waterloo, ON, Canada |
 | P-91 | MR-Guided Ablation in Patients with Active Implanted Medical Devices | Angela Pooler, Mayo Clinic, Rochester, MN, United States |
 | P-92 | Safety in Zone 4 of the Interventional MRI Suite During MR Guided Cryoablation - A Nursing Perspective | Katie Gehling, Mayo Clinic, Rochester, MN, United States |
-| P-93 | CPT Code Based Reimbursement Disparity Between Prostate Cryoablation (55873) and Radical Prostatectomy (55866): Implications for Interventional Radiology Practice and Value Based Care | Moises Cruz, Mayo Clinic, Rochester, MN, United States |
+| P-93 | CPT Code Based Reimbursement Disparity Between Prostate Cryoablation (55873) and Radical Prostatectomy (55866): Implications for Interventional Radiology Practice and Value Based Care | Moises Cruz, Mayo Clinic, Bloomington, IN, United States |
 {: .program-poster-table}
 
 ### Policy (2)
@@ -460,5 +460,5 @@ All 95 poster-assigned abstracts are presented in the area adjacent to the main 
 | # | Title | Presenter |
 |---|-------|-----------|
 | P-94 | Cost-Effectiveness of MR-Guided versus CT-Guided Biopsy of Small Focal Liver Lesions: A Decision-Analytic Analysis | Moritz Ludwig Schnitzer, LMU University Hospital, Munich, Germany |
-| P-95 | Reimbursement Disparity Between CT-Guided and MR-Guided Percutaneous Ablation Procedures Under the CY2026 Medicare Physician Fee Schedule | Moises Cruz, Mayo Clinic, Rochester, MN, United States |
+| P-95 | Reimbursement Disparity Between CT-Guided and MR-Guided Percutaneous Ablation Procedures Under the CY2026 Medicare Physician Fee Schedule | Moises Cruz, Mayo Clinic, Bloomington, IN, United States |
 {: .program-poster-table}
