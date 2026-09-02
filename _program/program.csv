@@ -1,5 +1,5 @@
 date,start,end,type,number,subid,title,speaker,affiliation,city,country,status,notes
-2026-10-08,07:00,08:00,break,,,Registration — Breakfast and Visit Exhibits,,,,,,
+2026-10-08,07:00,08:00,break,,,Registration — Breakfast and Exhibits,,,,,,
 2026-10-08,08:00,08:15,special,,,Welcome — Introduction and Goals,"Clare Tempany, Thomas Kahn, Jonathan Lewin",,,,,
 2026-10-08,08:15,08:25,session,,,Special Tribute Session,,,,,,
 2026-10-08,08:15,08:25,invited_talk,,,In Memory of Dr. Harald Busse: Honoring His Contributions to the iMRI Society,,,,,,
@@ -20,7 +20,7 @@ date,start,end,type,number,subid,title,speaker,affiliation,city,country,status,n
 2026-10-08,11:25,11:35,oral,10,153,Initial Evaluation of Interactive Imaging on a High Performance 0.55 T System,Nathan Ooms,Cook Advanced Technology,"Bloomington, IN",United States,,
 2026-10-08,11:35,11:45,oral,11,135,Post-Ablation Margin Assessment using Free-Breathing Liver DCE MRI: An In-Silico Study,Jayant D Sakhardande,University of Iowa,"Iowa City, IA",United States,,
 2026-10-08,11:45,13:00,break,,,Lunch Break and Exhibits,,,,,,
-2026-10-08,13:00,14:30,session,,,Session III — Poster Presentations,,,,,,
+2026-10-08,13:00,14:30,session,,,Session III — Poster Presentations and Exhibits,,,,,,
 2026-10-08,13:00,14:30,invited_talk,,,Poster Presentations,,,,,,All poster-assigned abstracts are presented in the area adjacent to the main conference room; each presenter is assigned the full 90-minute session.
 2026-10-08,14:30,14:55,break,,,Coffee Break and Exhibits,,,,,,
 2026-10-08,14:55,15:50,session,,,Session IV — Technology I,"Moderators: Kevin Cleary, Axel Krieger",,,,,
@@ -50,7 +50,7 @@ date,start,end,type,number,subid,title,speaker,affiliation,city,country,status,n
 2026-10-09,09:30,09:40,oral,30,121,MR Guided Brachytherapy of Small Liver Lesions – Optimizing Dose Delivery and Local Tumor Control (Results of the MR BRIGHT Trial),Matthias Philipp Fabritius,LMU University Hospital,Munich,Germany,,
 2026-10-09,09:40,09:50,oral,31,40,End-to-End MRI & MRT-guided cervical-cancer brachytherapy interventions,Majd Antaki,Johns Hopkins University,"Baltimore, MD",United States,,
 2026-10-09,09:50,10:00,oral,32,156,Automated Detection of Syed-Neblett Applicators and Interstitial Needles on PETRA MRI Images,Evangelia Kaza,Mass General Brigham,"Boston, MA",United States,,
-2026-10-09,10:00,10:30,break,,,Coffee Break and Visit Exhibits,,,,,,
+2026-10-09,10:00,10:30,break,,,Coffee Break and Exhibits,,,,,,
 2026-10-09,10:30,11:35,session,,,Session VII — Neuro,"Moderators: Peter LaViolette, Second Moderator TBD",,,,,
 2026-10-09,10:30,10:45,invited_talk,33,,Invited Talk: Radio-pathomic Mapping of Brain Tumor Invasion,"Peter LaViolette PhD, Medical College of Wisconsin",,"Milwaukee, WI",United States,confirmed,
 2026-10-09,10:45,10:55,oral,34,109,Brain Proton MRS Thermometry Enhanced by Fiber Orientation Susceptibility Correction,Adisorn Yimsuk,Tokai University,Kanagawa,Japan,,
@@ -72,7 +72,7 @@ date,start,end,type,number,subid,title,speaker,affiliation,city,country,status,n
 2026-10-09,14:30,14:40,oral,46,79,MRI-Guided Multi-Regional Biopsy of Soft-Tissue Sarcomas,Simon Reiss,University Medical Center Freiburg,Freiburg,Germany,,
 2026-10-09,14:40,14:50,oral,47,65,MRI-Guided Percutaneous Laser Ablation for Pediatric Vascular Anomalies: A Single-Institution Experience,Setayesh Sotoudehnia Korani,Mayo Clinic,"Rochester, MN",United States,,
 2026-10-09,14:50,15:00,oral,48,117,MRI-Safe Robot and Drill for Bone Biopsy: First Clinical Results,Kevin Cleary,Children's National Hospital,"Washington, DC",United States,,
-2026-10-09,15:00,15:30,break,,,Coffee Break and Visit Exhibits,,,,,,
+2026-10-09,15:00,15:30,break,,,Coffee Break and Exhibits,,,,,,
 2026-10-09,15:30,16:25,session,,,Session XI — Technology II,"Moderators: Holden Wu, Second Moderator TBD",,,,,
 2026-10-09,15:30,15:45,invited_talk,49,,Invited Talk: (Title TBA),Holden Wu PhD,University of California Los Angeles,"Los Angeles, CA",United States,confirmed,
 2026-10-09,15:45,15:55,oral,50,152,Tissue and Needle Tracking on Real-Time Interventional Liver MRI Using the SAM2++ Foundation Model,Christina Kerr,University of California Los Angeles,"Los Angeles, CA",United States,,
