@@ -23,6 +23,18 @@ title: 15th Interventional MRI Symposium
 
 <div class="home-content">
   <div class="wrapper">
+    <div class="scam-alert" role="alert">
+      <h2>⚠️ Warning: Fraudulent Emails Targeting Attendees</h2>
+      <p>We have been made aware that some participants have received <strong>scam emails</strong> from companies falsely claiming to assist with <strong>hotel reservations</strong> or <strong>travel / financial support</strong> for this symposium. These messages are not from the organizers and are not affiliated with the symposium in any way.</p>
+      <p><strong>Please note:</strong></p>
+      <ul>
+        <li>Please do not respond to such emails unless you have already requested a room through the symposium organizers or the Liberty Hotel, and the message comes directly from them (using symposium, institutional, or hotel e-mail address, or via EasyChair).</li>
+        <li>We have never authorized any third-party companies to contact participants regarding registration, hotel reservations.</li>
+        <li>Special hotel room-rate information is communicated <strong>directly to registered attendees only</strong>.</li>
+      </ul>
+      <p>If you receive a suspicious message or are unsure whether a communication is genuine, contact us at <a href="mailto:info@imri2026.org">info@imri2026.org</a> before taking any action. <strong>Do not reply, click links, or share personal or payment information. Please delete these messages, and consider reporting them to your institution's IT/security team.</strong></p>
+    </div>
+
     <div class="important-dates">
       <h2>Important Dates</h2>
       <ul>

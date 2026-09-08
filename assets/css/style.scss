@@ -459,6 +459,46 @@ a {
 }
 
 /* Important Dates */
+.scam-alert {
+  background: #fff5f5;
+  border: 2px solid $warning-color;
+  border-left: 6px solid $warning-color;
+  border-radius: 10px;
+  padding: 20px 30px;
+  margin-bottom: 25px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+
+  h2 {
+    color: darken($warning-color, 12%);
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+
+  p {
+    margin-bottom: 12px;
+  }
+
+  ul {
+    margin: 0 0 12px;
+    padding-left: 22px;
+
+    li {
+      margin-bottom: 8px;
+    }
+  }
+
+  a {
+    color: darken($warning-color, 15%);
+    text-decoration: underline;
+
+    &:hover {
+      color: $dark-color;
+    }
+  }
+}
+
 .important-dates {
   background: white;
   padding: 0 30px;
