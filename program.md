@@ -13,7 +13,7 @@ permalink: /program/
 <li><a href="#day1-keynote-ferenc-jolesz-memorial-lecture">Keynote — Ferenc Jolesz Memorial Lecture</a></li>
 <li><a href="#day1-session-i-body-i">Session I — Body I</a></li>
 <li><a href="#day1-session-ii-body-ii">Session II — Body II</a></li>
-<li><a href="#day1-session-iii-poster-presentations">Session III — Poster Presentations</a></li>
+<li><a href="#day1-session-iii-poster-presentations-and-exhibits">Session III — Poster Presentations and Exhibits</a></li>
 <li><a href="#day1-session-iv-technology-i">Session IV — Technology I</a></li>
 <li><a href="#day1-session-v-cardiovascular">Session V — Cardiovascular</a></li>
 </ul>
@@ -43,7 +43,7 @@ permalink: /program/
 
 | Start | End | Item |
 |-------|-----|------|
-| 7:00 AM | 8:00 AM | **Registration — Breakfast and Visit Exhibits** |
+| 7:00 AM | 8:00 AM | **Registration — Breakfast and Exhibits** |
 {: .program-note-table}
 
 | Start | End | Item |
@@ -57,7 +57,7 @@ permalink: /program/
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
-<tr><td></td><td>8:15 AM</td><td>8:25 AM</td><td><strong>In Memory of Dr. Harald Busse: Honoring His Contributions to the iMRI Society</strong></td></tr>
+<tr><td></td><td>8:15 AM</td><td>8:25 AM</td><td><strong>In Memory of Dr. Harald Busse: Honoring His Contributions to the iMRI Society</strong><br><em>Thomas Kahn, University of Leipzig, Leipzig, Germany</em></td></tr>
 </tbody>
 </table>
 
@@ -112,9 +112,9 @@ permalink: /program/
 | 11:45 AM | 1:00 PM | **Lunch Break and Exhibits** |
 {: .program-note-table}
 
-<table class="program-session-table" id="day1-session-iii-poster-presentations">
+<table class="program-session-table" id="day1-session-iii-poster-presentations-and-exhibits">
 <caption>
-<span class="session-name">Session III — Poster Presentations</span>
+<span class="session-name">Session III — Poster Presentations and Exhibits</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
@@ -203,7 +203,7 @@ permalink: /program/
 
 | Start | End | Item |
 |-------|-----|------|
-| 10:00 AM | 10:30 AM | **Coffee Break and Visit Exhibits** |
+| 10:00 AM | 10:30 AM | **Coffee Break and Exhibits** |
 {: .program-note-table}
 
 <table class="program-session-table" id="day2-session-vii-neuro">
@@ -268,7 +268,7 @@ permalink: /program/
 
 | Start | End | Item |
 |-------|-----|------|
-| 3:00 PM | 3:30 PM | **Coffee Break and Visit Exhibits** |
+| 3:00 PM | 3:30 PM | **Coffee Break and Exhibits** |
 {: .program-note-table}
 
 <table class="program-session-table" id="day2-session-xi-technology-ii">

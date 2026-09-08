@@ -2,7 +2,7 @@ date,start,end,type,number,subid,title,speaker,affiliation,city,country,status,n
 2026-10-08,07:00,08:00,break,,,Registration — Breakfast and Exhibits,,,,,,
 2026-10-08,08:00,08:15,special,,,Welcome — Introduction and Goals,"Clare Tempany, Thomas Kahn, Jonathan Lewin",,,,,
 2026-10-08,08:15,08:25,session,,,Special Tribute Session,,,,,,
-2026-10-08,08:15,08:25,invited_talk,,,In Memory of Dr. Harald Busse: Honoring His Contributions to the iMRI Society,,,,,,
+2026-10-08,08:15,08:25,invited_talk,,,In Memory of Dr. Harald Busse: Honoring His Contributions to the iMRI Society,Thomas Kahn,University of Leipzig,Leipzig,Germany,,
 2026-10-08,08:25,09:10,session,,,Keynote — Ferenc Jolesz Memorial Lecture,,,,,,
 2026-10-08,08:25,09:10,keynote,,,Autonomous Robotic Surgery (Title TBA),"Axel Krieger PhD, Johns Hopkins University",,"Baltimore, MD",United States,confirmed,
 2026-10-08,09:10,10:20,session,,,Session I — Body I,"Moderators: Frank Wacker, Mariana Bernardes",,,,,
