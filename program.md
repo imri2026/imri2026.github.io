@@ -254,7 +254,7 @@ permalink: /program/
 <table class="program-session-table" id="day2-session-x-musculoskeletal">
 <caption>
 <span class="session-name">Session X — Musculoskeletal</span>
-<span class="session-moderators">Moderators: Jan Fritz, Second Moderator TBD</span>
+<span class="session-moderators">Moderators: Jan Fritz, Jeffrey Guenette</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
