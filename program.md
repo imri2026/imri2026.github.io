@@ -74,7 +74,7 @@ permalink: /program/
 <table class="program-session-table" id="day1-session-i-body-i">
 <caption>
 <span class="session-name">Session I — Body I</span>
-<span class="session-moderators">Moderators: Frank Wacker, Mariana Bernardes</span>
+<span class="session-moderators">Moderators: Frank Wacker, Holden Wu</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
@@ -95,7 +95,7 @@ permalink: /program/
 <table class="program-session-table" id="day1-session-ii-body-ii">
 <caption>
 <span class="session-name">Session II — Body II</span>
-<span class="session-moderators">Moderators: Aiming Lu, Erica Knavel Koepsel</span>
+<span class="session-moderators">Moderators: Erica Knavel Koepsel, Kemal Tuncali</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
@@ -274,7 +274,7 @@ permalink: /program/
 <table class="program-session-table" id="day2-session-xi-technology-ii">
 <caption>
 <span class="session-name">Session XI — Technology II</span>
-<span class="session-moderators">Moderators: Holden Wu, Second Moderator TBD</span>
+<span class="session-moderators">Moderators: Aiming Lu, Mariana Bernardes</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
