@@ -259,7 +259,7 @@ permalink: /program/
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
 <tr><td>O-44</td><td>2:05 PM</td><td>2:20 PM</td><td><strong>Invited Talk: MR Neurography-Guided Interventions (Title TBA)</strong><br><em>Jan Fritz MD, New York University Grossman School of Medicine, New York, NY, United States</em></td></tr>
-<tr><td>O-45</td><td>2:20 PM</td><td>2:30 PM</td><td><strong>Feasibility of 3D Visualization for Intraprocedural Coverage Assessment in MR-Guided Spine Cryoablation</strong><br><em>Mariana C, Brigham and Women's Hospital, Boston, MA, United States</em></td></tr>
+<tr><td>O-45</td><td>2:20 PM</td><td>2:30 PM</td><td><strong>Feasibility of 3D Visualization for Intraprocedural Coverage Assessment in MR-Guided Spine Cryoablation</strong><br><em>Jeffrey Guenette, Brigham and Women's Hospital, Boston, MA, United States</em></td></tr>
 <tr><td>O-46</td><td>2:30 PM</td><td>2:40 PM</td><td><strong>MRI-Guided Multi-Regional Biopsy of Soft-Tissue Sarcomas</strong><br><em>Simon Reiss, University Medical Center Freiburg, Freiburg, Germany</em></td></tr>
 <tr><td>O-47</td><td>2:40 PM</td><td>2:50 PM</td><td><strong>MRI-Guided Percutaneous Laser Ablation for Pediatric Vascular Anomalies: A Single-Institution Experience</strong><br><em>Setayesh Sotoudehnia Korani, Mayo Clinic, Rochester, MN, United States</em></td></tr>
 <tr><td>O-48</td><td>2:50 PM</td><td>3:00 PM</td><td><strong>MRI-Safe Robot and Drill for Bone Biopsy: First Clinical Results</strong><br><em>Kevin Cleary, Children's National Hospital, Washington, DC, United States</em></td></tr>
