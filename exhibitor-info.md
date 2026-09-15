@@ -11,6 +11,8 @@ Thank you for your generous support of the 15th Interventional MRI Symposium. Th
 
 - [Exhibition Timetable](#exhibition-timetable)
 - [Floor Layout and Table Assignment](#floor-layout-and-table-assignment)
+- [Exhibition Table Information](#exhibition-table-information)
+- [Attendee Information](#attendee-information)
 - [Shipping and Storage](#shipping-and-storage)
 - [Exhibitor Badges](#exhibitor-badges)
 - [Mass General Brigham (MGB) Guidelines](#mass-general-brigham-mgb-guidelines)
