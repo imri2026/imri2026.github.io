@@ -7,7 +7,7 @@ permalink: /exhibitor-info/
 **Last Updated: September 2, 2026**
 
 
-Thank you for your generous support for the 15th Interventional MRI Symposium. This page is intended for sharing up-to-date information about the promotional opportunities at the event. The page will be updated if there are any plan changes or it needs further clarifications. If you have any questions, please feel free to reach out to [{{ site.email }}](mailto:{{ site.email }}).
+Thank you for your generous support of the 15th Interventional MRI Symposium. This page is intended for sharing up-to-date information about the promotional opportunities at the event. The page will be updated if any plans change or if further clarification is needed. If you have any questions, please feel free to reach out to [{{ site.email }}](mailto:{{ site.email }}).
 
 - [Exhibition Timetable](#exhibition-timetable)
 - [Floor Layout and Table Assignment](#floor-layout-and-table-assignment)
@@ -18,7 +18,7 @@ Thank you for your generous support for the 15th Interventional MRI Symposium. T
 
 # Exhibition Timetable
 
-Following is the *tentative* time table for the event, including coffee/lunch breaks and poster sessions, where we expect higher traffic.
+Following is the *tentative* timetable for the event, including coffee/lunch breaks and poster sessions, where we expect higher traffic.
 
 | Date | Time | Activity |
 |------|------|----------|
@@ -28,16 +28,20 @@ Following is the *tentative* time table for the event, including coffee/lunch br
 | 10/8/2026 | 10:20 am - 10:50 am | The First Coffee Break |
 | 10/8/2026 | 11:45 am - 1:00 pm  | Lunch Break |
 | 10/8/2026 | 1:00 pm - 2:30 pm   | Poster Session |
-| 10/8/2026 | 5:30 pm - 6:00 pm   | Day 1 Move out |
+| 10/8/2026 | 5:30 pm - 6:00 pm   | Day 1 Move-out |
 | 10/9/2026 | 8:00 am - 9:00 am   | Day 2 Setup |
 | 10/9/2026 | 10:00 am - 10:30 am | Coffee Break |
 | 10/9/2026 | 11:50 am - 1:20 pm  | Lunch Break |
 | 10/9/2026 | 3:00 pm - 3:30 pm   | Coffee Break |
 | 10/9/2026 | 3:30 pm - 5:00 pm   | Move-out |
 
+
 # Floor Layout and Table Assignment
 
-All promotional activities will be located on the 4th and 5th floors. In addition to the exhibition area, these floors will host most symposium activities other than the oral sessions, including poster sessions, lunch, and coffee breaks. The exhibition tables are placed along the rotundas overlooking the hotel lobby (atrium). This arrangement is designed to maximize attendee foot traffic and provide exhibitors with excellent visibility throughout the symposium. 
+All promotional activities will be located on the 4th and 5th floors. In addition to the exhibition area, these floors will host most symposium activities other than the oral sessions, including poster sessions, lunch, and coffee breaks. The exhibition tables are placed along the rotundas overlooking the hotel lobby (atrium). This arrangement is designed to maximize attendee foot traffic and provide exhibitors with excellent visibility throughout the symposium.
+
+<font color=red>The table assignment below is tentative and based on the exhibitor list as of August. We will update the floor plan to include exhibitors who have signed up recently.</font>
+
 
 <div style="display:flex; flex-wrap:wrap; gap:30px; align-items:flex-start;">
 
@@ -62,28 +66,40 @@ All promotional activities will be located on the 4th and 5th floors. In additio
 
 **Floor 5**
 
-| Table | Type      | Exhibitor                |
-|-------|-----------|--------------------------|
-| B1    | Exhibitor | IMRIS                    |
-| B2    | Bronze    | Nano4Imaging             |
-| B3    | Exhibitor | TBD                      |
-| B4    | Exhibitor | Soteria Medical          |
-| B5    | Exhibitor | Imricor                  |
-| B6    | Exhibitor | NordicNeuroLab Inc       |
-| B7    | Exhibitor | Clear Guide Medical      |
-| B8    | Exhibitor | Devin Medical Technology |
+| Table | Type      | Exhibitor                      |
+|-------|-----------|--------------------------------|
+| B1    | Exhibitor | IMRIS                          |
+| B2    | Bronze    | Nano4Imaging                   |
+| B3    | Exhibitor | Innovative Tomography Products |
+| B4    | Exhibitor | Soteria Medical                |
+| B5    | Exhibitor | Imricor                        |
+| B6    | Exhibitor | NordicNeuroLab Inc             |
+| B7    | Exhibitor | Clear Guide Medical            |
+| B8    | Exhibitor | Devin Medical Technology       |
 
 
 </div>
 
 </div>
+
+
+# Exhibition Table Information
+
+The exhibition table is a standard 6-foot table (72 by 30 inches, or 183 by 76 cm). Power will be provided via an extension cord from the wall outlet. Wi-Fi will also be provided.
+
+
+# Attendee Information
+
+Attendees will have badges with QR codes containing their names, affiliations, and email addresses. Exhibitors can scan them at their exhibition table if the attendee agrees.
+
+The names and affiliations of all authors (including coauthors) will be available in the program booklet. The symposium will not be able to provide a list of email addresses of registered attendees.
 
 
 # Shipping and Storage
 
 ## Storage
 
-We will be providing a storage space. *(Details TBD.)*
+We will provide storage space. *(Details TBD.)*
 
 
 - Shipping address for booth materials: TBD
@@ -130,9 +146,13 @@ arrival and include your phone number and e-mail address.
  
 # Exhibitor Badges
 
-The sponsor packages come with complimentary exhibitor badges. Additional exhibitor badges can be provided for additional cost. Please note that the exhibitor badges are provided in compliance with the hospital’s guidelines for industry participation and **differ from regular registration badges**. If a person from your company plans to present their scientific work at oral/poster sessions, this person must register using the regular registration page to meet the guideline. 
+## How to obtain exhibitor badges 
+The sponsor packages come with complimentary exhibitor badges. Additional exhibitor badges can be purchased for $350. We are currently updating the registration site to include the exhibitor option, and we will make an announcement as soon as the option becomes available.
 
-Here’s the excerpt from the guideline:
+## Limitations of exhibitor badges 
+Please note that the exhibitor badges are provided in compliance with the hospital’s guidelines for industry participation and **differ from regular registration badges**. If a person from your company plans to present their scientific work at oral/poster sessions, this person must register using the regular registration page to comply with the guidelines. 
+
+Here is an excerpt from the guidelines:
  
 - An exhibitor is an industry representative from a company that engages in a fee-for-service transaction with the hospital for the opportunity to promote their goods and services at a Mass General Brigham Educational Activity.  Promotional opportunities must be  separate from, and not interfere with, the educational component of the educational activity and as such, the role of an exhibitor should be very limited. Please refer to the below guidelines for expectations regarding the role of exhibitors:
 - Exhibitors must remain in areas specifically intended for exhibit space, separate from and set up so that they do not interfere with the educational component of the activity.
@@ -147,7 +167,7 @@ Here’s the excerpt from the guideline:
 
 # Mass General Brigham (MGB) Guidelines
 
-The 15th Interventional MRI Symposium is an Educational Activity organized by the Mass General Brigham (MGB), and the sponsor exhibition opportunities are provided in accordance with MGB Office for Interactions with Industry (OII)’s guideline on educational activities. Below are excerpts from relevant guidelines: 
+The 15th Interventional MRI Symposium is an Educational Activity organized by the Mass General Brigham (MGB), and the sponsor exhibition opportunities are provided in accordance with the MGB Office for Interactions with Industry (OII) guidelines on educational activities. Below are excerpts from the relevant guidelines: 
 
 ## Guidelines for Industry Participation at Mass General Brigham Educational Activities
 There are four scenarios in which industry representatives may be present at an MGB Educational Activity: as **a speaker or presenter**, as **a technical expert**, as **an exhibitor**, or as **an attendee/learner**. Guidelines and clarification on each scenario are presented below. Should a situation arise that does not meet one of these four scenarios, please consult with OII. 
@@ -186,7 +206,7 @@ An exhibitor is an industry representative from a company that engages in a fee-
 - Exhibitors must wear a name badge clearly indicating their role as an exhibitor. 
   
   
-###  Attendee/Learner
+### Attendee/Learner
 
 Industry physicians may attend MGB Educational Activities, not on behalf of the company, but as learners only. They must meet all registration requirements and register and pay tuition like all other attendees.
  
