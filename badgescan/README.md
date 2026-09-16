@@ -4,7 +4,7 @@ An installable web app (PWA) that scans the vCard QR codes printed on the
 conference badges, stores each attendee locally in IndexedDB, and exports
 the scanned list as a CSV — all on-device, no backend/server required.
 
-Served as part of the main conference site at **https://imri2026.org/scan/**
+Served as part of the main conference site at **https://imri2026.org/badgescan/**
 (this folder is copied through as static files by Jekyll — none of it is
 processed as a Jekyll page).
 
@@ -22,7 +22,7 @@ js/csv.js               CSV building + export (download or native share sheet)
 js/app.js                UI wiring: camera control, scan handling, list, export
 lib/html5-qrcode.min.js  Third-party QR scanning engine (bundled locally, MIT licensed)
 manifest.webmanifest  PWA manifest (install/home-screen metadata)
-sw.js                Service worker (offline app-shell caching, scoped to /scan/)
+sw.js                Service worker (offline app-shell caching, scoped to /badgescan/)
 icons/                 App icons
 generate_icons.py    Script that generated icons/ (requires Pillow)
 ```
@@ -33,7 +33,7 @@ From the site root:
 
 ```bash
 bundle exec jekyll serve
-# open http://localhost:4000/scan/
+# open http://localhost:4000/badgescan/
 ```
 
 `http://localhost` is treated as a secure context, so camera access works
