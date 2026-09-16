@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+<meta name="theme-color" content="#1F4E79">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="iMRI Check-In">
+<title>iMRI 2026 Check-In</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="app-header">
+  <div class="title-row">
+    <h1>iMRI 2026 Check-In</h1>
+    <button id="exportBtn" class="btn btn-primary" disabled>Export CSV</button>
+  </div>
+  <div class="stats-row">
+    <span id="countLabel">0 scanned</span>
+    <button id="clearBtn" class="btn btn-text" disabled>Clear all</button>
+  </div>
+</header>
+
+<main>
+  <section class="scanner-card">
+    <div id="reader"></div>
+    <div id="scanOverlayMsg" class="scan-msg" hidden></div>
+    <div class="scanner-controls">
+      <button id="toggleScanBtn" class="btn btn-primary btn-large">Start Scanning</button>
+      <button id="flipCamBtn" class="btn btn-secondary" hidden>Flip Camera</button>
+    </div>
+    <p id="cameraError" class="camera-error" hidden></p>
+  </section>
+
+  <div id="toast" class="toast" hidden></div>
+
+  <section class="list-card">
+    <h2>Scanned Attendees</h2>
+    <div id="emptyState" class="empty-state">No attendees scanned yet. Point the camera at a badge's QR code.</div>
+    <div class="table-wrap">
+      <table id="scanTable" hidden>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Affiliation</th>
+            <th>Country</th>
+            <th>Email</th>
+            <th>Time</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="scanTableBody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <p id="iosInstallTip" class="install-tip" hidden>
+    Tip: Add this to your Home Screen for full-screen use — tap the Share icon, then "Add to Home Screen".
+  </p>
+</main>
+
+<script src="lib/html5-qrcode.min.js"></script>
+<script src="js/vcard.js"></script>
+<script src="js/db.js"></script>
+<script src="js/csv.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
