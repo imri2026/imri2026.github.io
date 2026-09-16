@@ -31,8 +31,8 @@ It's useful for exhibitors collecting leads at their table, and for staff checki
 Open **[imri2026.org/badgescan](/badgescan/)** in your phone's browser. For the best experience, add it to your home screen so it launches full-screen like a regular app:
 
 **iPhone (Safari)**
-1. Tap the **Share** icon (square with an arrow) in the toolbar.
-2. Scroll down and tap **Add to Home Screen**.
+1. Tap the **•••** (more) button next to the address bar — on newer iOS this sits at the bottom of the screen, not in a top toolbar. (If you see a **Share** icon directly instead, tap that.)
+2. Tap **Share**, then **Add to Home Screen**.
 
 **Android (Chrome)**
 1. Tap the **⋮** menu in the top right.
