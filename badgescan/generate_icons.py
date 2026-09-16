@@ -17,7 +17,7 @@ HERE = Path(__file__).parent
 LOGO_SVG = HERE / "assets" / "imri-logo.svg"
 ICONS_DIR = HERE / "icons"
 
-BLUE = (31, 78, 121, 255)  # site brand "dark navy" #1F4E79
+BG = (255, 255, 255, 255)  # icon tile background
 
 
 def rasterize_logo(target_width_px):
@@ -39,14 +39,14 @@ def rasterize_logo(target_width_px):
 
 
 def compose_icon(logo, size, logo_width_ratio, rounded_ratio=None):
-    """Center the logo on a brand-navy square. rounded_ratio=None -> square
+    """Center the logo on a white square. rounded_ratio=None -> square
     (edge-to-edge, for maskable icons); otherwise a rounded-rect radius ratio."""
     canvas = Image.new("RGBA", (size, size), (0, 0, 0, 0))
     draw = ImageDraw.Draw(canvas)
     if rounded_ratio is not None:
-        draw.rounded_rectangle([0, 0, size - 1, size - 1], radius=int(size * rounded_ratio), fill=BLUE)
+        draw.rounded_rectangle([0, 0, size - 1, size - 1], radius=int(size * rounded_ratio), fill=BG)
     else:
-        draw.rectangle([0, 0, size - 1, size - 1], fill=BLUE)
+        draw.rectangle([0, 0, size - 1, size - 1], fill=BG)
 
     target_w = int(size * logo_width_ratio)
     scale = target_w / logo.width
