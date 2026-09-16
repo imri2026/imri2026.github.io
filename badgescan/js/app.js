@@ -90,6 +90,9 @@
     const btn = e.target.closest(".row-delete");
     if (!btn) return;
     const id = Number(btn.dataset.id);
+    const record = cachedRecords.find((r) => r.id === id);
+    const label = (record && (record.name || record.email)) || "this attendee";
+    if (!confirm(`Remove ${label} from the scanned list?`)) return;
     await ScanDB.deleteScan(id);
     await refreshList();
   });

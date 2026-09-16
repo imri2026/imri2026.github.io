@@ -55,7 +55,7 @@ Once you're comfortable with how a scan looks and behaves, tap the **✕** next 
 1. Tap **Start Scanning** and point the camera at the QR code on the top right of the badge.
 2. A confirmation appears and the attendee is added to the list below. Scanning the same badge again shows "Already scanned" instead of adding a duplicate.
 3. Tap **Flip Camera** if you need to switch between front and back cameras.
-4. Tap the **✕** next to any row to remove it, or **Clear all** to start over.
+4. Tap the **✕** next to any row to remove it, or **Clear all** to start over — both ask you to confirm first.
 
 ## Exporting Your Scans
 

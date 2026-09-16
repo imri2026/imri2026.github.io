@@ -52,7 +52,7 @@ works there too.
    or by the raw QR text if there's no email).
 3. Tap **Flip Camera** to switch between front/back cameras if needed.
 4. Tap any ✕ next to a row to remove that attendee, or **Clear all** to wipe
-   everything (asks for confirmation first).
+   everything — both ask for confirmation first.
 5. Tap **Export CSV** to download the file (or, on iOS/Android where
    supported, share it via the native share sheet — to Files, Mail,
    AirDrop, etc.). Columns: Name, Affiliation, Country, Email, Scanned At,
