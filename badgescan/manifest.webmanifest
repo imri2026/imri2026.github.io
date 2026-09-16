@@ -1,7 +1,7 @@
 {
   "name": "iMRI 2026 Badge Scan",
   "short_name": "iMRI Scan",
-  "description": "Scan attendee badge QR codes and export the data as CSV.",
+  "description": "Lets vendors scan an attendee badge QR code to legally collect that attendee's contact info with their in-person opt-in, then export the list as CSV.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

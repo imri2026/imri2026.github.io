@@ -19,6 +19,8 @@ Badge Scanner is a free tool for scanning the QR code printed on every attendee 
 
 ## What It Does
 
+Badge Scanner was created to streamline how vendors obtain attendee contact information at the symposium — legally and with the attendee's explicit consent. Choosing to have your badge scanned is an in-person opt-in; vendors never receive a bulk attendee list, only the contacts who chose to share their information with them.
+
 Each attendee badge has a QR code containing that person's name, affiliation, country, and email address. Badge Scanner uses your phone's camera to read the code, saves the information to a running list on your phone, and lets you export that list as a CSV file (opens in Excel, Google Sheets, Numbers, etc.) whenever you're ready.
 
 It's useful for exhibitors collecting leads at their table, and for staff checking in attendees at registration.

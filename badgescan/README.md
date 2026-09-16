@@ -1,8 +1,12 @@
 # iMRI 2026 Badge Scan
 
-An installable web app (PWA) that scans the vCard QR codes printed on the
-conference badges, stores each attendee locally in IndexedDB, and exports
-the scanned list as a CSV — all on-device, no backend/server required.
+Built to streamline how vendors obtain attendee contact information at the
+symposium — legally and with the attendee's explicit, in-person opt-in
+(scanning their own badge), rather than vendors getting a bulk attendee
+list. An installable web app (PWA) that scans the vCard QR codes printed on
+the conference badges, stores each attendee locally in IndexedDB, and
+exports the scanned list as a CSV — all on-device, no backend/server
+required.
 
 Served as part of the main conference site at **https://imri2026.org/badgescan/**
 (this folder is copied through as static files by Jekyll — none of it is
