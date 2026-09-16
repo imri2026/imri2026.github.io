@@ -12,6 +12,7 @@ Badge Scanner is a free tool for scanning the QR code printed on every attendee 
 
 - [What It Does](#what-it-does)
 - [Getting Started](#getting-started)
+- [Testing](#testing)
 - [How to Scan](#how-to-scan)
 - [Exporting Your Scans](#exporting-your-scans)
 - [Privacy & Data](#privacy--data)
@@ -38,6 +39,16 @@ Open **[imri2026.org/badgescan](/badgescan/)** in your phone's browser. For the 
 2. Tap **Add to Home screen** (or **Install app**).
 
 The first time you tap "Start Scanning," your browser will ask for camera permission — allow it.
+
+## Testing
+
+Before you start collecting real contacts, try scanning this sample QR code to see how it works. It's a fictional badge for "Magnetic R. Imaging" of "iMRI Symposium":
+
+<div style="text-align:center;">
+<img src="/images/badgescan-example-qr.png" alt="Example badge QR code for testing Badge Scanner" style="max-width:260px; width:100%; height:auto;">
+</div>
+
+Once you're comfortable with how a scan looks and behaves, tap the **✕** next to this test entry to remove it before you start scanning real badges.
 
 ## How to Scan
 
