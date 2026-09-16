@@ -2,7 +2,7 @@
  * Thin promise wrapper over IndexedDB for storing scanned attendee records.
  */
 (function (global) {
-  const DB_NAME = "imri2026-checkin";
+  const DB_NAME = "imri2026-scan";
   const DB_VERSION = 1;
   const STORE = "scans";
 

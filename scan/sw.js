@@ -1,4 +1,4 @@
-const CACHE_NAME = "imri-checkin-v1";
+const CACHE_NAME = "imri-scan-v1";
 const APP_SHELL = [
   "./",
   "./index.html",

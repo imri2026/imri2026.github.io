@@ -1,7 +1,7 @@
 {
-  "name": "iMRI 2026 Check-In",
-  "short_name": "iMRI CheckIn",
-  "description": "Scan attendee badge QR codes and export check-in data as CSV.",
+  "name": "iMRI 2026 Badge Scan",
+  "short_name": "iMRI Scan",
+  "description": "Scan attendee badge QR codes and export the data as CSV.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

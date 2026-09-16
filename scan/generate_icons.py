@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate simple app icons for the iMRI 2026 Check-In PWA."""
+"""Generate simple app icons for the iMRI 2026 Scan PWA."""
 from PIL import Image, ImageDraw
 
 BLUE = (31, 78, 121, 255)  # site brand "dark navy" #1F4E79
