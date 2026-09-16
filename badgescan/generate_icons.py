@@ -1,47 +1,62 @@
 #!/usr/bin/env python3
-"""Generate simple app icons for the iMRI 2026 Scan PWA."""
+"""Generate app icons for the iMRI 2026 Scan PWA from the conference logo.
+
+Requires the `rsvg-convert` CLI (e.g. `brew install librsvg`) to rasterize
+assets/imri-logo.svg. That file is a local copy of the site's
+images/imri-logo.svg, kept here so this script doesn't depend on the
+badgescan/ folder's location relative to the rest of the Jekyll site.
+"""
+import shutil
+import subprocess
+import sys
+from pathlib import Path
+
 from PIL import Image, ImageDraw
 
+HERE = Path(__file__).parent
+LOGO_SVG = HERE / "assets" / "imri-logo.svg"
+ICONS_DIR = HERE / "icons"
+
 BLUE = (31, 78, 121, 255)  # site brand "dark navy" #1F4E79
-ORANGE = (244, 161, 29, 255)  # site brand "amber gold" #F4A11D
-WHITE = (255, 255, 255, 255)
 
 
-def draw_scan_icon(size, corner_radius_ratio, bracket_inset_ratio, rounded=True):
-    img = Image.new("RGBA", (size, size), (0, 0, 0, 0))
-    draw = ImageDraw.Draw(img)
+def rasterize_logo(target_width_px):
+    if not shutil.which("rsvg-convert"):
+        sys.exit(
+            "rsvg-convert not found. Install it (e.g. `brew install librsvg`) "
+            "and re-run, or rasterize assets/imri-logo.svg to a transparent "
+            "PNG yourself and adapt this script."
+        )
+    proc = subprocess.run(
+        ["rsvg-convert", "-w", str(target_width_px), str(LOGO_SVG)],
+        capture_output=True,
+        check=True,
+    )
+    from io import BytesIO
 
-    if rounded:
-        radius = int(size * corner_radius_ratio)
-        draw.rounded_rectangle([0, 0, size - 1, size - 1], radius=radius, fill=BLUE)
+    img = Image.open(BytesIO(proc.stdout)).convert("RGBA")
+    return img.crop(img.getbbox())
+
+
+def compose_icon(logo, size, logo_width_ratio, rounded_ratio=None):
+    """Center the logo on a brand-navy square. rounded_ratio=None -> square
+    (edge-to-edge, for maskable icons); otherwise a rounded-rect radius ratio."""
+    canvas = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+    draw = ImageDraw.Draw(canvas)
+    if rounded_ratio is not None:
+        draw.rounded_rectangle([0, 0, size - 1, size - 1], radius=int(size * rounded_ratio), fill=BLUE)
     else:
         draw.rectangle([0, 0, size - 1, size - 1], fill=BLUE)
 
-    inset = int(size * bracket_inset_ratio)
-    bracket_len = int(size * 0.16)
-    stroke = max(int(size * 0.035), 3)
+    target_w = int(size * logo_width_ratio)
+    scale = target_w / logo.width
+    target_h = int(logo.height * scale)
+    resized = logo.resize((target_w, target_h), Image.LANCZOS)
 
-    corners = [
-        (inset, inset, 1, 1),  # top-left: (x, y, dx, dy) direction of arms
-        (size - inset, inset, -1, 1),  # top-right
-        (inset, size - inset, 1, -1),  # bottom-left
-        (size - inset, size - inset, -1, -1),  # bottom-right
-    ]
-    for x, y, dx, dy in corners:
-        draw.line([(x, y), (x + dx * bracket_len, y)], fill=WHITE, width=stroke)
-        draw.line([(x, y), (x, y + dy * bracket_len)], fill=WHITE, width=stroke)
-
-    # Center checkmark in orange, denoting "checked in".
-    cx, cy = size / 2, size / 2
-    s = size * 0.11
-    check = [
-        (cx - s, cy + s * 0.1),
-        (cx - s * 0.25, cy + s * 0.85),
-        (cx + s * 1.1, cy - s * 0.75),
-    ]
-    draw.line(check, fill=ORANGE, width=max(int(size * 0.045), 4), joint="curve")
-
-    return img
+    x = (size - target_w) // 2
+    y = (size - target_h) // 2
+    canvas.alpha_composite(resized, (x, y))
+    return canvas
 
 
 def save(img, path):
@@ -50,8 +65,14 @@ def save(img, path):
 
 
 if __name__ == "__main__":
-    save(draw_scan_icon(192, 0.18, 0.14), "icons/icon-192.png")
-    save(draw_scan_icon(512, 0.18, 0.14), "icons/icon-512.png")
-    # Maskable: background fills edge-to-edge (OS applies its own mask), and
-    # icon content stays within the ~80% "safe zone".
-    save(draw_scan_icon(512, 0.0, 0.20, rounded=False), "icons/icon-maskable-512.png")
+    ICONS_DIR.mkdir(exist_ok=True)
+    logo = rasterize_logo(1600)  # rasterize once at high res, reuse for all sizes
+
+    # Standard icons: rounded-rect tile, logo at ~84% width, modest padding.
+    save(compose_icon(logo, 192, 0.84, rounded_ratio=0.18), ICONS_DIR / "icon-192.png")
+    save(compose_icon(logo, 512, 0.84, rounded_ratio=0.18), ICONS_DIR / "icon-512.png")
+
+    # Maskable: edge-to-edge background (OS applies its own mask shape), logo
+    # kept narrower (~68%) so it survives a circular crop within the
+    # standard ~80%-diameter safe zone.
+    save(compose_icon(logo, 512, 0.68, rounded_ratio=None), ICONS_DIR / "icon-maskable-512.png")

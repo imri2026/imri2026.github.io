@@ -64,7 +64,11 @@ doing either.
 
 ## Regenerating icons
 
+Icons are composed from the conference logo (`assets/imri-logo.svg`, a local
+copy of `images/imri-logo.svg` from the site root) on the brand-navy tile.
+
 ```bash
+brew install librsvg   # provides rsvg-convert, used to rasterize the SVG
 pip install pillow
 python3 generate_icons.py
 ```
