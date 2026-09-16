@@ -92,7 +92,7 @@ The exhibition table is a standard 6-foot table (72 by 30 inches, or 183 by 76 c
 
 # Attendee Information
 
-Attendees will have badges with QR codes containing their names, affiliations, and email addresses. Exhibitors can scan them at their exhibition table if the attendee agrees.
+Attendees will have badges with QR codes containing their names, affiliations, and email addresses. Exhibitors can scan them at their exhibition table if the attendee agrees. See our [Badge Scanner Guide](/badgescan-guide/) for a free phone-based tool to scan these codes and export the list as a CSV — no app install required.
 
 The names and affiliations of all authors (including coauthors) will be available in the program booklet. The symposium will not be able to provide a list of email addresses of registered attendees.
 
