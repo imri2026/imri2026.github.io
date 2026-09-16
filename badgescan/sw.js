@@ -1,4 +1,8 @@
-const CACHE_NAME = "imri-scan-v1";
+// Bump this version whenever any file in APP_SHELL changes — it's the only
+// thing that makes browsers detect this script differs and install the
+// update. Without a bump, cache-first below serves stale app-shell files
+// forever, even after new versions are deployed.
+const CACHE_NAME = "imri-scan-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -11,6 +15,7 @@ const APP_SHELL = [
   "./manifest.webmanifest",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
+  "./icons/icon-maskable-512.png",
 ];
 
 self.addEventListener("install", (event) => {

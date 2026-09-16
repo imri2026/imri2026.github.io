@@ -65,6 +65,32 @@ export its own CSV. Clearing Safari/Chrome site data for imri2026.org, or
 uninstalling the home-screen app, deletes the scanned list, so export before
 doing either.
 
+## Deploying changes
+
+**Whenever you edit `index.html`, `css/`, `js/`, `lib/`, `manifest.webmanifest`,
+or any icon, bump `CACHE_NAME` in `sw.js`.** The service worker caches those
+files cache-first for offline use; if `CACHE_NAME` doesn't change, browsers
+that already visited keep serving the old cached versions indefinitely, even
+after the new code is deployed. This bit us once already — see commit
+history around "Fix delete-confirm not appearing on already-visited devices."
+
+If a user reports a shipped fix "not working," this is the first thing to
+check before assuming the code is wrong.
+
+### Forcing an update on a device that's stuck on stale files
+
+1. Confirm the fix is actually pushed to `main` and live (GitHub Actions
+   deploy can take a minute or two).
+2. Have the user fully reload: on iOS, force-quit the installed app (swipe
+   it away in the app switcher) and reopen it; a background/foreground
+   toggle isn't enough. This may take two reloads (one to install the
+   updated service worker, one more to actually be served the new files).
+3. If that doesn't work, the reliable fix: remove the app from the Home
+   Screen, then in Safari go to Settings → Safari → Advanced → Website Data,
+   find `imri2026.org`, and delete it (this wipes the old service worker and
+   cache). Revisit `https://imri2026.org/badgescan/` and re-add to Home
+   Screen.
+
 ## Regenerating icons
 
 Icons are composed from the conference logo (`assets/imri-logo.svg`, a local
