@@ -23,7 +23,6 @@
   </div>
   <div class="stats-row">
     <span id="countLabel">0 scanned</span>
-    <button id="clearBtn" class="btn btn-text" disabled>Clear all</button>
   </div>
 </header>
 
@@ -58,6 +57,10 @@
         <tbody id="scanTableBody"></tbody>
       </table>
     </div>
+    <details class="danger-zone">
+      <summary>Advanced</summary>
+      <button id="clearBtn" class="btn btn-danger-solid" disabled>Clear all</button>
+    </details>
   </section>
 
   <p id="iosInstallTip" class="install-tip" hidden>

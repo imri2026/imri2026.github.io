@@ -55,8 +55,7 @@ works there too.
    everything — both ask for confirmation first.
 5. Tap **Export CSV** to download the file (or, on iOS/Android where
    supported, share it via the native share sheet — to Files, Mail,
-   AirDrop, etc.). Columns: Name, Affiliation, Country, Email, Scanned At,
-   Raw QR Data.
+   AirDrop, etc.). Columns: Name, Affiliation, Country, Email, Scanned At.
 
 All data lives only in the browser's IndexedDB **on that device** — nothing
 is sent to imri2026.org or anywhere else. Data does not sync between devices;
@@ -108,5 +107,6 @@ python3 generate_icons.py
   format produced by the companion `generate_badges.py` script (in the
   `imri2026-badge` repo), including commas/semicolons in affiliation and
   country fields.
-- If a scanned QR code isn't a vCard, its raw text is still saved (Name/
-  Affiliation/Country/Email blank, Raw QR Data filled in) so nothing is lost.
+- If a scanned QR code isn't a vCard, its raw text is still saved to
+  IndexedDB (Name/Affiliation/Country/Email blank) so nothing is lost, even
+  though the raw text isn't included in the CSV export.

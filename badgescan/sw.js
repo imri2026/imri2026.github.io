@@ -2,7 +2,7 @@
 // thing that makes browsers detect this script differs and install the
 // update. Without a bump, cache-first below serves stale app-shell files
 // forever, even after new versions are deployed.
-const CACHE_NAME = "imri-scan-v2";
+const CACHE_NAME = "imri-scan-v5";
 const APP_SHELL = [
   "./",
   "./index.html",

@@ -2,7 +2,7 @@
  * CSV building + export (download or native share sheet) for scan records.
  */
 (function (global) {
-  const HEADERS = ["Name", "Affiliation", "Country", "Email", "Scanned At", "Raw QR Data"];
+  const HEADERS = ["Name", "Affiliation", "Country", "Email", "Scanned At"];
 
   function csvField(value) {
     const s = value == null ? "" : String(value);
@@ -22,7 +22,6 @@
           r.country || "",
           r.email || "",
           r.scannedAt ? new Date(r.scannedAt).toISOString() : "",
-          r.raw || "",
         ]
           .map(csvField)
           .join(",")

@@ -120,6 +120,42 @@ main {
 
 .btn-danger { color: var(--danger); }
 
+.btn-danger-solid {
+  display: block;
+  width: 100%;
+  background: var(--danger);
+  color: white;
+  padding: 12px;
+}
+
+.danger-zone {
+  margin-top: 16px;
+  border-top: 1px solid var(--border);
+  padding-top: 10px;
+}
+
+.danger-zone summary {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  cursor: pointer;
+  user-select: none;
+  list-style: none;
+}
+
+.danger-zone summary::-webkit-details-marker { display: none; }
+
+.danger-zone summary::before {
+  content: "▸ ";
+}
+
+.danger-zone[open] summary::before {
+  content: "▾ ";
+}
+
+.danger-zone .btn-danger-solid {
+  margin-top: 10px;
+}
+
 .scanner-card, .list-card {
   background: var(--card-bg);
   border-radius: var(--radius);
