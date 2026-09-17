@@ -30,7 +30,12 @@ SubmissionNumber_LastName_ShortTitle.pptx
 ~~~~
 
 Use the presenting author's name as listed on your abstract/submission, not the first author's, if different.
-Example: 174_King_MRI-GuidedBiopsy.pptx
+
+Example: 
+
+~~~~
+174_King_MRI-GuidedBiopsy.pptx
+~~~~
 
 Guidelines:
 - Keep the title short (3–5 words) as it is only for identification purposes
@@ -42,7 +47,7 @@ Guidelines:
 A link to submit your presentation file will be sent to authors via email. Please use the link to upload your presentation file. There will be no need to create an account or sign in. There will be no need to enter any personal information. File uploads will be disabled by **5:00 PM UTC-4 on October 7, 2026.** Any modifications after this time will need to be done on-site. 
 
 #### Submission Method 2 (On-Site Presentation Check)
-If you miss the online submission deadline, a presentation check desk will be available on-site at The Liberty Hotel during the symposium. It will be located directly next to the registration desk. We encourage all presenters to confirm that their slides are correct at this desk before their session.
+If you miss the online submission deadline or need to update the presentation file you have already uploaded, please bring the file to the presentation check desk at The Liberty Hotel during the symposium. It will be located directly next to the registration desk. We encourage all presenters to confirm that their slides are correct at this desk before their session.
 
 
 ### Poster Presentations
