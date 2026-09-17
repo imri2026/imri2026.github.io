@@ -45,16 +45,23 @@ The 15th Interventional MRI Symposium is made possible through the generous supp
 
 ## Exhibitors
 
-- [CQmedical](https://cqmedical.com/)
-- [NordicNeuroLab](https://www.nordicneurolab.com)
-- [IMRIS](https://www.imris.com)
-- [IMRICOR](https://imricor.com)
-- [Soteria Medical](https://soteria-medical.com)
 - [MaRVis Interventional GmbH](https://marvistech.com)
 - [Boston Scientific](https://www.bostonscientific.com)
+- [IMRICOR](https://imricor.com)
+- [IMRIS](https://www.imris.com)
+- [NordicNeuroLab](https://www.nordicneurolab.com)
+- DIACOR
+- [Nanjing Devin Medical Technology](https://www.dewen-med.com)
+- [Soteria Medical](https://soteria-medical.com)
+- [CQmedical](https://cqmedical.com/)
 - [Clear Guide Medical](https://clearguidemedical.com)
 - [Research Campus STIMULATE](https://www.stimulate.ovgu.de/Startseite.html)
-- [Devin Medical Technology](https://www.dewen-med.com)
+- Innovative Tomography Products GmbH
+
+
+## Other Sponsors
+
+- DeepSpin
 
 
 ## Sponsorship Opportunities
