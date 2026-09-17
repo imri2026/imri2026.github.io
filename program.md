@@ -209,7 +209,7 @@ permalink: /program/
 <table class="program-session-table" id="day2-session-vii-neuro">
 <caption>
 <span class="session-name">Session VII — Neuro</span>
-<span class="session-moderators">Moderators: Peter LaViolette, Second Moderator TBD</span>
+<span class="session-moderators">Moderators: Peter LaViolette, G Rees Cosgrove</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
