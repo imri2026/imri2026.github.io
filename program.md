@@ -388,7 +388,7 @@ All 94 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-51 | MR-Guided Ablation in Kaposiform Hemangioendothelioma | Hasan Usmani, Idaho College of Osteopathic Medicine, Meridian, ID, United States |
 | P-52 | MR guided cryoablation for treatment of painful large to medium slow-flow venous malformations in the plantar foot - a retrospective study | Ola Mohamed, Mayo Clinic, Rochester, MN, United States |
 | P-53 | Sequential MR-guided laser and cryoablation of a recurrent painful slow-flow venous malformation in a 6-year-old | Ola Mohamed, Mayo Clinic, Rochester, MN, United States |
-| P-54 | MRI-Guided Cryoablation for Recurrent Pediatric Hand Desmoid Tumor: A Longitudinal Case Report | Laurel Woodrum, Mayo Clinic, Des Moines, IA, United States |
+| P-54 | MRI-Guided Cryoablation for Recurrent Pediatric Hand Desmoid Tumor: A Longitudinal Case Report | Laurel Woodrum, Mayo Clinic, Rochester, MN, United States |
 | P-55 | MRI-Guided Cryoablation of a Bilateral Plantar Fibromatosis | Setayesh Sotoudehnia Korani, Mayo Clinic, Rochester, MN, United States |
 {: .program-poster-table}
 
