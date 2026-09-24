@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Sponsors & Partners
-permalink: /sponsors/
+title: Industry Exhibitors
+permalink: /exhibitors/
 ---
 
 The 15th Interventional MRI Symposium is made possible through the generous support of our sponsors and partners. 
 
-## Platinum Sponsor
+## Platinum
 
 <table style="width:100%; border:none;">
   <tr>
@@ -16,7 +16,7 @@ The 15th Interventional MRI Symposium is made possible through the generous supp
   </tr>
 </table>
 
-## Gold Sponsor
+## Gold
 
 <table style="width:100%; border:none;">
   <tr>
@@ -27,7 +27,7 @@ The 15th Interventional MRI Symposium is made possible through the generous supp
 </table>
 
 
-## Bronze Sponsor
+## Bronze
 <table style="width:100%; border:none;">
   <tr>
     <td style="text-align:center; padding:20px; border:none;">
