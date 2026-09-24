@@ -671,6 +671,32 @@ def find_session_shaped_table(tables):
     raise RuntimeError('No 4-column session-shaped table found to use as a style template.')
 
 
+ROSTER_CAPTIONS = {
+    'invited': {'invited speakers'},
+    'author': {'author index', 'regular session speakers'},
+}
+
+
+def find_roster_tables(tables):
+    """Locate the "Invited Speakers" and "Author Index"/"Regular Session
+    Speakers" tables by their banner-row caption text, rather than assuming
+    they're the last two tables in the document — the booklet may have
+    sponsor-logo tables (no caption text) appended after them by hand."""
+    invited_idx = author_idx = None
+    for i, t in enumerate(tables):
+        caption = t.rows[0].cells[0].text.strip().lower()
+        if caption in ROSTER_CAPTIONS['invited']:
+            invited_idx = i
+        elif caption in ROSTER_CAPTIONS['author']:
+            author_idx = i
+    if invited_idx is None or author_idx is None:
+        raise RuntimeError(
+            'Could not find the "Invited Speakers" and "Author Index" tables '
+            'by caption — the booklet structure may have changed.'
+        )
+    return invited_idx, author_idx
+
+
 def generate(src_path, out_path, program_csv, posters_csv, authors_csv):
     doc = docx.Document(src_path)
     tables = doc.tables
@@ -681,14 +707,15 @@ def generate(src_path, out_path, program_csv, posters_csv, authors_csv):
     # accordingly, so re-running this script against its own prior output
     # keeps working.
     # The two speaker-roster tables ("Invited Speakers", "Regular Session
-    # Speakers"/"Author Index") are always the last two tables in the
-    # document, in both the original monolithic format and this script's
-    # own split-table output — so the schedule/posters to rebuild is
-    # everything from the first table up to (not including) tables[-2].
+    # Speakers"/"Author Index") are located by caption text rather than by
+    # position — the schedule/posters to rebuild is everything from the
+    # first table up to (not including) the "Invited Speakers" table; any
+    # sponsor-logo tables appended after "Author Index" are left untouched.
+    invited_idx, author_idx = find_roster_tables(tables)
     schedule_start_tbl = tables[0]._tbl
-    schedule_end_tbl = tables[-2]._tbl
-    invited_tbl = tables[-2]
-    author_tbl = tables[-1]
+    schedule_end_tbl = tables[invited_idx]._tbl
+    invited_tbl = tables[invited_idx]
+    author_tbl = tables[author_idx]
 
     if len(tables[0].rows) > 1:
         # Original monolithic format: one big table, rows 1/2/4 are the
