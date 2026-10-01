@@ -57,14 +57,14 @@ The 15th Interventional MRI Symposium is made possible through the generous supp
   <a href="https://cqmedical.com/" target="_blank"><img src="/images/sponsors/cqmedical-small.png" alt="CQmedical" style="height:90px; width:auto;"></a>
   <a href="https://clearguidemedical.com" target="_blank"><img src="/images/sponsors/cgm-small.png" alt="Clear Guide Medical" style="height:70px; width:auto; max-width:200px;"></a>
   <a href="https://www.stimulate.ovgu.de/Startseite.html" target="_blank"><img src="/images/sponsors/stimulate-small.png" alt="Research Campus STIMULATE" style="height:90px; width:auto; max-width:200px;"></a>
-  <img src="/images/sponsors/itp-small.png" alt="Innovative Tomography Products GmbH" style="height:90px; width:auto; max-width:200px;">
+  <a href="https://innotom.com/" target="_blank"><img src="/images/sponsors/itp-small.png" alt="Innovative Tomography Products GmbH" style="height:90px; width:auto; max-width:200px;"></a>
 </div>
 
 
 ## Other Sponsors
-
 <div style="display:flex; flex-wrap:wrap; gap:24px; justify-content:center; align-items:center;">
-  <img src="/images/sponsors/deepspin-small.png" alt="DeepSpin" style="height:280px; width:auto; max-width:280px;">
+  <img src="/images/sponsors/philips-small.png" alt="DeepSpin" style="height:100px; width:auto;">
+  <img src="/images/sponsors/deepspin-small.png" alt="DeepSpin" style="height:280px; width:auto;">
 </div>
 
 
