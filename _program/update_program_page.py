@@ -12,6 +12,11 @@ Defaults:
 Notes rows (type=notes) are folded into the preceding row's title cell
 as supplemental italic sub-text rather than rendered as separate rows.
 
+A `keynote` row's own `notes` column (e.g. a speaker bio) renders below
+its title/speaker line as plain (non-italic) text with extra space above
+it (the ".keynote-bio" CSS class), instead of the italic inline style
+used for every other row's `notes` column.
+
 Each `session` row becomes its own HTML table: the session name and
 moderators are merged into the table's own <caption> header, followed by
 a Start/End/Presentation body listing its invited_talk/oral/keynote
@@ -139,7 +144,10 @@ def render_session_child_row(row, notes_rows):
         parts.append(f'<em>{spk}</em>')
 
     if notes:
-        parts.append(f'<em>{notes}</em>')
+        if (row.get('type') or '').lower() == 'keynote':
+            parts.append(f'<span class="keynote-bio">{notes}</span>')
+        else:
+            parts.append(f'<em>{notes}</em>')
 
     for nr in notes_rows:
         nt = esc_html(nr.get('title', '') or '')

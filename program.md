@@ -43,7 +43,7 @@ permalink: /program/
 
 | Start | End | Item |
 |-------|-----|------|
-| 7:00 AM | 8:00 AM | **Registration — Breakfast and Exhibits** |
+| 7:00 AM | 8:00 AM | **Registration** |
 {: .program-note-table}
 
 | Start | End | Item |
@@ -67,19 +67,19 @@ permalink: /program/
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
-<tr><td></td><td>8:25 AM</td><td>9:10 AM</td><td><strong>Autonomous Robotic Surgery (Title TBA)</strong><br><em>Axel Krieger PhD, Johns Hopkins University, Baltimore, MD, United States</em></td></tr>
+<tr><td></td><td>8:25 AM</td><td>9:10 AM</td><td><strong>From MRI-Guided Biopsy to Autonomous Intervention: A Decade Toward Self-Driving Surgery</strong><br><em>Axel Krieger PhD, Johns Hopkins University, Baltimore, MD, United States</em><br><span class="keynote-bio">Axel Krieger, PhD, is Associate Professor and Carol Croft Linde Faculty Scholar in the Department of Mechanical Engineering at Johns Hopkins University, where he directs the IMERSE Lab. He earned his doctorate at Johns Hopkins, following undergraduate and master's degrees at the University of Karlsruhe in Germany. His research focuses on autonomous surgical robotics, including the Smart Tissue Autonomous Robot (STAR), which performed the first autonomous supervised laparoscopic anastomosis, and the hierarchical Surgical Robot Transformer (SRT-H), a learning-based framework for autonomous multi-phase surgery published in Science Robotics. Early in his career, he developed an MRI-guided prostate biopsy robot used in over 50 patient procedures, commercialized through Sentinelle Medical/Hologic. He is a recipient of the NSF CAREER Award and inventor of over thirty patents licensed to companies including Intuitive Surgical, Siemens, and Philips. He is also Co-Founder and Chief Robotics Officer of Inner Logic, a JHU spinout developing infrastructure for the next generation of procedural devices.</span></td></tr>
 </tbody>
 </table>
 
 <table class="program-session-table" id="day1-session-i-body-i">
 <caption>
 <span class="session-name">Session I — Body I</span>
-<span class="session-moderators">Moderators: Frank Wacker, Holden Wu</span>
+<span class="session-moderators">Moderators: Frank Wacker, MD (Hannover Medical School), Holden Wu, PhD (University of California Los Angels)</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
 <tr><td>O-1</td><td>9:10 AM</td><td>9:25 AM</td><td><strong>Invited Talk: A New Era of Body iMRI, Why Now?</strong><br><em>Frank Wacker MD, Hannover Medical School, Hannover, Germany</em></td></tr>
-<tr><td>O-2</td><td>9:25 AM</td><td>9:40 AM</td><td><strong>Invited Talk: (Title TBA)</strong><br><em>Erica Knavel Koepsel MD, University of Wisconsin, Madison, WI, United States</em></td></tr>
+<tr><td>O-2</td><td>9:25 AM</td><td>9:40 AM</td><td><strong>Invited Talk: Beyond the Bore: Key Strategies for Building an iMRI Program</strong><br><em>Erica Knavel Koepsel MD, University of Wisconsin, Madison, WI, United States</em></td></tr>
 <tr><td>O-3</td><td>9:40 AM</td><td>9:50 AM</td><td><strong>Precision Targeting of Small Liver Lesions Using MRI-Guided Freehand Biopsy: Outcomes and Safety</strong><br><em>Vanessa F. Schmidt, LMU University Hospital, Munich, Germany</em></td></tr>
 <tr><td>O-4</td><td>9:50 AM</td><td>10:00 AM</td><td><strong>MRI-Guided Hepatic Interventions Using Augmented Reality Optical Navigation: Initial Clinical Experience with the LUMENA System</strong><br><em>David Woodrum, Mayo Clinic, Rochester, MN, United States</em></td></tr>
 <tr><td>O-5</td><td>10:00 AM</td><td>10:10 AM</td><td><strong>Toward Personalized Planning of Liver Tumor Microwave Ablation Using Patient-Specific Modeling</strong><br><em>Nino Avetikovi, University of Bordeaux, Bordeaux, France</em></td></tr>
@@ -95,7 +95,7 @@ permalink: /program/
 <table class="program-session-table" id="day1-session-ii-body-ii">
 <caption>
 <span class="session-name">Session II — Body II</span>
-<span class="session-moderators">Moderators: Erica Knavel Koepsel, Kemal Tuncali</span>
+<span class="session-moderators">Moderators: Erica Knavel Koepsel, MD (University of Wisconsin School of Medicine and Public Health), Kemal Tuncali, MD (Brigham and Women's Hospital)</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
@@ -130,7 +130,7 @@ permalink: /program/
 <table class="program-session-table" id="day1-session-iv-technology-i">
 <caption>
 <span class="session-name">Session IV — Technology I</span>
-<span class="session-moderators">Moderators: Kevin Cleary, Axel Krieger</span>
+<span class="session-moderators">Moderators: Kevin Cleary, PhD (Children’s National Hospital), Axel Krieger, PhD (Johns Hopkins University)</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
@@ -145,7 +145,7 @@ permalink: /program/
 <table class="program-session-table" id="day1-session-v-cardiovascular">
 <caption>
 <span class="session-name">Session V — Cardiovascular</span>
-<span class="session-moderators">Moderators: Aimee Armstrong, Jayender Jagadeesan</span>
+<span class="session-moderators">Moderators: Aimee Armstrong, MD (Johns Hopkins University), Jayender Jagadeesan, PhD (Brigham and Women's Hospital)</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
@@ -165,7 +165,7 @@ permalink: /program/
 
 | Start | End | Item |
 |-------|-----|------|
-| 6:00 PM | 8:00 PM | **Reception**<br>*Networking and research discussion. Food and beverages provided.* |
+| 7:00 PM | 8:30 PM | **Reception**<br>*Networking and research discussion. Food and beverages provided.* |
 {: .program-note-table}
 
 <table class="program-day-table">
@@ -175,11 +175,11 @@ permalink: /program/
 <table class="program-session-table" id="day2-session-vi-pelvis-prostate-gyn-radonc">
 <caption>
 <span class="session-name">Session VI — Pelvis (Prostate, Gyn &amp; RadOnc)</span>
-<span class="session-moderators">Moderators: Jurgen Futterer, Pedro Moreira</span>
+<span class="session-moderators">Moderators: Jurgen Fütterer, MD (Radboudumc), Pedro Moreira, PhD (Brigham and Women's Hospital)</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
-<tr><td>O-23</td><td>8:15 AM</td><td>8:30 AM</td><td><strong>Invited Talk: Prostate Interventions — How I Do It</strong><br><em>Jurgen Futterer MD, Radboudumc, Nijmegen, Netherlands</em></td></tr>
+<tr><td>O-23</td><td>8:15 AM</td><td>8:30 AM</td><td><strong>Invited Talk: Prostate Interventions : How I Do It</strong><br><em>Jurgen Futterer MD, Radboudumc, Nijmegen, Netherlands</em></td></tr>
 <tr><td>O-24</td><td>8:30 AM</td><td>8:40 AM</td><td><strong>MRI-Guided In-Bore Percutaneous Transgluteal Prostate Biopsy at 0.55T</strong><br><em>Serdar Sagdic, University of Michigan, Ann Arbor, MI, United States</em></td></tr>
 <tr><td>O-25</td><td>8:40 AM</td><td>8:50 AM</td><td><strong>MRI-Guided Cryoablation for Primary and Salvage Prostate Cancer Treatment: Initial Patient Experience</strong><br><em>Lauren Marlatt, University of Wisconsin-Madison, Madison, WI, United States</em></td></tr>
 <tr><td>O-26</td><td>8:50 AM</td><td>9:00 AM</td><td><strong>Cost-Effective Needle Tract Verification Using Susceptibility-Weighted Imaging (SWI) in MR-Guided Prostate Biopsy</strong><br><em>Can Yüksel, University Hospital RWTH Aachen, Aachen, Germany</em></td></tr>
@@ -209,7 +209,7 @@ permalink: /program/
 <table class="program-session-table" id="day2-session-vii-neuro">
 <caption>
 <span class="session-name">Session VII — Neuro</span>
-<span class="session-moderators">Moderators: Peter LaViolette, G Rees Cosgrove</span>
+<span class="session-moderators">Moderators: Peter LaViolette, PhD (Medical College of Wisconsin), G Rees Cosgrove, MD (Brigham and Women's Hospital)</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
@@ -240,11 +240,11 @@ permalink: /program/
 <table class="program-session-table" id="day2-session-ix-focused-ultrasound-fus">
 <caption>
 <span class="session-name">Session IX — Focused Ultrasound (FUS)</span>
-<span class="session-moderators">Moderators: Nicholas Todd, Second Moderator TBD</span>
+<span class="session-moderators">Moderators: Nicholas Todd, PhD (Brigham and Women's Hospital), Allison Payne, PhD (University of Utah)</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
-<tr><td>O-40</td><td>1:20 PM</td><td>1:35 PM</td><td><strong>Invited Talk: MR-Guided Focused Ultrasound Blood-Brain Barrier Opening for Next-Generation Gene Therapy</strong><br><em>Nicholas Todd PhD, Brigham and Women's Hospital / Harvard Medical School, Boston, MA, United States</em></td></tr>
+<tr><td>O-40</td><td>1:20 PM</td><td>1:35 PM</td><td><strong>Invited Talk: MR-Guided Focused Ultrasound Blood-Brain Barrier Opening for Next-Generation Gene Therapy Delivery Paradigm</strong><br><em>Nicholas Todd PhD, Brigham and Women's Hospital / Harvard Medical School, Boston, MA, United States</em></td></tr>
 <tr><td>O-41</td><td>1:35 PM</td><td>1:45 PM</td><td><strong>MRI-Guided Transurethral Ultrasound Ablation (TULSA) vs Robotic Prostatectomy RCT: 6-Month Outcomes</strong><br><em>David Woodrum, Mayo Clinic, Rochester, MN, United States</em></td></tr>
 <tr><td>O-42</td><td>1:45 PM</td><td>1:55 PM</td><td><strong>Impact of Ablation Plan on PSA Response and Catheterization Duration After MRI-Guided TULSA in the CARE Registry</strong><br><em>David Sella, Mayo Clinic Florida, Jacksonville, FL, United States</em></td></tr>
 <tr><td>O-43</td><td>1:55 PM</td><td>2:05 PM</td><td><strong>Translational Assessment of a Rabbit-Model Trained MRgFUS Imaging Biomarker</strong><br><em>Amanpreet Singh, University of Utah, Salt Lake City, UT, United States</em></td></tr>
@@ -254,7 +254,7 @@ permalink: /program/
 <table class="program-session-table" id="day2-session-x-musculoskeletal">
 <caption>
 <span class="session-name">Session X — Musculoskeletal</span>
-<span class="session-moderators">Moderators: Jan Fritz, Jeffrey Guenette</span>
+<span class="session-moderators">Moderators: Clifford R. Weiss, MD (Johns Hopkins University), Jeffrey Guenette, MD, MPH (Brigham and Women's Hospital)</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
@@ -274,11 +274,11 @@ permalink: /program/
 <table class="program-session-table" id="day2-session-xi-technology-ii">
 <caption>
 <span class="session-name">Session XI — Technology II</span>
-<span class="session-moderators">Moderators: Aiming Lu, Mariana Bernardes</span>
+<span class="session-moderators">Moderators: Aiming Lu, PhD (Mayo Clinic), Mariana Bernardes, PhD (Brigham and Women's Hospital)</span>
 </caption>
 <thead><tr><th>#</th><th>Start</th><th>End</th><th>Presentation</th></tr></thead>
 <tbody>
-<tr><td>O-49</td><td>3:30 PM</td><td>3:45 PM</td><td><strong>Invited Talk: (Title TBA)</strong><br><em>Holden Wu PhD, University of California Los Angeles, Los Angeles, CA, United States</em></td></tr>
+<tr><td>O-49</td><td>3:30 PM</td><td>3:45 PM</td><td><strong>Invited Talk: Deep Learning-Based Needle Tracking Technologies for MRI-Guided Interventions</strong><br><em>Holden Wu PhD, University of California Los Angeles, Los Angeles, CA, United States</em></td></tr>
 <tr><td>O-50</td><td>3:45 PM</td><td>3:55 PM</td><td><strong>Tissue and Needle Tracking on Real-Time Interventional Liver MRI Using the SAM2++ Foundation Model</strong><br><em>Christina Kerr, University of California Los Angeles, Los Angeles, CA, United States</em></td></tr>
 <tr><td>O-51</td><td>3:55 PM</td><td>4:05 PM</td><td><strong>Unsupervised Conditional INR for Referenceless PRF Thermometry</strong><br><em>Chang-Sheng Mei, Soochow University, Taipei, Taiwan</em></td></tr>
 <tr><td>O-52</td><td>4:05 PM</td><td>4:15 PM</td><td><strong>MR Thermometry-Based Validation of Liver Tumor Microwave Ablation Computational Modeling for Lesion Size Prediction</strong><br><em>Nino Avetikovi, University of Bordeaux, Bordeaux, France</em></td></tr>
@@ -388,7 +388,7 @@ All 94 poster-assigned abstracts are presented in the area adjacent to the main 
 | P-51 | MR-Guided Ablation in Kaposiform Hemangioendothelioma | Hasan Usmani, Idaho College of Osteopathic Medicine, Meridian, ID, United States |
 | P-52 | MR guided cryoablation for treatment of painful large to medium slow-flow venous malformations in the plantar foot - a retrospective study | Ola Mohamed, Mayo Clinic, Rochester, MN, United States |
 | P-53 | Sequential MR-guided laser and cryoablation of a recurrent painful slow-flow venous malformation in a 6-year-old | Ola Mohamed, Mayo Clinic, Rochester, MN, United States |
-| P-54 | MRI-Guided Cryoablation for Recurrent Pediatric Hand Desmoid Tumor: A Longitudinal Case Report | Laurel Woodrum, Mayo Clinic, Rochester, MN, United States |
+| P-54 | MRI-Guided Cryoablation for Recurrent Pediatric Hand Desmoid Tumor: A Longitudinal Case Report | Laurel Woodrum, Des Moines University, Des Moines, IA, United States |
 | P-55 | MRI-Guided Cryoablation of a Bilateral Plantar Fibromatosis | Setayesh Sotoudehnia Korani, Mayo Clinic, Rochester, MN, United States |
 {: .program-poster-table}
 
