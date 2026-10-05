@@ -719,6 +719,17 @@ table {
   }
 }
 
+/* Program: download Book of Abstracts button */
+.program-download {
+  text-align: center;
+  margin-bottom: 25px;
+
+  .btn {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+}
+
 /* Program: table of contents */
 .program-toc {
   background: rgba($primary-color, 0.16);

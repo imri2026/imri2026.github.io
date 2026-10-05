@@ -47,6 +47,11 @@ TENTATIVE_NOTE = """\
   <p><strong>Please note:</strong> This is a tentative program. The times, speakers, and titles are subject to change.</p>
 </div>"""
 
+DOWNLOAD_BOA_BUTTON = """\
+<div class="program-download">
+<a href="/images/iMRI2026-Book-of-Abstracts.pdf" class="btn" download>Download Book of Abstracts (PDF)</a>
+</div>"""
+
 # ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
@@ -377,7 +382,7 @@ def generate(csv_path, md_path):
         body += render_poster_section(posters)
         toc_days.append(('Posters', [('Poster Session', POSTER_SESSION_SLUG)]))
 
-    out = [FRONT_MATTER, '', render_toc(toc_days), '', TENTATIVE_NOTE] + body
+    out = [FRONT_MATTER, '', DOWNLOAD_BOA_BUTTON, '', render_toc(toc_days), '', TENTATIVE_NOTE] + body
     out.append('')
 
     with open(md_path, 'w', encoding='utf-8') as f:

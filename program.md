@@ -4,6 +4,10 @@ title: Symposium Program
 permalink: /program/
 ---
 
+<div class="program-download">
+<a href="/images/iMRI2026-Book-of-Abstracts.pdf" class="btn" download>Download Book of Abstracts (PDF)</a>
+</div>
+
 <div class="program-toc">
 <div class="program-toc-title">Sessions Overview</div>
 <div class="program-toc-hint">(Click a session title to jump to the session details)</div>
@@ -43,7 +47,7 @@ permalink: /program/
 
 | Start | End | Item |
 |-------|-----|------|
-| 7:00 AM | 8:00 AM | **Registration** |
+| 7:30 AM | 8:00 AM | **Registration** |
 {: .program-note-table}
 
 | Start | End | Item |
