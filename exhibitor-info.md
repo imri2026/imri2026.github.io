@@ -25,7 +25,7 @@ Following is the *tentative* timetable for the event, including coffee/lunch bre
 | Date | Time | Activity |
 |------|------|----------|
 | 10/6/2026 | | Start accepting delivery |
-| 10/7/2026 | TBD | Pre-event preparation period |
+| 10/7/2026 | 6:00pm-midnight | Pre-event preparation period |
 | 10/8/2026 | 8:00 am - 9:00 am   | Day 1 Setup |
 | 10/8/2026 | 10:20 am - 10:50 am | The First Coffee Break |
 | 10/8/2026 | 11:45 am - 1:00 pm  | Lunch Break |
