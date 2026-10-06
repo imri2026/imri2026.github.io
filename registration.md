@@ -4,6 +4,12 @@ title: Registration
 permalink: /registration/
 ---
 
+<div class="scam-alert" role="alert">
+  <h2>⚠️ Registration Is Closed</h2>
+  <p>Registration for the 15th iMRI Symposium is now <strong>closed due to venue capacity</strong>. We are no longer able to accept new registrations.</p>
+  <p>If you are a <strong>presenting author</strong> and have not yet registered, please contact us at <a href="mailto:info@imri2026.org">info@imri2026.org</a>.</p>
+</div>
+
 ## Registration Fees
 
 | Registration Type          | Early Bird (until {{ site.conference.early_bird_deadline }}) | Standard (After {{ site.conference.early_bird_deadline }} and before {{ site.conference.registration_deadline }})| Late (After {{ site.conference.registration_deadline }}) |
@@ -23,7 +29,9 @@ permalink: /registration/
 
 ## Registration Steps
 
-1. Complete the online registration form. (The registration site will be open in 2026)
+Registration is now closed; the steps below applied while registration was open.
+
+1. Complete the online registration form.
 2. Receive confirmation email with details
 3. For international participants: Check if you need a visa for the country and apply early
 
@@ -45,14 +53,5 @@ To qualify for the student/resident/fellow rate, you must have a full-time posit
 
 ## Registration
 
-You will jump to an external registration website hosted by Mass General Brigham.
-
-A special room rate will be available for registered attendees. We will communicate the details directly to those who register. Please note that the availability of rooms with the special rate is limited.
-
-
-<p style="color: #c0392b;"><strong>For Mass General Brigham (MGB) members:</strong> Please use your MGB account to sign in to the registration site.</p>
-
-<div class="hero-buttons">
-<a href="https://cpd.partners.org/content/15th-interventional-mri-symposium#group-tabs-node-course-default6" class="btn">Go to Registration</a>
-</div>
+Registration is now closed.
 
