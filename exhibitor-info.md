@@ -78,6 +78,7 @@ All promotional activities will be located on the 4th and 5th floors. In additio
 | B6    | Exhibitor | NordicNeuroLab Inc             |
 | B7    | Exhibitor | Clear Guide Medical            |
 | B8    | Exhibitor | Devin Medical Technology       |
+| B9    | Exhibitor | Diacore                        |
 
 
 </div>
