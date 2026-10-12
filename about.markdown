@@ -32,6 +32,7 @@ Professor of Health Policy and Management, Rollins School of Public Health, Atla
 
 - **Mariana Bernardes, PhD**, Instructor in Radiology, Harvard Medical School, Brigham and Women's Hospital, Boston, Massachusetts, United States
 - **Pedro Moreira, PhD**, Instructor in Radiology, Harvard Medical School, Brigham and Women's Hospital, Boston, Massachusetts, United States
+- **Franklin King, MS**, Brigham and Women's Hospital, Boston, Massachusetts, United States
 
 ## Organizing Committee
 - **Clifford R. Weiss, MD**, Professor of Radiology, Radiological Science and Biomedical Engineering, Division of Interventional Radiology, Johns Hopkins School of Medicine, Baltimore, Maryland, United States

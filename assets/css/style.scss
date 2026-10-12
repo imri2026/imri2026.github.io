@@ -499,6 +499,52 @@ a {
   }
 }
 
+.conclusion-banner {
+  background: linear-gradient(135deg, rgba($primary-color, 0.07), rgba($accent-color, 0.1));
+  border: 1px solid rgba($secondary-color, 0.15);
+  border-left: 6px solid $accent-color;
+  border-radius: 10px;
+  padding: 28px 32px;
+  margin-bottom: 25px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+  text-align: center;
+
+  h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    color: $secondary-color;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 12px;
+    letter-spacing: 0.3px;
+
+    &:before {
+      content: '\2713';
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 32px;
+      height: 32px;
+      flex-shrink: 0;
+      border-radius: 50%;
+      background: $accent-color;
+      color: white;
+      font-size: 18px;
+      font-weight: 700;
+    }
+  }
+
+  p {
+    color: $dark-color;
+    margin: 0 auto;
+    max-width: 640px;
+    font-size: 17px;
+  }
+}
+
 .important-dates {
   background: white;
   padding: 0 30px;
