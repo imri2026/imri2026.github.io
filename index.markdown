@@ -26,7 +26,11 @@ title: 15th Interventional MRI Symposium
     <div class="conclusion-banner" role="status">
       <h2>Thank You for Your Support and Participation</h2>
       <p>
-      This event has successfully concluded. The next Interventional MRI Symposium will be held on October 26–27, 2028, in Leipzig, Germany.
+      This event has successfully concluded. The next Interventional MRI Symposium will be held on October 26–27, 2028, in Leipzig,   Germany.
+      <div class="hero-buttons">
+        <a href="https://imri2028.org/" class="btn">Go to the 16th Interventional MRI Symposium Website</a>
+      </div>
+
       </p>
     </div>
 
